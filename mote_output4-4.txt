@@ -1,0 +1,1013 @@
+00:00.335	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.344	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.353	ID:8	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.364	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.366	ID:8	Starting 'UDP client process'
+00:00.368	ID:8	Client process started
+00:00.453	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+00:00.463	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 11.
+00:00.472	ID:11	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.482	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+00:00.484	ID:11	Starting 'UDP client process'
+00:00.486	ID:11	Client process started
+00:00.498	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.508	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.513	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.517	ID:2	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.522	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.527	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.529	ID:2	Starting 'UDP client process'
+00:00.531	ID:2	Client process started
+00:00.531	ID:6	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.542	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.544	ID:6	Starting 'UDP client process'
+00:00.545	ID:6	Client process started
+00:00.610	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.620	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.629	ID:4	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.639	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.642	ID:4	Starting 'UDP client process'
+00:00.643	ID:4	Client process started
+00:00.645	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.655	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.664	ID:1	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.664	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.673	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.674	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.676	ID:1	Starting 'UDP server process'
+00:00.679	ID:1	Server listening on port 5678
+00:00.682	ID:7	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.693	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.695	ID:7	Starting 'UDP client process'
+00:00.697	ID:7	Client process started
+00:00.819	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.829	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
+00:00.838	ID:10	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.848	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.850	ID:10	Starting 'UDP client process'
+00:00.852	ID:10	Client process started
+00:00.857	ID:12	Rime started with address 0.18.116.12.0.12.12.12
+00:00.866	ID:12	MAC 00:12:74:0c:00:0c:0c:0c Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 12.
+00:00.875	ID:12	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.886	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740c:000c:0c0c
+00:00.888	ID:12	Starting 'Black Hole Node'
+00:00.892	ID:12	Blackhole node started. Will join DAG and drop packets.
+00:00.971	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.977	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.980	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.987	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.989	ID:9	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.996	ID:5	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.000	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.002	ID:9	Starting 'UDP client process'
+00:01.003	ID:9	Client process started
+00:01.006	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.008	ID:5	Starting 'UDP client process'
+00:01.010	ID:5	Client process started
+00:01.161	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.171	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.180	ID:3	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.190	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.193	ID:3	Starting 'UDP client process'
+00:01.194	ID:3	Client process started
+00:05.369	ID:8	Client sending: Packet 1
+00:05.372	ID:8	Total packets sent by this node: 1
+00:05.486	ID:11	Client sending: Packet 1
+00:05.489	ID:11	Total packets sent by this node: 1
+00:05.532	ID:2	Client sending: Packet 1
+00:05.535	ID:2	Total packets sent by this node: 1
+00:05.547	ID:6	Client sending: Packet 1
+00:05.549	ID:6	Total packets sent by this node: 1
+00:05.644	ID:4	Client sending: Packet 1
+00:05.648	ID:4	Total packets sent by this node: 1
+00:05.698	ID:7	Client sending: Packet 1
+00:05.701	ID:7	Total packets sent by this node: 1
+00:05.852	ID:10	Client sending: Packet 1
+00:05.856	ID:10	Total packets sent by this node: 1
+00:06.004	ID:9	Client sending: Packet 1
+00:06.008	ID:9	Total packets sent by this node: 1
+00:06.011	ID:5	Client sending: Packet 1
+00:06.014	ID:5	Total packets sent by this node: 1
+00:06.195	ID:3	Client sending: Packet 1
+00:06.199	ID:3	Total packets sent by this node: 1
+00:10.369	ID:8	Client sending: Packet 2
+00:10.372	ID:8	Total packets sent by this node: 2
+00:10.486	ID:11	Client sending: Packet 2
+00:10.489	ID:11	Total packets sent by this node: 2
+00:10.532	ID:2	Client sending: Packet 2
+00:10.535	ID:2	Total packets sent by this node: 2
+00:10.547	ID:6	Client sending: Packet 2
+00:10.549	ID:6	Total packets sent by this node: 2
+00:10.644	ID:4	Client sending: Packet 2
+00:10.648	ID:4	Total packets sent by this node: 2
+00:10.698	ID:7	Client sending: Packet 2
+00:10.701	ID:7	Total packets sent by this node: 2
+00:10.852	ID:10	Client sending: Packet 2
+00:10.856	ID:10	Total packets sent by this node: 2
+00:11.004	ID:9	Client sending: Packet 2
+00:11.008	ID:9	Total packets sent by this node: 2
+00:11.011	ID:5	Client sending: Packet 2
+00:11.014	ID:5	Total packets sent by this node: 2
+00:11.195	ID:3	Client sending: Packet 2
+00:11.199	ID:3	Total packets sent by this node: 2
+00:15.369	ID:8	Client sending: Packet 3
+00:15.372	ID:8	Total packets sent by this node: 3
+00:15.486	ID:11	Client sending: Packet 3
+00:15.490	ID:11	Total packets sent by this node: 3
+00:15.532	ID:2	Client sending: Packet 3
+00:15.536	ID:2	Total packets sent by this node: 3
+00:15.547	ID:6	Client sending: Packet 3
+00:15.549	ID:6	Total packets sent by this node: 3
+00:15.644	ID:4	Client sending: Packet 3
+00:15.648	ID:4	Total packets sent by this node: 3
+00:15.698	ID:7	Client sending: Packet 3
+00:15.701	ID:7	Total packets sent by this node: 3
+00:15.852	ID:10	Client sending: Packet 3
+00:15.856	ID:10	Total packets sent by this node: 3
+00:16.004	ID:9	Client sending: Packet 3
+00:16.008	ID:9	Total packets sent by this node: 3
+00:16.011	ID:5	Client sending: Packet 3
+00:16.015	ID:5	Total packets sent by this node: 3
+00:16.195	ID:3	Client sending: Packet 3
+00:16.199	ID:3	Total packets sent by this node: 3
+00:20.369	ID:8	Client sending: Packet 4
+00:20.372	ID:8	Total packets sent by this node: 4
+00:20.486	ID:11	Client sending: Packet 4
+00:20.490	ID:11	Total packets sent by this node: 4
+00:20.532	ID:2	Client sending: Packet 4
+00:20.536	ID:2	Total packets sent by this node: 4
+00:20.547	ID:6	Client sending: Packet 4
+00:20.550	ID:6	Total packets sent by this node: 4
+00:20.644	ID:4	Client sending: Packet 4
+00:20.648	ID:4	Total packets sent by this node: 4
+00:20.698	ID:7	Client sending: Packet 4
+00:20.701	ID:7	Total packets sent by this node: 4
+00:20.852	ID:10	Client sending: Packet 4
+00:20.856	ID:10	Total packets sent by this node: 4
+00:21.004	ID:9	Client sending: Packet 4
+00:21.008	ID:9	Total packets sent by this node: 4
+00:21.011	ID:5	Client sending: Packet 4
+00:21.015	ID:5	Total packets sent by this node: 4
+00:21.195	ID:3	Client sending: Packet 4
+00:21.199	ID:3	Total packets sent by this node: 4
+00:25.369	ID:8	Client sending: Packet 5
+00:25.372	ID:8	Total packets sent by this node: 5
+00:25.486	ID:11	Client sending: Packet 5
+00:25.490	ID:11	Total packets sent by this node: 5
+00:25.532	ID:2	Client sending: Packet 5
+00:25.536	ID:2	Total packets sent by this node: 5
+00:25.547	ID:6	Client sending: Packet 5
+00:25.550	ID:6	Total packets sent by this node: 5
+00:25.644	ID:4	Client sending: Packet 5
+00:25.648	ID:4	Total packets sent by this node: 5
+00:25.698	ID:7	Client sending: Packet 5
+00:25.701	ID:7	Total packets sent by this node: 5
+00:25.852	ID:10	Client sending: Packet 5
+00:25.856	ID:10	Total packets sent by this node: 5
+00:26.004	ID:9	Client sending: Packet 5
+00:26.008	ID:9	Total packets sent by this node: 5
+00:26.011	ID:5	Client sending: Packet 5
+00:26.015	ID:5	Total packets sent by this node: 5
+00:26.195	ID:3	Client sending: Packet 5
+00:26.199	ID:3	Total packets sent by this node: 5
+00:30.369	ID:8	Client sending: Packet 6
+00:30.372	ID:8	Total packets sent by this node: 6
+00:30.486	ID:11	Client sending: Packet 6
+00:30.490	ID:11	Total packets sent by this node: 6
+00:30.532	ID:2	Client sending: Packet 6
+00:30.536	ID:2	Total packets sent by this node: 6
+00:30.547	ID:6	Client sending: Packet 6
+00:30.550	ID:6	Total packets sent by this node: 6
+00:30.644	ID:4	Client sending: Packet 6
+00:30.648	ID:4	Total packets sent by this node: 6
+00:30.698	ID:7	Client sending: Packet 6
+00:30.701	ID:7	Total packets sent by this node: 6
+00:30.852	ID:10	Client sending: Packet 6
+00:30.856	ID:10	Total packets sent by this node: 6
+00:30.892	ID:12	Blackhole: Could not set fake rank (DAG not joined)
+00:31.004	ID:9	Client sending: Packet 6
+00:31.008	ID:9	Total packets sent by this node: 6
+00:31.011	ID:5	Client sending: Packet 6
+00:31.015	ID:5	Total packets sent by this node: 6
+00:31.195	ID:3	Client sending: Packet 6
+00:31.199	ID:3	Total packets sent by this node: 6
+00:35.369	ID:8	Client sending: Packet 7
+00:35.372	ID:8	Total packets sent by this node: 7
+00:35.486	ID:11	Client sending: Packet 7
+00:35.490	ID:11	Total packets sent by this node: 7
+00:35.532	ID:2	Client sending: Packet 7
+00:35.536	ID:2	Total packets sent by this node: 7
+00:35.547	ID:6	Client sending: Packet 7
+00:35.550	ID:6	Total packets sent by this node: 7
+00:35.644	ID:4	Client sending: Packet 7
+00:35.648	ID:4	Total packets sent by this node: 7
+00:35.698	ID:7	Client sending: Packet 7
+00:35.701	ID:7	Total packets sent by this node: 7
+00:35.852	ID:10	Client sending: Packet 7
+00:35.856	ID:10	Total packets sent by this node: 7
+00:36.004	ID:9	Client sending: Packet 7
+00:36.008	ID:9	Total packets sent by this node: 7
+00:36.011	ID:5	Client sending: Packet 7
+00:36.015	ID:5	Total packets sent by this node: 7
+00:36.195	ID:3	Client sending: Packet 7
+00:36.199	ID:3	Total packets sent by this node: 7
+00:40.369	ID:8	Client sending: Packet 8
+00:40.372	ID:8	Total packets sent by this node: 8
+00:40.486	ID:11	Client sending: Packet 8
+00:40.490	ID:11	Total packets sent by this node: 8
+00:40.532	ID:2	Client sending: Packet 8
+00:40.536	ID:2	Total packets sent by this node: 8
+00:40.547	ID:6	Client sending: Packet 8
+00:40.550	ID:6	Total packets sent by this node: 8
+00:40.644	ID:4	Client sending: Packet 8
+00:40.648	ID:4	Total packets sent by this node: 8
+00:40.698	ID:7	Client sending: Packet 8
+00:40.701	ID:7	Total packets sent by this node: 8
+00:40.852	ID:10	Client sending: Packet 8
+00:40.856	ID:10	Total packets sent by this node: 8
+00:41.004	ID:9	Client sending: Packet 8
+00:41.008	ID:9	Total packets sent by this node: 8
+00:41.011	ID:5	Client sending: Packet 8
+00:41.015	ID:5	Total packets sent by this node: 8
+00:41.195	ID:3	Client sending: Packet 8
+00:41.199	ID:3	Total packets sent by this node: 8
+00:45.369	ID:8	Client sending: Packet 9
+00:45.372	ID:8	Total packets sent by this node: 9
+00:45.486	ID:11	Client sending: Packet 9
+00:45.490	ID:11	Total packets sent by this node: 9
+00:45.532	ID:2	Client sending: Packet 9
+00:45.536	ID:2	Total packets sent by this node: 9
+00:45.547	ID:6	Client sending: Packet 9
+00:45.550	ID:6	Total packets sent by this node: 9
+00:45.644	ID:4	Client sending: Packet 9
+00:45.648	ID:4	Total packets sent by this node: 9
+00:45.698	ID:7	Client sending: Packet 9
+00:45.701	ID:7	Total packets sent by this node: 9
+00:45.852	ID:10	Client sending: Packet 9
+00:45.856	ID:10	Total packets sent by this node: 9
+00:46.004	ID:9	Client sending: Packet 9
+00:46.008	ID:9	Total packets sent by this node: 9
+00:46.011	ID:5	Client sending: Packet 9
+00:46.015	ID:5	Total packets sent by this node: 9
+00:46.195	ID:3	Client sending: Packet 9
+00:46.199	ID:3	Total packets sent by this node: 9
+00:50.369	ID:8	Client sending: Packet 10
+00:50.372	ID:8	Total packets sent by this node: 10
+00:50.486	ID:11	Client sending: Packet 10
+00:50.490	ID:11	Total packets sent by this node: 10
+00:50.532	ID:2	Client sending: Packet 10
+00:50.536	ID:2	Total packets sent by this node: 10
+00:50.547	ID:6	Client sending: Packet 10
+00:50.550	ID:6	Total packets sent by this node: 10
+00:50.644	ID:4	Client sending: Packet 10
+00:50.648	ID:4	Total packets sent by this node: 10
+00:50.698	ID:7	Client sending: Packet 10
+00:50.701	ID:7	Total packets sent by this node: 10
+00:50.853	ID:10	Client sending: Packet 10
+00:50.856	ID:10	Total packets sent by this node: 10
+00:51.005	ID:9	Client sending: Packet 10
+00:51.008	ID:9	Total packets sent by this node: 10
+00:51.011	ID:5	Client sending: Packet 10
+00:51.015	ID:5	Total packets sent by this node: 10
+00:51.195	ID:3	Client sending: Packet 10
+00:51.200	ID:3	Total packets sent by this node: 10
+00:55.369	ID:8	Client sending: Packet 11
+00:55.372	ID:8	Total packets sent by this node: 11
+00:55.486	ID:11	Client sending: Packet 11
+00:55.490	ID:11	Total packets sent by this node: 11
+00:55.532	ID:2	Client sending: Packet 11
+00:55.536	ID:2	Total packets sent by this node: 11
+00:55.547	ID:6	Client sending: Packet 11
+00:55.550	ID:6	Total packets sent by this node: 11
+00:55.644	ID:4	Client sending: Packet 11
+00:55.648	ID:4	Total packets sent by this node: 11
+00:55.698	ID:7	Client sending: Packet 11
+00:55.701	ID:7	Total packets sent by this node: 11
+00:55.853	ID:10	Client sending: Packet 11
+00:55.856	ID:10	Total packets sent by this node: 11
+00:56.005	ID:9	Client sending: Packet 11
+00:56.008	ID:9	Total packets sent by this node: 11
+00:56.011	ID:5	Client sending: Packet 11
+00:56.015	ID:5	Total packets sent by this node: 11
+00:56.195	ID:3	Client sending: Packet 11
+00:56.200	ID:3	Total packets sent by this node: 11
+01:00.369	ID:8	Client sending: Packet 12
+01:00.372	ID:8	Total packets sent by this node: 12
+01:00.486	ID:11	Client sending: Packet 12
+01:00.490	ID:11	Total packets sent by this node: 12
+01:00.532	ID:2	Client sending: Packet 12
+01:00.536	ID:2	Total packets sent by this node: 12
+01:00.547	ID:6	Client sending: Packet 12
+01:00.550	ID:6	Total packets sent by this node: 12
+01:00.644	ID:4	Client sending: Packet 12
+01:00.648	ID:4	Total packets sent by this node: 12
+01:00.698	ID:7	Client sending: Packet 12
+01:00.701	ID:7	Total packets sent by this node: 12
+01:00.853	ID:10	Client sending: Packet 12
+01:00.856	ID:10	Total packets sent by this node: 12
+01:01.005	ID:9	Client sending: Packet 12
+01:01.008	ID:9	Total packets sent by this node: 12
+01:01.011	ID:5	Client sending: Packet 12
+01:01.015	ID:5	Total packets sent by this node: 12
+01:01.195	ID:3	Client sending: Packet 12
+01:01.200	ID:3	Total packets sent by this node: 12
+01:05.369	ID:8	Client sending: Packet 13
+01:05.372	ID:8	Total packets sent by this node: 13
+01:05.486	ID:11	Client sending: Packet 13
+01:05.490	ID:11	Total packets sent by this node: 13
+01:05.532	ID:2	Client sending: Packet 13
+01:05.536	ID:2	Total packets sent by this node: 13
+01:05.547	ID:6	Client sending: Packet 13
+01:05.550	ID:6	Total packets sent by this node: 13
+01:05.644	ID:4	Client sending: Packet 13
+01:05.648	ID:4	Total packets sent by this node: 13
+01:05.698	ID:7	Client sending: Packet 13
+01:05.701	ID:7	Total packets sent by this node: 13
+01:05.853	ID:10	Client sending: Packet 13
+01:05.856	ID:10	Total packets sent by this node: 13
+01:06.005	ID:9	Client sending: Packet 13
+01:06.008	ID:9	Total packets sent by this node: 13
+01:06.011	ID:5	Client sending: Packet 13
+01:06.015	ID:5	Total packets sent by this node: 13
+01:06.195	ID:3	Client sending: Packet 13
+01:06.200	ID:3	Total packets sent by this node: 13
+01:10.369	ID:8	Client sending: Packet 14
+01:10.372	ID:8	Total packets sent by this node: 14
+01:10.486	ID:11	Client sending: Packet 14
+01:10.490	ID:11	Total packets sent by this node: 14
+01:10.532	ID:2	Client sending: Packet 14
+01:10.536	ID:2	Total packets sent by this node: 14
+01:10.547	ID:6	Client sending: Packet 14
+01:10.550	ID:6	Total packets sent by this node: 14
+01:10.644	ID:4	Client sending: Packet 14
+01:10.648	ID:4	Total packets sent by this node: 14
+01:10.698	ID:7	Client sending: Packet 14
+01:10.701	ID:7	Total packets sent by this node: 14
+01:10.853	ID:10	Client sending: Packet 14
+01:10.856	ID:10	Total packets sent by this node: 14
+01:11.005	ID:9	Client sending: Packet 14
+01:11.008	ID:9	Total packets sent by this node: 14
+01:11.011	ID:5	Client sending: Packet 14
+01:11.015	ID:5	Total packets sent by this node: 14
+01:11.195	ID:3	Client sending: Packet 14
+01:11.200	ID:3	Total packets sent by this node: 14
+01:15.369	ID:8	Client sending: Packet 15
+01:15.372	ID:8	Total packets sent by this node: 15
+01:15.486	ID:11	Client sending: Packet 15
+01:15.490	ID:11	Total packets sent by this node: 15
+01:15.532	ID:2	Client sending: Packet 15
+01:15.536	ID:2	Total packets sent by this node: 15
+01:15.547	ID:6	Client sending: Packet 15
+01:15.550	ID:6	Total packets sent by this node: 15
+01:15.644	ID:4	Client sending: Packet 15
+01:15.648	ID:4	Total packets sent by this node: 15
+01:15.698	ID:7	Client sending: Packet 15
+01:15.701	ID:7	Total packets sent by this node: 15
+01:15.853	ID:10	Client sending: Packet 15
+01:15.856	ID:10	Total packets sent by this node: 15
+01:16.005	ID:9	Client sending: Packet 15
+01:16.008	ID:9	Total packets sent by this node: 15
+01:16.011	ID:5	Client sending: Packet 15
+01:16.015	ID:5	Total packets sent by this node: 15
+01:16.195	ID:3	Client sending: Packet 15
+01:16.200	ID:3	Total packets sent by this node: 15
+01:20.369	ID:8	Client sending: Packet 16
+01:20.372	ID:8	Total packets sent by this node: 16
+01:20.486	ID:11	Client sending: Packet 16
+01:20.490	ID:11	Total packets sent by this node: 16
+01:20.532	ID:2	Client sending: Packet 16
+01:20.536	ID:2	Total packets sent by this node: 16
+01:20.547	ID:6	Client sending: Packet 16
+01:20.550	ID:6	Total packets sent by this node: 16
+01:20.644	ID:4	Client sending: Packet 16
+01:20.648	ID:4	Total packets sent by this node: 16
+01:20.698	ID:7	Client sending: Packet 16
+01:20.701	ID:7	Total packets sent by this node: 16
+01:20.853	ID:10	Client sending: Packet 16
+01:20.856	ID:10	Total packets sent by this node: 16
+01:21.005	ID:9	Client sending: Packet 16
+01:21.008	ID:9	Total packets sent by this node: 16
+01:21.011	ID:5	Client sending: Packet 16
+01:21.015	ID:5	Total packets sent by this node: 16
+01:21.195	ID:3	Client sending: Packet 16
+01:21.200	ID:3	Total packets sent by this node: 16
+01:25.369	ID:8	Client sending: Packet 17
+01:25.372	ID:8	Total packets sent by this node: 17
+01:25.486	ID:11	Client sending: Packet 17
+01:25.490	ID:11	Total packets sent by this node: 17
+01:25.532	ID:2	Client sending: Packet 17
+01:25.536	ID:2	Total packets sent by this node: 17
+01:25.547	ID:6	Client sending: Packet 17
+01:25.550	ID:6	Total packets sent by this node: 17
+01:25.644	ID:4	Client sending: Packet 17
+01:25.648	ID:4	Total packets sent by this node: 17
+01:25.698	ID:7	Client sending: Packet 17
+01:25.701	ID:7	Total packets sent by this node: 17
+01:25.853	ID:10	Client sending: Packet 17
+01:25.856	ID:10	Total packets sent by this node: 17
+01:26.005	ID:9	Client sending: Packet 17
+01:26.008	ID:9	Total packets sent by this node: 17
+01:26.011	ID:5	Client sending: Packet 17
+01:26.015	ID:5	Total packets sent by this node: 17
+01:26.195	ID:3	Client sending: Packet 17
+01:26.200	ID:3	Total packets sent by this node: 17
+01:30.369	ID:8	Client sending: Packet 18
+01:30.372	ID:8	Total packets sent by this node: 18
+01:30.486	ID:11	Client sending: Packet 18
+01:30.490	ID:11	Total packets sent by this node: 18
+01:30.532	ID:2	Client sending: Packet 18
+01:30.536	ID:2	Total packets sent by this node: 18
+01:30.547	ID:6	Client sending: Packet 18
+01:30.550	ID:6	Total packets sent by this node: 18
+01:30.644	ID:4	Client sending: Packet 18
+01:30.648	ID:4	Total packets sent by this node: 18
+01:30.698	ID:7	Client sending: Packet 18
+01:30.701	ID:7	Total packets sent by this node: 18
+01:30.853	ID:10	Client sending: Packet 18
+01:30.856	ID:10	Total packets sent by this node: 18
+01:31.005	ID:9	Client sending: Packet 18
+01:31.008	ID:9	Total packets sent by this node: 18
+01:31.011	ID:5	Client sending: Packet 18
+01:31.015	ID:5	Total packets sent by this node: 18
+01:31.195	ID:3	Client sending: Packet 18
+01:31.200	ID:3	Total packets sent by this node: 18
+01:35.369	ID:8	Client sending: Packet 19
+01:35.372	ID:8	Total packets sent by this node: 19
+01:35.486	ID:11	Client sending: Packet 19
+01:35.490	ID:11	Total packets sent by this node: 19
+01:35.532	ID:2	Client sending: Packet 19
+01:35.536	ID:2	Total packets sent by this node: 19
+01:35.547	ID:6	Client sending: Packet 19
+01:35.550	ID:6	Total packets sent by this node: 19
+01:35.644	ID:4	Client sending: Packet 19
+01:35.648	ID:4	Total packets sent by this node: 19
+01:35.698	ID:7	Client sending: Packet 19
+01:35.701	ID:7	Total packets sent by this node: 19
+01:35.853	ID:10	Client sending: Packet 19
+01:35.856	ID:10	Total packets sent by this node: 19
+01:36.005	ID:9	Client sending: Packet 19
+01:36.008	ID:9	Total packets sent by this node: 19
+01:36.011	ID:5	Client sending: Packet 19
+01:36.015	ID:5	Total packets sent by this node: 19
+01:36.195	ID:3	Client sending: Packet 19
+01:36.200	ID:3	Total packets sent by this node: 19
+01:40.369	ID:8	Client sending: Packet 20
+01:40.372	ID:8	Total packets sent by this node: 20
+01:40.486	ID:11	Client sending: Packet 20
+01:40.490	ID:11	Total packets sent by this node: 20
+01:40.532	ID:2	Client sending: Packet 20
+01:40.536	ID:2	Total packets sent by this node: 20
+01:40.547	ID:6	Client sending: Packet 20
+01:40.550	ID:6	Total packets sent by this node: 20
+01:40.644	ID:4	Client sending: Packet 20
+01:40.648	ID:4	Total packets sent by this node: 20
+01:40.698	ID:7	Client sending: Packet 20
+01:40.701	ID:7	Total packets sent by this node: 20
+01:40.853	ID:10	Client sending: Packet 20
+01:40.856	ID:10	Total packets sent by this node: 20
+01:41.005	ID:9	Client sending: Packet 20
+01:41.008	ID:9	Total packets sent by this node: 20
+01:41.011	ID:5	Client sending: Packet 20
+01:41.015	ID:5	Total packets sent by this node: 20
+01:41.195	ID:3	Client sending: Packet 20
+01:41.200	ID:3	Total packets sent by this node: 20
+01:45.369	ID:8	Client sending: Packet 21
+01:45.372	ID:8	Total packets sent by this node: 21
+01:45.486	ID:11	Client sending: Packet 21
+01:45.490	ID:11	Total packets sent by this node: 21
+01:45.532	ID:2	Client sending: Packet 21
+01:45.536	ID:2	Total packets sent by this node: 21
+01:45.547	ID:6	Client sending: Packet 21
+01:45.550	ID:6	Total packets sent by this node: 21
+01:45.644	ID:4	Client sending: Packet 21
+01:45.648	ID:4	Total packets sent by this node: 21
+01:45.698	ID:7	Client sending: Packet 21
+01:45.701	ID:7	Total packets sent by this node: 21
+01:45.853	ID:10	Client sending: Packet 21
+01:45.856	ID:10	Total packets sent by this node: 21
+01:46.005	ID:9	Client sending: Packet 21
+01:46.008	ID:9	Total packets sent by this node: 21
+01:46.011	ID:5	Client sending: Packet 21
+01:46.015	ID:5	Total packets sent by this node: 21
+01:46.195	ID:3	Client sending: Packet 21
+01:46.200	ID:3	Total packets sent by this node: 21
+01:50.369	ID:8	Client sending: Packet 22
+01:50.372	ID:8	Total packets sent by this node: 22
+01:50.486	ID:11	Client sending: Packet 22
+01:50.490	ID:11	Total packets sent by this node: 22
+01:50.532	ID:2	Client sending: Packet 22
+01:50.536	ID:2	Total packets sent by this node: 22
+01:50.547	ID:6	Client sending: Packet 22
+01:50.550	ID:6	Total packets sent by this node: 22
+01:50.644	ID:4	Client sending: Packet 22
+01:50.648	ID:4	Total packets sent by this node: 22
+01:50.698	ID:7	Client sending: Packet 22
+01:50.701	ID:7	Total packets sent by this node: 22
+01:50.853	ID:10	Client sending: Packet 22
+01:50.856	ID:10	Total packets sent by this node: 22
+01:51.005	ID:9	Client sending: Packet 22
+01:51.008	ID:9	Total packets sent by this node: 22
+01:51.011	ID:5	Client sending: Packet 22
+01:51.015	ID:5	Total packets sent by this node: 22
+01:51.195	ID:3	Client sending: Packet 22
+01:51.200	ID:3	Total packets sent by this node: 22
+01:55.369	ID:8	Client sending: Packet 23
+01:55.372	ID:8	Total packets sent by this node: 23
+01:55.486	ID:11	Client sending: Packet 23
+01:55.490	ID:11	Total packets sent by this node: 23
+01:55.532	ID:2	Client sending: Packet 23
+01:55.536	ID:2	Total packets sent by this node: 23
+01:55.547	ID:6	Client sending: Packet 23
+01:55.550	ID:6	Total packets sent by this node: 23
+01:55.644	ID:4	Client sending: Packet 23
+01:55.648	ID:4	Total packets sent by this node: 23
+01:55.698	ID:7	Client sending: Packet 23
+01:55.701	ID:7	Total packets sent by this node: 23
+01:55.853	ID:10	Client sending: Packet 23
+01:55.856	ID:10	Total packets sent by this node: 23
+01:56.005	ID:9	Client sending: Packet 23
+01:56.008	ID:9	Total packets sent by this node: 23
+01:56.011	ID:5	Client sending: Packet 23
+01:56.015	ID:5	Total packets sent by this node: 23
+01:56.195	ID:3	Client sending: Packet 23
+01:56.200	ID:3	Total packets sent by this node: 23
+02:00.369	ID:8	Client sending: Packet 24
+02:00.372	ID:8	Total packets sent by this node: 24
+02:00.486	ID:11	Client sending: Packet 24
+02:00.490	ID:11	Total packets sent by this node: 24
+02:00.532	ID:2	Client sending: Packet 24
+02:00.536	ID:2	Total packets sent by this node: 24
+02:00.547	ID:6	Client sending: Packet 24
+02:00.550	ID:6	Total packets sent by this node: 24
+02:00.644	ID:4	Client sending: Packet 24
+02:00.648	ID:4	Total packets sent by this node: 24
+02:00.698	ID:7	Client sending: Packet 24
+02:00.701	ID:7	Total packets sent by this node: 24
+02:00.853	ID:10	Client sending: Packet 24
+02:00.856	ID:10	Total packets sent by this node: 24
+02:01.005	ID:9	Client sending: Packet 24
+02:01.008	ID:9	Total packets sent by this node: 24
+02:01.011	ID:5	Client sending: Packet 24
+02:01.015	ID:5	Total packets sent by this node: 24
+02:01.195	ID:3	Client sending: Packet 24
+02:01.200	ID:3	Total packets sent by this node: 24
+02:05.369	ID:8	Client sending: Packet 25
+02:05.372	ID:8	Total packets sent by this node: 25
+02:05.486	ID:11	Client sending: Packet 25
+02:05.490	ID:11	Total packets sent by this node: 25
+02:05.532	ID:2	Client sending: Packet 25
+02:05.536	ID:2	Total packets sent by this node: 25
+02:05.547	ID:6	Client sending: Packet 25
+02:05.550	ID:6	Total packets sent by this node: 25
+02:05.644	ID:4	Client sending: Packet 25
+02:05.648	ID:4	Total packets sent by this node: 25
+02:05.698	ID:7	Client sending: Packet 25
+02:05.701	ID:7	Total packets sent by this node: 25
+02:05.853	ID:10	Client sending: Packet 25
+02:05.856	ID:10	Total packets sent by this node: 25
+02:06.005	ID:9	Client sending: Packet 25
+02:06.008	ID:9	Total packets sent by this node: 25
+02:06.011	ID:5	Client sending: Packet 25
+02:06.015	ID:5	Total packets sent by this node: 25
+02:06.195	ID:3	Client sending: Packet 25
+02:06.200	ID:3	Total packets sent by this node: 25
+02:10.369	ID:8	Client sending: Packet 26
+02:10.372	ID:8	Total packets sent by this node: 26
+02:10.486	ID:11	Client sending: Packet 26
+02:10.490	ID:11	Total packets sent by this node: 26
+02:10.532	ID:2	Client sending: Packet 26
+02:10.536	ID:2	Total packets sent by this node: 26
+02:10.547	ID:6	Client sending: Packet 26
+02:10.550	ID:6	Total packets sent by this node: 26
+02:10.644	ID:4	Client sending: Packet 26
+02:10.648	ID:4	Total packets sent by this node: 26
+02:10.698	ID:7	Client sending: Packet 26
+02:10.701	ID:7	Total packets sent by this node: 26
+02:10.853	ID:10	Client sending: Packet 26
+02:10.856	ID:10	Total packets sent by this node: 26
+02:11.005	ID:9	Client sending: Packet 26
+02:11.008	ID:9	Total packets sent by this node: 26
+02:11.011	ID:5	Client sending: Packet 26
+02:11.015	ID:5	Total packets sent by this node: 26
+02:11.195	ID:3	Client sending: Packet 26
+02:11.200	ID:3	Total packets sent by this node: 26
+02:15.369	ID:8	Client sending: Packet 27
+02:15.372	ID:8	Total packets sent by this node: 27
+02:15.486	ID:11	Client sending: Packet 27
+02:15.490	ID:11	Total packets sent by this node: 27
+02:15.532	ID:2	Client sending: Packet 27
+02:15.536	ID:2	Total packets sent by this node: 27
+02:15.547	ID:6	Client sending: Packet 27
+02:15.550	ID:6	Total packets sent by this node: 27
+02:15.644	ID:4	Client sending: Packet 27
+02:15.648	ID:4	Total packets sent by this node: 27
+02:15.698	ID:7	Client sending: Packet 27
+02:15.701	ID:7	Total packets sent by this node: 27
+02:15.853	ID:10	Client sending: Packet 27
+02:15.856	ID:10	Total packets sent by this node: 27
+02:16.005	ID:9	Client sending: Packet 27
+02:16.008	ID:9	Total packets sent by this node: 27
+02:16.011	ID:5	Client sending: Packet 27
+02:16.015	ID:5	Total packets sent by this node: 27
+02:16.195	ID:3	Client sending: Packet 27
+02:16.200	ID:3	Total packets sent by this node: 27
+02:20.369	ID:8	Client sending: Packet 28
+02:20.372	ID:8	Total packets sent by this node: 28
+02:20.486	ID:11	Client sending: Packet 28
+02:20.490	ID:11	Total packets sent by this node: 28
+02:20.532	ID:2	Client sending: Packet 28
+02:20.536	ID:2	Total packets sent by this node: 28
+02:20.547	ID:6	Client sending: Packet 28
+02:20.550	ID:6	Total packets sent by this node: 28
+02:20.644	ID:4	Client sending: Packet 28
+02:20.648	ID:4	Total packets sent by this node: 28
+02:20.698	ID:7	Client sending: Packet 28
+02:20.701	ID:7	Total packets sent by this node: 28
+02:20.853	ID:10	Client sending: Packet 28
+02:20.856	ID:10	Total packets sent by this node: 28
+02:21.005	ID:9	Client sending: Packet 28
+02:21.008	ID:9	Total packets sent by this node: 28
+02:21.011	ID:5	Client sending: Packet 28
+02:21.015	ID:5	Total packets sent by this node: 28
+02:21.195	ID:3	Client sending: Packet 28
+02:21.200	ID:3	Total packets sent by this node: 28
+02:25.369	ID:8	Client sending: Packet 29
+02:25.372	ID:8	Total packets sent by this node: 29
+02:25.486	ID:11	Client sending: Packet 29
+02:25.490	ID:11	Total packets sent by this node: 29
+02:25.532	ID:2	Client sending: Packet 29
+02:25.536	ID:2	Total packets sent by this node: 29
+02:25.547	ID:6	Client sending: Packet 29
+02:25.550	ID:6	Total packets sent by this node: 29
+02:25.644	ID:4	Client sending: Packet 29
+02:25.648	ID:4	Total packets sent by this node: 29
+02:25.698	ID:7	Client sending: Packet 29
+02:25.701	ID:7	Total packets sent by this node: 29
+02:25.853	ID:10	Client sending: Packet 29
+02:25.856	ID:10	Total packets sent by this node: 29
+02:26.005	ID:9	Client sending: Packet 29
+02:26.008	ID:9	Total packets sent by this node: 29
+02:26.011	ID:5	Client sending: Packet 29
+02:26.015	ID:5	Total packets sent by this node: 29
+02:26.195	ID:3	Client sending: Packet 29
+02:26.200	ID:3	Total packets sent by this node: 29
+02:30.369	ID:8	Client sending: Packet 30
+02:30.372	ID:8	Total packets sent by this node: 30
+02:30.486	ID:11	Client sending: Packet 30
+02:30.490	ID:11	Total packets sent by this node: 30
+02:30.532	ID:2	Client sending: Packet 30
+02:30.536	ID:2	Total packets sent by this node: 30
+02:30.547	ID:6	Client sending: Packet 30
+02:30.550	ID:6	Total packets sent by this node: 30
+02:30.644	ID:4	Client sending: Packet 30
+02:30.648	ID:4	Total packets sent by this node: 30
+02:30.698	ID:7	Client sending: Packet 30
+02:30.701	ID:7	Total packets sent by this node: 30
+02:30.853	ID:10	Client sending: Packet 30
+02:30.856	ID:10	Total packets sent by this node: 30
+02:31.005	ID:9	Client sending: Packet 30
+02:31.008	ID:9	Total packets sent by this node: 30
+02:31.011	ID:5	Client sending: Packet 30
+02:31.015	ID:5	Total packets sent by this node: 30
+02:31.195	ID:3	Client sending: Packet 30
+02:31.200	ID:3	Total packets sent by this node: 30
+02:35.369	ID:8	Client sending: Packet 31
+02:35.372	ID:8	Total packets sent by this node: 31
+02:35.486	ID:11	Client sending: Packet 31
+02:35.490	ID:11	Total packets sent by this node: 31
+02:35.532	ID:2	Client sending: Packet 31
+02:35.536	ID:2	Total packets sent by this node: 31
+02:35.547	ID:6	Client sending: Packet 31
+02:35.550	ID:6	Total packets sent by this node: 31
+02:35.644	ID:4	Client sending: Packet 31
+02:35.648	ID:4	Total packets sent by this node: 31
+02:35.698	ID:7	Client sending: Packet 31
+02:35.701	ID:7	Total packets sent by this node: 31
+02:35.853	ID:10	Client sending: Packet 31
+02:35.856	ID:10	Total packets sent by this node: 31
+02:36.005	ID:9	Client sending: Packet 31
+02:36.008	ID:9	Total packets sent by this node: 31
+02:36.011	ID:5	Client sending: Packet 31
+02:36.015	ID:5	Total packets sent by this node: 31
+02:36.195	ID:3	Client sending: Packet 31
+02:36.200	ID:3	Total packets sent by this node: 31
+02:40.369	ID:8	Client sending: Packet 32
+02:40.372	ID:8	Total packets sent by this node: 32
+02:40.486	ID:11	Client sending: Packet 32
+02:40.490	ID:11	Total packets sent by this node: 32
+02:40.532	ID:2	Client sending: Packet 32
+02:40.536	ID:2	Total packets sent by this node: 32
+02:40.547	ID:6	Client sending: Packet 32
+02:40.550	ID:6	Total packets sent by this node: 32
+02:40.644	ID:4	Client sending: Packet 32
+02:40.648	ID:4	Total packets sent by this node: 32
+02:40.698	ID:7	Client sending: Packet 32
+02:40.701	ID:7	Total packets sent by this node: 32
+02:40.853	ID:10	Client sending: Packet 32
+02:40.856	ID:10	Total packets sent by this node: 32
+02:41.005	ID:9	Client sending: Packet 32
+02:41.008	ID:9	Total packets sent by this node: 32
+02:41.011	ID:5	Client sending: Packet 32
+02:41.015	ID:5	Total packets sent by this node: 32
+02:41.195	ID:3	Client sending: Packet 32
+02:41.200	ID:3	Total packets sent by this node: 32
+02:45.369	ID:8	Client sending: Packet 33
+02:45.372	ID:8	Total packets sent by this node: 33
+02:45.486	ID:11	Client sending: Packet 33
+02:45.490	ID:11	Total packets sent by this node: 33
+02:45.532	ID:2	Client sending: Packet 33
+02:45.536	ID:2	Total packets sent by this node: 33
+02:45.547	ID:6	Client sending: Packet 33
+02:45.550	ID:6	Total packets sent by this node: 33
+02:45.644	ID:4	Client sending: Packet 33
+02:45.648	ID:4	Total packets sent by this node: 33
+02:45.698	ID:7	Client sending: Packet 33
+02:45.701	ID:7	Total packets sent by this node: 33
+02:45.853	ID:10	Client sending: Packet 33
+02:45.856	ID:10	Total packets sent by this node: 33
+02:46.005	ID:9	Client sending: Packet 33
+02:46.008	ID:9	Total packets sent by this node: 33
+02:46.011	ID:5	Client sending: Packet 33
+02:46.015	ID:5	Total packets sent by this node: 33
+02:46.195	ID:3	Client sending: Packet 33
+02:46.200	ID:3	Total packets sent by this node: 33
+02:50.369	ID:8	Client sending: Packet 34
+02:50.372	ID:8	Total packets sent by this node: 34
+02:50.486	ID:11	Client sending: Packet 34
+02:50.490	ID:11	Total packets sent by this node: 34
+02:50.532	ID:2	Client sending: Packet 34
+02:50.536	ID:2	Total packets sent by this node: 34
+02:50.547	ID:6	Client sending: Packet 34
+02:50.550	ID:6	Total packets sent by this node: 34
+02:50.644	ID:4	Client sending: Packet 34
+02:50.648	ID:4	Total packets sent by this node: 34
+02:50.698	ID:7	Client sending: Packet 34
+02:50.701	ID:7	Total packets sent by this node: 34
+02:50.853	ID:10	Client sending: Packet 34
+02:50.856	ID:10	Total packets sent by this node: 34
+02:51.005	ID:9	Client sending: Packet 34
+02:51.008	ID:9	Total packets sent by this node: 34
+02:51.011	ID:5	Client sending: Packet 34
+02:51.015	ID:5	Total packets sent by this node: 34
+02:51.195	ID:3	Client sending: Packet 34
+02:51.200	ID:3	Total packets sent by this node: 34
+02:55.369	ID:8	Client sending: Packet 35
+02:55.372	ID:8	Total packets sent by this node: 35
+02:55.486	ID:11	Client sending: Packet 35
+02:55.490	ID:11	Total packets sent by this node: 35
+02:55.532	ID:2	Client sending: Packet 35
+02:55.536	ID:2	Total packets sent by this node: 35
+02:55.547	ID:6	Client sending: Packet 35
+02:55.550	ID:6	Total packets sent by this node: 35
+02:55.644	ID:4	Client sending: Packet 35
+02:55.648	ID:4	Total packets sent by this node: 35
+02:55.698	ID:7	Client sending: Packet 35
+02:55.701	ID:7	Total packets sent by this node: 35
+02:55.853	ID:10	Client sending: Packet 35
+02:55.856	ID:10	Total packets sent by this node: 35
+02:56.005	ID:9	Client sending: Packet 35
+02:56.008	ID:9	Total packets sent by this node: 35
+02:56.011	ID:5	Client sending: Packet 35
+02:56.015	ID:5	Total packets sent by this node: 35
+02:56.195	ID:3	Client sending: Packet 35
+02:56.200	ID:3	Total packets sent by this node: 35
+03:00.369	ID:8	Client sending: Packet 36
+03:00.372	ID:8	Total packets sent by this node: 36
+03:00.486	ID:11	Client sending: Packet 36
+03:00.490	ID:11	Total packets sent by this node: 36
+03:00.532	ID:2	Client sending: Packet 36
+03:00.536	ID:2	Total packets sent by this node: 36
+03:00.547	ID:6	Client sending: Packet 36
+03:00.550	ID:6	Total packets sent by this node: 36
+03:00.644	ID:4	Client sending: Packet 36
+03:00.648	ID:4	Total packets sent by this node: 36
+03:00.698	ID:7	Client sending: Packet 36
+03:00.701	ID:7	Total packets sent by this node: 36
+03:00.853	ID:10	Client sending: Packet 36
+03:00.856	ID:10	Total packets sent by this node: 36
+03:01.005	ID:9	Client sending: Packet 36
+03:01.008	ID:9	Total packets sent by this node: 36
+03:01.011	ID:5	Client sending: Packet 36
+03:01.015	ID:5	Total packets sent by this node: 36
+03:01.195	ID:3	Client sending: Packet 36
+03:01.200	ID:3	Total packets sent by this node: 36
+03:05.369	ID:8	Client sending: Packet 37
+03:05.372	ID:8	Total packets sent by this node: 37
+03:05.486	ID:11	Client sending: Packet 37
+03:05.490	ID:11	Total packets sent by this node: 37
+03:05.532	ID:2	Client sending: Packet 37
+03:05.536	ID:2	Total packets sent by this node: 37
+03:05.547	ID:6	Client sending: Packet 37
+03:05.550	ID:6	Total packets sent by this node: 37
+03:05.644	ID:4	Client sending: Packet 37
+03:05.648	ID:4	Total packets sent by this node: 37
+03:05.698	ID:7	Client sending: Packet 37
+03:05.701	ID:7	Total packets sent by this node: 37
+03:05.853	ID:10	Client sending: Packet 37
+03:05.856	ID:10	Total packets sent by this node: 37
+03:06.005	ID:9	Client sending: Packet 37
+03:06.008	ID:9	Total packets sent by this node: 37
+03:06.011	ID:5	Client sending: Packet 37
+03:06.015	ID:5	Total packets sent by this node: 37
+03:06.195	ID:3	Client sending: Packet 37
+03:06.200	ID:3	Total packets sent by this node: 37
+03:10.369	ID:8	Client sending: Packet 38
+03:10.372	ID:8	Total packets sent by this node: 38
+03:10.486	ID:11	Client sending: Packet 38
+03:10.490	ID:11	Total packets sent by this node: 38
+03:10.532	ID:2	Client sending: Packet 38
+03:10.536	ID:2	Total packets sent by this node: 38
+03:10.547	ID:6	Client sending: Packet 38
+03:10.550	ID:6	Total packets sent by this node: 38
+03:10.644	ID:4	Client sending: Packet 38
+03:10.648	ID:4	Total packets sent by this node: 38
+03:10.698	ID:7	Client sending: Packet 38
+03:10.701	ID:7	Total packets sent by this node: 38
+03:10.853	ID:10	Client sending: Packet 38
+03:10.856	ID:10	Total packets sent by this node: 38
+03:11.005	ID:9	Client sending: Packet 38
+03:11.008	ID:9	Total packets sent by this node: 38
+03:11.011	ID:5	Client sending: Packet 38
+03:11.015	ID:5	Total packets sent by this node: 38
+03:11.195	ID:3	Client sending: Packet 38
+03:11.200	ID:3	Total packets sent by this node: 38
+03:15.369	ID:8	Client sending: Packet 39
+03:15.372	ID:8	Total packets sent by this node: 39
+03:15.486	ID:11	Client sending: Packet 39
+03:15.490	ID:11	Total packets sent by this node: 39
+03:15.532	ID:2	Client sending: Packet 39
+03:15.536	ID:2	Total packets sent by this node: 39
+03:15.547	ID:6	Client sending: Packet 39
+03:15.550	ID:6	Total packets sent by this node: 39
+03:15.644	ID:4	Client sending: Packet 39
+03:15.648	ID:4	Total packets sent by this node: 39
+03:15.698	ID:7	Client sending: Packet 39
+03:15.701	ID:7	Total packets sent by this node: 39
+03:15.853	ID:10	Client sending: Packet 39
+03:15.856	ID:10	Total packets sent by this node: 39
+03:16.005	ID:9	Client sending: Packet 39
+03:16.008	ID:9	Total packets sent by this node: 39
+03:16.011	ID:5	Client sending: Packet 39
+03:16.015	ID:5	Total packets sent by this node: 39
+03:16.195	ID:3	Client sending: Packet 39
+03:16.200	ID:3	Total packets sent by this node: 39
+03:20.369	ID:8	Client sending: Packet 40
+03:20.372	ID:8	Total packets sent by this node: 40
+03:20.486	ID:11	Client sending: Packet 40
+03:20.490	ID:11	Total packets sent by this node: 40
+03:20.532	ID:2	Client sending: Packet 40
+03:20.536	ID:2	Total packets sent by this node: 40
+03:20.547	ID:6	Client sending: Packet 40
+03:20.550	ID:6	Total packets sent by this node: 40
+03:20.644	ID:4	Client sending: Packet 40
+03:20.648	ID:4	Total packets sent by this node: 40
+03:20.698	ID:7	Client sending: Packet 40
+03:20.701	ID:7	Total packets sent by this node: 40
+03:20.853	ID:10	Client sending: Packet 40
+03:20.856	ID:10	Total packets sent by this node: 40
+03:21.005	ID:9	Client sending: Packet 40
+03:21.008	ID:9	Total packets sent by this node: 40
+03:21.011	ID:5	Client sending: Packet 40
+03:21.015	ID:5	Total packets sent by this node: 40
+03:21.195	ID:3	Client sending: Packet 40
+03:21.200	ID:3	Total packets sent by this node: 40
+03:25.369	ID:8	Client sending: Packet 41
+03:25.372	ID:8	Total packets sent by this node: 41
+03:25.486	ID:11	Client sending: Packet 41
+03:25.490	ID:11	Total packets sent by this node: 41
+03:25.532	ID:2	Client sending: Packet 41
+03:25.536	ID:2	Total packets sent by this node: 41
+03:25.547	ID:6	Client sending: Packet 41
+03:25.550	ID:6	Total packets sent by this node: 41
+03:25.644	ID:4	Client sending: Packet 41
+03:25.648	ID:4	Total packets sent by this node: 41
+03:25.698	ID:7	Client sending: Packet 41
+03:25.701	ID:7	Total packets sent by this node: 41
+03:25.853	ID:10	Client sending: Packet 41
+03:25.856	ID:10	Total packets sent by this node: 41
+03:26.005	ID:9	Client sending: Packet 41
+03:26.008	ID:9	Total packets sent by this node: 41
+03:26.011	ID:5	Client sending: Packet 41
+03:26.015	ID:5	Total packets sent by this node: 41
+03:26.195	ID:3	Client sending: Packet 41
+03:26.200	ID:3	Total packets sent by this node: 41
+03:30.369	ID:8	Client sending: Packet 42
+03:30.372	ID:8	Total packets sent by this node: 42
+03:30.486	ID:11	Client sending: Packet 42
+03:30.490	ID:11	Total packets sent by this node: 42
+03:30.532	ID:2	Client sending: Packet 42
+03:30.536	ID:2	Total packets sent by this node: 42
+03:30.547	ID:6	Client sending: Packet 42
+03:30.550	ID:6	Total packets sent by this node: 42
+03:30.644	ID:4	Client sending: Packet 42
+03:30.648	ID:4	Total packets sent by this node: 42
+03:30.698	ID:7	Client sending: Packet 42
+03:30.701	ID:7	Total packets sent by this node: 42
+03:30.853	ID:10	Client sending: Packet 42
+03:30.856	ID:10	Total packets sent by this node: 42
+03:31.005	ID:9	Client sending: Packet 42
+03:31.008	ID:9	Total packets sent by this node: 42
+03:31.011	ID:5	Client sending: Packet 42
+03:31.015	ID:5	Total packets sent by this node: 42
+03:31.195	ID:3	Client sending: Packet 42
+03:31.200	ID:3	Total packets sent by this node: 42
+03:35.369	ID:8	Client sending: Packet 43
+03:35.372	ID:8	Total packets sent by this node: 43
+03:35.486	ID:11	Client sending: Packet 43
+03:35.490	ID:11	Total packets sent by this node: 43
+03:35.532	ID:2	Client sending: Packet 43
+03:35.536	ID:2	Total packets sent by this node: 43
+03:35.547	ID:6	Client sending: Packet 43
+03:35.550	ID:6	Total packets sent by this node: 43
+03:35.644	ID:4	Client sending: Packet 43
+03:35.648	ID:4	Total packets sent by this node: 43
+03:35.698	ID:7	Client sending: Packet 43
+03:35.701	ID:7	Total packets sent by this node: 43
+03:35.853	ID:10	Client sending: Packet 43
+03:35.856	ID:10	Total packets sent by this node: 43
+03:36.005	ID:9	Client sending: Packet 43
+03:36.008	ID:9	Total packets sent by this node: 43
+03:36.011	ID:5	Client sending: Packet 43
+03:36.015	ID:5	Total packets sent by this node: 43
+03:36.195	ID:3	Client sending: Packet 43
+03:36.200	ID:3	Total packets sent by this node: 43
+03:40.369	ID:8	Client sending: Packet 44
+03:40.372	ID:8	Total packets sent by this node: 44
+03:40.486	ID:11	Client sending: Packet 44
+03:40.490	ID:11	Total packets sent by this node: 44
+03:40.532	ID:2	Client sending: Packet 44
+03:40.536	ID:2	Total packets sent by this node: 44
+03:40.547	ID:6	Client sending: Packet 44
+03:40.550	ID:6	Total packets sent by this node: 44
+03:40.644	ID:4	Client sending: Packet 44
+03:40.648	ID:4	Total packets sent by this node: 44
+03:40.698	ID:7	Client sending: Packet 44
+03:40.701	ID:7	Total packets sent by this node: 44
+03:40.853	ID:10	Client sending: Packet 44
+03:40.856	ID:10	Total packets sent by this node: 44
+03:41.005	ID:9	Client sending: Packet 44
+03:41.008	ID:9	Total packets sent by this node: 44
+03:41.011	ID:5	Client sending: Packet 44
+03:41.015	ID:5	Total packets sent by this node: 44
+03:41.195	ID:3	Client sending: Packet 44
+03:41.200	ID:3	Total packets sent by this node: 44
+03:45.369	ID:8	Client sending: Packet 45
+03:45.372	ID:8	Total packets sent by this node: 45
+03:45.486	ID:11	Client sending: Packet 45
+03:45.490	ID:11	Total packets sent by this node: 45
+03:45.532	ID:2	Client sending: Packet 45
+03:45.536	ID:2	Total packets sent by this node: 45
+03:45.547	ID:6	Client sending: Packet 45
+03:45.550	ID:6	Total packets sent by this node: 45
+03:45.644	ID:4	Client sending: Packet 45
+03:45.648	ID:4	Total packets sent by this node: 45
+03:45.698	ID:7	Client sending: Packet 45
+03:45.701	ID:7	Total packets sent by this node: 45
+03:45.853	ID:10	Client sending: Packet 45
+03:45.856	ID:10	Total packets sent by this node: 45
+03:46.005	ID:9	Client sending: Packet 45
+03:46.008	ID:9	Total packets sent by this node: 45
+03:46.011	ID:5	Client sending: Packet 45
+03:46.015	ID:5	Total packets sent by this node: 45
+03:46.195	ID:3	Client sending: Packet 45
+03:46.200	ID:3	Total packets sent by this node: 45
+03:50.369	ID:8	Client sending: Packet 46
+03:50.372	ID:8	Total packets sent by this node: 46
+03:50.486	ID:11	Client sending: Packet 46
+03:50.490	ID:11	Total packets sent by this node: 46
+03:50.532	ID:2	Client sending: Packet 46
+03:50.536	ID:2	Total packets sent by this node: 46
+03:50.547	ID:6	Client sending: Packet 46
+03:50.550	ID:6	Total packets sent by this node: 46
+03:50.644	ID:4	Client sending: Packet 46
+03:50.648	ID:4	Total packets sent by this node: 46
+03:50.698	ID:7	Client sending: Packet 46
+03:50.701	ID:7	Total packets sent by this node: 46
+03:50.853	ID:10	Client sending: Packet 46
+03:50.856	ID:10	Total packets sent by this node: 46
+03:51.005	ID:9	Client sending: Packet 46
+03:51.008	ID:9	Total packets sent by this node: 46
+03:51.011	ID:5	Client sending: Packet 46
+03:51.015	ID:5	Total packets sent by this node: 46
+03:51.195	ID:3	Client sending: Packet 46
+03:51.200	ID:3	Total packets sent by this node: 46
+03:55.369	ID:8	Client sending: Packet 47
+03:55.372	ID:8	Total packets sent by this node: 47
+03:55.486	ID:11	Client sending: Packet 47
+03:55.490	ID:11	Total packets sent by this node: 47
+03:55.532	ID:2	Client sending: Packet 47
+03:55.536	ID:2	Total packets sent by this node: 47
+03:55.547	ID:6	Client sending: Packet 47
+03:55.550	ID:6	Total packets sent by this node: 47
+03:55.644	ID:4	Client sending: Packet 47
+03:55.648	ID:4	Total packets sent by this node: 47
+03:55.698	ID:7	Client sending: Packet 47
+03:55.701	ID:7	Total packets sent by this node: 47
+03:55.853	ID:10	Client sending: Packet 47
+03:55.856	ID:10	Total packets sent by this node: 47
+03:56.005	ID:9	Client sending: Packet 47
+03:56.008	ID:9	Total packets sent by this node: 47
+03:56.011	ID:5	Client sending: Packet 47
+03:56.015	ID:5	Total packets sent by this node: 47
+03:56.195	ID:3	Client sending: Packet 47
+03:56.200	ID:3	Total packets sent by this node: 47
