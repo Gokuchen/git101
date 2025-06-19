@@ -271,11 +271,18 @@ PROCESS_THREAD(udp_client_process, ev, data)
   static struct etimer send_timer;
   
   PROCESS_BEGIN();
+  
+    /* Initialize network stack */
+  netstack_init();
 
-  PROCESS_PAUSE();
-
+  
   set_global_address();
   PRINTF("UDP client process started\n");
+  
+    /* Wait for address assignment */
+  while(uip_ds6_get_global(ADDR_PREFERRED) == NULL) {
+    PROCESS_WAIT_EVENT();
+  }
 
   print_local_addresses();
 
