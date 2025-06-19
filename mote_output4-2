@@ -1,0 +1,1438 @@
+00:00.336	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.346	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.355	ID:8	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.365	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.369	ID:8	Starting 'UDP client process' 'collect common process'
+00:00.373	ID:8	Server address set to: fd00::1
+00:00.375	ID:8	UDP client process started
+00:00.380	ID:8	Client IPv6 addresses: fd00::212:7408:8:808
+00:00.382	ID:8	fe80::212:7408:8:808
+00:00.385	ID:8	Created UDP connection for RPL routing
+00:00.455	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+00:00.464	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 11.
+00:00.473	ID:11	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.484	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+00:00.488	ID:11	Starting 'UDP client process' 'collect common process'
+00:00.492	ID:11	Server address set to: fd00::1
+00:00.493	ID:11	UDP client process started
+00:00.498	ID:11	Client IPv6 addresses: fd00::212:740b:b:b0b
+00:00.500	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.501	ID:11	fe80::212:740b:b:b0b
+00:00.503	ID:11	Created UDP connection for RPL routing
+00:00.509	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.514	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.518	ID:2	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.524	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.529	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.533	ID:2	Starting 'UDP client process' 'collect common process'
+00:00.533	ID:6	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.537	ID:2	Server address set to: fd00::1
+00:00.538	ID:2	UDP client process started
+00:00.543	ID:2	Client IPv6 addresses: fd00::212:7402:2:202
+00:00.543	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.546	ID:2	fe80::212:7402:2:202
+00:00.547	ID:6	Starting 'UDP client process' 'collect common process'
+00:00.548	ID:2	Created UDP connection for RPL routing
+00:00.551	ID:6	Server address set to: fd00::1
+00:00.553	ID:6	UDP client process started
+00:00.557	ID:6	Client IPv6 addresses: fd00::212:7406:6:606
+00:00.560	ID:6	fe80::212:7406:6:606
+00:00.563	ID:6	Created UDP connection for RPL routing
+00:00.612	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.622	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.630	ID:4	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.641	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.645	ID:4	Starting 'UDP client process' 'collect common process'
+00:00.646	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.649	ID:4	Server address set to: fd00::1
+00:00.651	ID:4	UDP client process started
+00:00.655	ID:4	Client IPv6 addresses: fd00::212:7404:4:404
+00:00.655	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.658	ID:4	fe80::212:7404:4:404
+00:00.661	ID:4	Created UDP connection for RPL routing
+00:00.664	ID:1	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.665	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.675	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.675	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.678	ID:1	Starting 'UDP server process' 'collect common process'
+00:00.681	ID:1	Sink initialized with storing mode
+00:00.684	ID:1	Sink initialized with storing mode
+00:00.684	ID:7	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.686	ID:1	RPL Sink with Storing Mode started
+00:00.692	ID:1	Created RPL DAG with storing mode (MOP=2)
+00:00.695	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.698	ID:7	Starting 'UDP client process' 'collect common process'
+00:00.702	ID:7	Server address set to: fd00::1
+00:00.704	ID:7	UDP client process started
+00:00.709	ID:7	Client IPv6 addresses: fd00::212:7407:7:707
+00:00.711	ID:7	fe80::212:7407:7:707
+00:00.714	ID:7	Created UDP connection for RPL routing
+00:00.821	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.830	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
+00:00.839	ID:10	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.850	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.854	ID:10	Starting 'UDP client process' 'collect common process'
+00:00.857	ID:12	Rime started with address 0.18.116.12.0.12.12.12
+00:00.858	ID:10	Server address set to: fd00::1
+00:00.860	ID:10	UDP client process started
+00:00.864	ID:10	Client IPv6 addresses: fd00::212:740a:a:a0a
+00:00.866	ID:12	MAC 00:12:74:0c:00:0c:0c:0c Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 12.
+00:00.867	ID:10	fe80::212:740a:a:a0a
+00:00.869	ID:10	Created UDP connection for RPL routing
+00:00.875	ID:12	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.886	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740c:000c:0c0c
+00:00.888	ID:12	Starting 'Black Hole Node'
+00:00.892	ID:12	Blackhole node started. Will join DAG and drop packets.
+00:00.972	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.979	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.982	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.988	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.991	ID:9	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.997	ID:5	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.001	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.005	ID:9	Starting 'UDP client process' 'collect common process'
+00:01.008	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.009	ID:9	Server address set to: fd00::1
+00:01.011	ID:9	UDP client process started
+00:01.012	ID:5	Starting 'UDP client process' 'collect common process'
+00:01.015	ID:9	Client IPv6 addresses: fd00::212:7409:9:909
+00:01.016	ID:5	Server address set to: fd00::1
+00:01.017	ID:5	UDP client process started
+00:01.018	ID:9	fe80::212:7409:9:909
+00:01.021	ID:9	Created UDP connection for RPL routing
+00:01.022	ID:5	Client IPv6 addresses: fd00::212:7405:5:505
+00:01.025	ID:5	fe80::212:7405:5:505
+00:01.027	ID:5	Created UDP connection for RPL routing
+00:01.163	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.173	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.181	ID:3	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.192	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.196	ID:3	Starting 'UDP client process' 'collect common process'
+00:01.200	ID:3	Server address set to: fd00::1
+00:01.202	ID:3	UDP client process started
+00:01.206	ID:3	Client IPv6 addresses: fd00::212:7403:3:303
+00:01.209	ID:3	fe80::212:7403:3:303
+00:01.212	ID:3	Created UDP connection for RPL routing
+00:10.706	ID:6	No DAG available, sending with default values
+00:10.721	ID:6	Packet sent: size=46 bytes
+00:11.566	ID:9	Sending to sink: seq=1, parent_etx=192, rtmetric=574, neighbors=6
+00:11.585	ID:9	Packet sent: size=46 bytes
+00:11.612	ID:1	Received from node 0909: seq=1, hops=2
+00:11.626	ID:1	30 0 10 0 2313 1 2 0 22 1358 0 4099 39314 44 43303 0 192 574 6 16 252 1 189 182 65535 65535 0 0 0 0
+00:11.798	ID:8	Sending to sink: seq=1, parent_etx=300, rtmetric=857, neighbors=1
+00:11.816	ID:8	Packet sent: size=46 bytes
+00:11.857	ID:1	Received from node 0808: seq=1, hops=3
+00:11.871	ID:1	30 0 11 0 2056 1 3 0 22 1469 0 2895 44069 0 46900 0 300 857 1 8 252 1 133 182 65535 65535 0 0 0 0
+00:12.313	ID:11	Sending to sink: seq=1, parent_etx=192, rtmetric=574, neighbors=3
+00:12.330	ID:11	Packet sent: size=46 bytes
+00:12.358	ID:1	Received from node 0b0b: seq=1, hops=2
+00:12.371	ID:1	30 0 11 0 2827 1 2 0 22 1519 0 3705 44887 49 48475 0 192 574 3 16 252 1 133 182 65535 65535 0 0 0 0
+00:12.961	ID:3	Sending to sink: seq=1, parent_etx=64, rtmetric=273, neighbors=8
+00:12.980	ID:3	Packet sent: size=46 bytes
+00:12.993	ID:1	Received from node 0303: seq=1, hops=1
+00:13.006	ID:1	30 0 12 0 771 1 1 0 22 1512 0 7349 40993 104 48172 0 64 273 8 16 252 1 189 182 65535 65535 0 0 0 0
+00:13.165	ID:2	Sending to sink: seq=1, parent_etx=64, rtmetric=345, neighbors=6
+00:13.183	ID:2	Packet sent: size=46 bytes
+00:13.196	ID:1	Received from node 0202: seq=1, hops=1
+00:13.210	ID:1	30 0 12 0 514 1 1 0 22 1623 0 5051 46843 31 51798 0 64 345 6 16 252 1 189 182 65535 65535 0 0 0 0
+00:13.548	ID:10	Sending to sink: seq=1, parent_etx=64, rtmetric=345, neighbors=6
+00:13.567	ID:10	Packet sent: size=46 bytes
+00:13.580	ID:1	Received from node 0a0a: seq=1, hops=1
+00:13.593	ID:1	30 0 12 0 2570 1 1 0 22 1631 0 5205 46946 22 52061 0 64 345 6 16 252 1 189 182 65535 65535 0 0 0 0
+00:14.049	ID:5	Sending to sink: seq=1, parent_etx=64, rtmetric=345, neighbors=6
+00:14.068	ID:5	Packet sent: size=46 bytes
+00:14.081	ID:1	Received from node 0505: seq=1, hops=1
+00:14.095	ID:1	30 0 13 0 1285 1 1 0 22 1675 0 5550 48006 31 53460 0 64 345 6 16 252 1 189 182 65535 65535 0 0 0 0
+00:14.543	ID:4	Sending to sink: seq=1, parent_etx=192, rtmetric=555, neighbors=4
+00:14.561	ID:4	Packet sent: size=46 bytes
+00:14.589	ID:1	Received from node 0404: seq=1, hops=2
+00:14.603	ID:1	30 0 13 0 1028 1 2 0 22 1785 0 4831 52247 49 56964 0 192 555 4 16 252 1 189 182 65535 65535 0 0 0 0
+00:14.993	ID:7	Sending to sink: seq=1, parent_etx=300, rtmetric=791, neighbors=2
+00:15.011	ID:7	Packet sent: size=46 bytes
+00:15.051	ID:1	Received from node 0707: seq=1, hops=3
+00:15.065	ID:1	30 0 14 0 1799 1 3 0 22 1835 0 3994 54711 36 58604 0 300 791 2 8 252 1 133 182 65535 65535 0 0 0 0
+00:20.850	ID:6	Sending to sink: seq=2, parent_etx=409, rtmetric=1035, neighbors=1
+00:20.867	ID:6	Packet sent: size=46 bytes
+00:20.924	ID:1	Received from node 0606: seq=2, hops=4
+00:20.938	ID:1	30 0 20 0 1542 2 4 0 22 2604 0 2947 38602 22 41526 0 409 1035 1 16 173 1 110 103 65535 65535 0 0 0 0
+00:22.106	ID:9	Sending to sink: seq=2, parent_etx=130, rtmetric=419, neighbors=6
+00:22.124	ID:9	Packet sent: size=46 bytes
+00:22.151	ID:1	Received from node 0909: seq=2, hops=2
+00:22.165	ID:1	30 0 21 0 2313 2 2 0 22 2707 0 4593 38576 49 43120 0 130 419 6 32 194 1 131 180 65535 65535 0 0 0 0
+00:23.203	ID:8	Sending to sink: seq=2, parent_etx=205, rtmetric=574, neighbors=2
+00:23.221	ID:8	Packet sent: size=46 bytes
+00:23.261	ID:1	Received from node 0808: seq=2, hops=3
+00:23.275	ID:1	30 0 22 0 2056 2 3 0 22 2928 0 3934 42782 71 46644 0 205 574 2 16 187 1 124 117 65535 65535 0 0 0 0
+00:24.118	ID:11	Sending to sink: seq=2, parent_etx=130, rtmetric=419, neighbors=3
+00:24.135	ID:11	Packet sent: size=46 bytes
+00:24.163	ID:1	Received from node 0b0b: seq=2, hops=2
+00:24.177	ID:1	30 0 23 0 2827 2 2 0 22 3030 0 3926 44427 35 48317 0 130 419 3 32 187 1 124 173 65535 65535 0 0 0 0
+00:24.703	ID:3	Sending to sink: seq=2, parent_etx=64, rtmetric=256, neighbors=8
+00:24.723	ID:3	Packet sent: size=46 bytes
+00:24.736	ID:1	Received from node 0303: seq=2, hops=1
+00:24.749	ID:1	30 0 24 0 771 2 1 0 22 3015 0 8266 39831 232 47862 0 64 256 8 32 187 1 124 173 65535 65535 0 0 0 0
+00:25.774	ID:2	Sending to sink: seq=2, parent_etx=64, rtmetric=292, neighbors=6
+00:25.792	ID:2	Packet sent: size=46 bytes
+00:25.805	ID:1	Received from node 0202: seq=2, hops=1
+00:25.818	ID:1	30 0 25 0 514 2 1 0 22 3237 0 5202 46445 49 51597 0 64 292 6 32 187 1 124 117 65535 65535 0 0 0 0
+00:26.220	ID:10	Sending to sink: seq=2, parent_etx=64, rtmetric=292, neighbors=6
+00:26.238	ID:10	Packet sent: size=46 bytes
+00:26.251	ID:1	Received from node 0a0a: seq=2, hops=1
+00:26.265	ID:1	30 0 25 0 2570 2 1 0 22 3253 0 4990 46913 49 51853 0 64 292 6 32 194 1 131 124 65535 65535 0 0 0 0
+00:27.050	ID:5	Sending to sink: seq=2, parent_etx=64, rtmetric=292, neighbors=6
+00:27.068	ID:5	Packet sent: size=46 bytes
+00:27.081	ID:1	Received from node 0505: seq=2, hops=1
+00:27.095	ID:1	30 0 26 0 1285 2 1 0 22 3339 0 5244 48004 48 53200 0 64 292 6 32 194 1 131 180 65535 65535 0 0 0 0
+00:28.418	ID:4	Sending to sink: seq=2, parent_etx=128, rtmetric=409, neighbors=4
+00:28.436	ID:4	Packet sent: size=46 bytes
+00:28.464	ID:1	Received from node 0404: seq=2, hops=2
+00:28.478	ID:1	30 0 27 0 1028 2 2 0 22 3561 0 4809 52022 49 56782 0 128 409 4 32 194 1 131 180 65535 65535 0 0 0 0
+00:29.267	ID:7	Sending to sink: seq=2, parent_etx=205, rtmetric=566, neighbors=3
+00:29.285	ID:7	Packet sent: size=46 bytes
+00:29.327	ID:1	Received from node 0707: seq=2, hops=3
+00:29.340	ID:1	30 0 28 0 1799 2 3 0 22 3663 0 5180 53285 96 58369 0 205 566 3 32 187 1 124 117 65535 65535 0 0 0 0
+00:30.689	ID:1	Sink Stats: Packets=19, Time=28s
+00:30.690	ID:1	Stored Routes:
+00:30.697	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+00:30.704	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+00:30.711	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+00:30.719	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+00:30.726	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+00:30.733	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+00:30.740	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+00:30.747	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+00:30.754	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+00:30.762	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+00:30.762	ID:1	Neighbors:
+00:30.767	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+00:30.771	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+00:30.775	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+00:30.779	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+00:30.781	ID:1	Total routes: 10
+00:30.906	ID:12	Blackhole: Set fake low rank (rank=1)
+00:30.990	ID:6	Sending to sink: seq=3, parent_etx=293, rtmetric=751, neighbors=1
+00:31.008	ID:6	Packet sent: size=46 bytes
+00:31.061	ID:1	Received from node 0606: seq=3, hops=4
+00:31.075	ID:1	30 0 30 0 1542 3 4 0 22 3902 0 3208 38326 48 41485 0 293 751 1 32 157 1 94 87 65535 65535 0 0 0 0
+00:32.644	ID:9	Sending to sink: seq=3, parent_etx=128, rtmetric=409, neighbors=6
+00:32.663	ID:9	Packet sent: size=46 bytes
+00:32.690	ID:1	Received from node 0909: seq=3, hops=2
+00:32.703	ID:1	30 0 32 0 2313 3 2 0 22 4056 0 4284 38881 25 43139 0 128 409 6 32 185 1 122 115 65535 65535 0 0 0 0
+00:34.610	ID:8	Sending to sink: seq=3, parent_etx=194, rtmetric=542, neighbors=2
+00:34.627	ID:8	Packet sent: size=46 bytes
+00:34.668	ID:1	Received from node 0808: seq=3, hops=3
+00:34.682	ID:1	30 0 34 0 2056 3 3 0 22 4388 0 3516 43202 26 46693 0 194 542 2 32 171 1 108 101 65535 65535 0 0 0 0
+00:35.922	ID:11	Sending to sink: seq=3, parent_etx=128, rtmetric=409, neighbors=3
+00:35.940	ID:11	Packet sent: size=46 bytes
+00:35.967	ID:1	Received from node 0b0b: seq=3, hops=2
+00:35.981	ID:1	30 0 35 0 2827 3 2 0 22 4541 0 3778 44570 25 48323 0 128 409 3 65 178 1 115 108 65535 65535 0 0 0 0
+00:36.445	ID:3	Sending to sink: seq=3, parent_etx=64, rtmetric=256, neighbors=8
+00:36.464	ID:3	Packet sent: size=46 bytes
+00:36.477	ID:1	Received from node 0303: seq=3, hops=1
+00:36.491	ID:1	30 0 35 0 771 3 1 0 22 4518 0 6609 41483 122 47969 0 64 256 8 65 178 1 115 108 65535 65535 0 0 0 0
+00:38.383	ID:2	Sending to sink: seq=3, parent_etx=64, rtmetric=286, neighbors=6
+00:38.401	ID:2	Packet sent: size=46 bytes
+00:38.415	ID:1	Received from node 0202: seq=3, hops=1
+00:38.428	ID:1	30 0 37 0 514 3 1 0 22 4851 0 4693 46953 25 51621 0 64 286 6 65 171 1 108 101 65535 65535 0 0 0 0
+00:38.891	ID:10	Sending to sink: seq=3, parent_etx=64, rtmetric=286, neighbors=6
+00:38.910	ID:10	Packet sent: size=46 bytes
+00:38.923	ID:1	Received from node 0a0a: seq=3, hops=1
+00:38.937	ID:1	30 0 38 0 2570 3 1 0 22 4875 0 4732 47171 25 51878 0 64 286 6 65 178 1 115 164 65535 65535 0 0 0 0
+00:40.057	ID:5	Sending to sink: seq=3, parent_etx=64, rtmetric=286, neighbors=6
+00:40.075	ID:5	Packet sent: size=46 bytes
+00:40.088	ID:1	Received from node 0505: seq=3, hops=1
+00:40.102	ID:1	30 0 39 0 1285 3 1 0 22 5003 0 4445 48832 25 53251 0 64 286 6 65 185 1 122 115 65535 65535 0 0 0 0
+00:41.132	ID:6	Sending to sink: seq=4, parent_etx=268, rtmetric=694, neighbors=1
+00:41.149	ID:6	Packet sent: size=46 bytes
+00:41.203	ID:1	Received from node 0606: seq=4, hops=4
+00:41.217	ID:1	30 0 40 0 1542 4 4 0 22 5200 0 3025 38512 25 41512 0 268 694 1 32 141 1 78 127 65535 65535 0 0 0 0
+00:42.293	ID:4	Sending to sink: seq=3, parent_etx=128, rtmetric=405, neighbors=4
+00:42.311	ID:4	Packet sent: size=46 bytes
+00:42.339	ID:1	Received from node 0404: seq=3, hops=2
+00:42.353	ID:1	30 0 41 0 1028 3 2 0 22 5337 0 4462 52368 25 56806 0 128 405 4 65 185 1 122 115 65535 65535 0 0 0 0
+00:43.184	ID:9	Sending to sink: seq=4, parent_etx=128, rtmetric=405, neighbors=6
+00:43.203	ID:9	Packet sent: size=46 bytes
+00:43.230	ID:1	Received from node 0909: seq=4, hops=2
+00:43.244	ID:1	30 0 42 0 2313 4 2 0 22 5405 0 3186 39985 12 43159 0 128 405 6 65 169 1 106 155 65535 65535 0 0 0 0
+00:43.540	ID:7	Sending to sink: seq=3, parent_etx=194, rtmetric=533, neighbors=3
+00:43.558	ID:7	Packet sent: size=46 bytes
+00:43.598	ID:1	Received from node 0707: seq=3, hops=3
+00:43.612	ID:1	30 0 42 0 1799 3 3 0 22 5489 0 4655 53805 53 58407 0 194 533 3 65 171 1 108 101 65535 65535 0 0 0 0
+00:46.016	ID:8	Sending to sink: seq=4, parent_etx=194, rtmetric=538, neighbors=2
+00:46.034	ID:8	Packet sent: size=46 bytes
+00:46.074	ID:1	Received from node 0808: seq=4, hops=3
+00:46.088	ID:1	30 0 45 0 2056 4 3 0 22 5849 0 3360 43361 25 46696 0 194 538 2 65 155 1 92 85 65535 65535 0 0 0 0
+00:47.728	ID:11	Sending to sink: seq=4, parent_etx=128, rtmetric=405, neighbors=3
+00:47.745	ID:11	Packet sent: size=46 bytes
+00:47.773	ID:1	Received from node 0b0b: seq=4, hops=2
+00:47.786	ID:1	30 0 47 0 2827 4 2 0 22 6053 0 3460 44895 12 48343 0 128 405 3 65 162 1 99 92 65535 65535 0 0 0 0
+00:48.217	ID:3	Sending to sink: seq=4, parent_etx=64, rtmetric=256, neighbors=8
+00:48.236	ID:3	Packet sent: size=46 bytes
+00:48.249	ID:1	Received from node 0303: seq=4, hops=1
+00:48.263	ID:1	30 0 47 0 771 4 1 0 22 6024 0 4549 43667 96 48119 0 64 256 8 65 162 1 99 92 65535 65535 0 0 0 0
+00:50.993	ID:2	Sending to sink: seq=4, parent_etx=64, rtmetric=281, neighbors=6
+00:51.011	ID:2	Packet sent: size=46 bytes
+00:51.024	ID:1	Received from node 0202: seq=4, hops=1
+00:51.037	ID:1	30 0 50 0 514 4 1 0 22 6465 0 3771 47876 12 51634 0 64 281 6 65 155 1 92 85 65535 65535 0 0 0 0
+00:51.272	ID:6	Sending to sink: seq=5, parent_etx=268, rtmetric=689, neighbors=1
+00:51.289	ID:6	Packet sent: size=46 bytes
+00:51.342	ID:1	Received from node 0606: seq=5, hops=4
+00:51.355	ID:1	30 0 50 0 1542 5 4 0 22 6498 0 2951 38582 12 41520 0 268 689 1 65 132 1 69 62 65535 65535 0 0 0 0
+00:51.564	ID:10	Sending to sink: seq=4, parent_etx=64, rtmetric=281, neighbors=6
+00:51.582	ID:10	Packet sent: size=46 bytes
+00:51.596	ID:1	Received from node 0a0a: seq=4, hops=1
+00:51.609	ID:1	30 0 50 0 2570 4 1 0 22 6497 0 3792 48113 12 51893 0 64 281 6 65 169 1 106 99 65535 65535 0 0 0 0
+00:53.065	ID:5	Sending to sink: seq=4, parent_etx=64, rtmetric=281, neighbors=6
+00:53.084	ID:5	Packet sent: size=46 bytes
+00:53.097	ID:1	Received from node 0505: seq=4, hops=1
+00:53.110	ID:1	30 0 52 0 1285 4 1 0 22 6669 0 3885 49396 12 53268 0 64 281 6 65 169 1 106 99 65535 65535 0 0 0 0
+00:53.722	ID:9	Sending to sink: seq=5, parent_etx=128, rtmetric=401, neighbors=6
+00:53.741	ID:9	Packet sent: size=46 bytes
+00:53.768	ID:1	Received from node 0909: seq=5, hops=2
+00:53.782	ID:1	30 0 53 0 2313 5 2 0 22 6754 0 3170 39992 12 43150 0 128 401 6 65 160 1 97 90 65535 65535 0 0 0 0
+00:56.167	ID:4	Sending to sink: seq=4, parent_etx=128, rtmetric=401, neighbors=4
+00:56.186	ID:4	Packet sent: size=46 bytes
+00:56.214	ID:1	Received from node 0404: seq=4, hops=2
+00:56.227	ID:1	30 0 55 0 1028 4 2 0 22 7113 0 4193 52637 12 56818 0 128 401 4 65 169 1 106 99 65535 65535 0 0 0 0
+00:57.422	ID:8	Sending to sink: seq=5, parent_etx=194, rtmetric=534, neighbors=2
+00:57.439	ID:8	Packet sent: size=46 bytes
+00:57.480	ID:1	Received from node 0808: seq=5, hops=3
+00:57.494	ID:1	30 0 56 0 2056 5 3 0 22 7308 0 3317 43399 13 46704 0 194 534 2 65 139 1 76 69 65535 65535 0 0 0 0
+00:57.814	ID:7	Sending to sink: seq=4, parent_etx=194, rtmetric=528, neighbors=3
+00:57.832	ID:7	Packet sent: size=46 bytes
+00:57.873	ID:1	Received from node 0707: seq=4, hops=3
+00:57.886	ID:1	30 0 57 0 1799 4 3 0 22 7316 0 4243 54223 26 58439 0 194 528 3 65 155 1 92 85 65535 65535 0 0 0 0
+00:59.532	ID:11	Sending to sink: seq=5, parent_etx=128, rtmetric=401, neighbors=3
+00:59.549	ID:11	Packet sent: size=46 bytes
+00:59.577	ID:1	Received from node 0b0b: seq=5, hops=2
+00:59.590	ID:1	30 0 58 0 2827 5 2 0 22 7563 0 3576 44770 25 48321 0 128 401 3 65 146 1 83 76 65535 65535 0 0 0 0
+00:59.929	ID:3	Sending to sink: seq=5, parent_etx=64, rtmetric=256, neighbors=8
+00:59.949	ID:3	Packet sent: size=46 bytes
+00:59.962	ID:1	Received from node 0303: seq=5, hops=1
+00:59.975	ID:1	30 0 59 0 771 5 1 0 22 7524 0 5129 42845 109 47864 0 64 256 8 65 146 1 83 76 65535 65535 0 0 0 0
+01:00.783	ID:1	Sink Stats: Packets=44, Time=59s
+01:00.784	ID:1	Stored Routes:
+01:00.791	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+01:00.798	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+01:00.805	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+01:00.812	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+01:00.820	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+01:00.827	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+01:00.834	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+01:00.841	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+01:00.848	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+01:00.855	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+01:00.856	ID:1	Neighbors:
+01:00.860	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+01:00.865	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+01:00.869	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+01:00.873	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+01:00.874	ID:1	Total routes: 10
+01:01.412	ID:6	Sending to sink: seq=6, parent_etx=268, rtmetric=685, neighbors=1
+01:01.430	ID:6	Packet sent: size=46 bytes
+01:01.483	ID:1	Received from node 0606: seq=6, hops=4
+01:01.497	ID:1	30 0 60 0 1542 6 4 0 22 7796 0 2987 38548 25 41510 0 268 685 1 65 116 1 53 46 65535 65535 0 0 0 0
+01:03.602	ID:2	Sending to sink: seq=5, parent_etx=64, rtmetric=273, neighbors=6
+01:03.620	ID:2	Packet sent: size=46 bytes
+01:03.633	ID:1	Received from node 0202: seq=5, hops=1
+01:03.646	ID:1	30 0 63 0 514 5 1 0 22 8079 0 4685 46961 22 51624 0 64 273 6 65 139 1 76 125 65535 65535 0 0 0 0
+01:04.235	ID:10	Sending to sink: seq=5, parent_etx=64, rtmetric=277, neighbors=6
+01:04.254	ID:10	Packet sent: size=46 bytes
+01:04.262	ID:9	Sending to sink: seq=6, parent_etx=128, rtmetric=398, neighbors=6
+01:04.267	ID:1	Received from node 0a0a: seq=5, hops=1
+01:04.280	ID:9	Packet sent: size=46 bytes
+01:04.280	ID:1	30 0 63 0 2570 5 1 0 22 8119 0 4665 47236 25 51876 0 64 277 6 65 153 1 90 83 65535 65535 0 0 0 0
+01:04.308	ID:1	Received from node 0909: seq=6, hops=2
+01:04.322	ID:1	30 0 63 0 2313 6 2 0 22 8103 0 4084 39085 12 43157 0 128 398 6 65 144 1 81 130 65535 65535 0 0 0 0
+01:06.073	ID:5	Sending to sink: seq=5, parent_etx=64, rtmetric=273, neighbors=6
+01:06.091	ID:5	Packet sent: size=46 bytes
+01:06.104	ID:1	Received from node 0505: seq=5, hops=1
+01:06.117	ID:1	30 0 65 0 1285 5 1 0 22 8334 0 5055 48222 35 53242 0 64 273 6 131 153 1 90 83 65535 65535 0 0 0 0
+01:08.828	ID:8	Sending to sink: seq=6, parent_etx=192, rtmetric=526, neighbors=2
+01:08.846	ID:8	Packet sent: size=46 bytes
+01:08.887	ID:1	Received from node 0808: seq=6, hops=3
+01:08.900	ID:1	30 0 68 0 2056 6 3 0 22 8768 0 3426 43293 25 46694 0 192 526 2 65 123 1 60 109 65535 65535 0 0 0 0
+01:10.043	ID:4	Sending to sink: seq=5, parent_etx=128, rtmetric=398, neighbors=4
+01:10.061	ID:4	Packet sent: size=46 bytes
+01:10.089	ID:1	Received from node 0404: seq=5, hops=2
+01:10.103	ID:1	30 0 69 0 1028 5 2 0 22 8889 0 4467 52364 25 56806 0 128 398 4 131 153 1 90 83 65535 65535 0 0 0 0
+01:11.337	ID:11	Sending to sink: seq=6, parent_etx=128, rtmetric=398, neighbors=3
+01:11.354	ID:11	Packet sent: size=46 bytes
+01:11.382	ID:1	Received from node 0b0b: seq=6, hops=2
+01:11.396	ID:1	30 0 70 0 2827 6 2 0 22 9074 0 3646 44707 12 48341 0 128 398 3 131 130 1 67 60 65535 65535 0 0 0 0
+01:11.553	ID:6	Sending to sink: seq=7, parent_etx=259, rtmetric=664, neighbors=1
+01:11.570	ID:6	Packet sent: size=46 bytes
+01:11.623	ID:1	Received from node 0606: seq=7, hops=4
+01:11.637	ID:1	30 0 70 0 1542 7 4 0 22 9094 0 2991 38543 12 41522 0 259 664 1 65 100 1 37 30 65535 65535 0 0 0 0
+01:11.672	ID:3	Sending to sink: seq=6, parent_etx=64, rtmetric=256, neighbors=8
+01:11.691	ID:3	Packet sent: size=46 bytes
+01:11.705	ID:1	Received from node 0303: seq=6, hops=1
+01:11.718	ID:1	30 0 71 0 771 6 1 0 22 9027 0 5882 42216 106 47990 0 64 256 8 131 130 1 67 60 65535 65535 0 0 0 0
+01:12.087	ID:7	Sending to sink: seq=5, parent_etx=192, rtmetric=517, neighbors=3
+01:12.105	ID:7	Packet sent: size=46 bytes
+01:12.145	ID:1	Received from node 0707: seq=5, hops=3
+01:12.159	ID:1	30 0 71 0 1799 5 3 0 22 9143 0 4651 53810 53 58407 0 192 517 3 65 139 1 76 125 65535 65535 0 0 0 0
+01:14.801	ID:9	Sending to sink: seq=7, parent_etx=128, rtmetric=395, neighbors=6
+01:14.819	ID:9	Packet sent: size=46 bytes
+01:14.846	ID:1	Received from node 0909: seq=7, hops=2
+01:14.860	ID:1	30 0 74 0 2313 7 2 0 22 9452 0 3383 39782 25 43139 0 128 395 6 131 135 1 72 65 65535 65535 0 0 0 0
+01:16.211	ID:2	Sending to sink: seq=6, parent_etx=64, rtmetric=270, neighbors=6
+01:16.230	ID:2	Packet sent: size=46 bytes
+01:16.243	ID:1	Received from node 0202: seq=6, hops=1
+01:16.256	ID:1	30 0 75 0 514 6 1 0 22 9693 0 4168 47479 25 51621 0 64 270 6 131 130 1 67 60 65535 65535 0 0 0 0
+01:16.907	ID:10	Sending to sink: seq=6, parent_etx=64, rtmetric=270, neighbors=6
+01:16.926	ID:10	Packet sent: size=46 bytes
+01:16.939	ID:1	Received from node 0a0a: seq=6, hops=1
+01:16.952	ID:1	30 0 76 0 2570 6 1 0 22 9741 0 4284 47618 22 51880 0 64 270 6 131 137 1 74 67 65535 65535 0 0 0 0
+01:19.081	ID:5	Sending to sink: seq=6, parent_etx=64, rtmetric=270, neighbors=6
+01:19.099	ID:5	Packet sent: size=46 bytes
+01:19.112	ID:1	Received from node 0505: seq=6, hops=1
+01:19.126	ID:1	30 0 78 0 1285 6 1 0 22 9999 0 4048 49232 12 53268 0 64 270 6 131 137 1 74 67 65535 65535 0 0 0 0
+01:19.278	ID:9	Sending to sink: seq=8, parent_etx=128, rtmetric=393, neighbors=6
+01:19.296	ID:9	Packet sent: size=46 bytes
+01:19.324	ID:1	Received from node 0909: seq=8, hops=2
+01:19.337	ID:1	30 0 78 0 2313 8 2 0 22 10025 0 2943 33736 25 36654 0 128 393 6 131 119 1 56 49 65535 65535 0 0 0 0
+01:20.235	ID:8	Sending to sink: seq=7, parent_etx=192, rtmetric=523, neighbors=2
+01:20.252	ID:8	Packet sent: size=46 bytes
+01:20.293	ID:1	Received from node 0808: seq=7, hops=3
+01:20.307	ID:1	30 0 79 0 2056 7 3 0 22 10229 0 3391 43330 12 46708 0 192 523 2 131 114 1 51 44 65535 65535 0 0 0 0
+01:21.694	ID:6	Sending to sink: seq=8, parent_etx=259, rtmetric=661, neighbors=1
+01:21.711	ID:6	Packet sent: size=46 bytes
+01:21.764	ID:1	Received from node 0606: seq=8, hops=4
+01:21.777	ID:1	30 0 81 0 1542 8 4 0 22 10392 0 2951 38584 12 41522 0 259 661 1 131 84 1 21 70 65535 65535 0 0 0 0
+01:23.141	ID:11	Sending to sink: seq=7, parent_etx=128, rtmetric=395, neighbors=3
+01:23.158	ID:11	Packet sent: size=46 bytes
+01:23.186	ID:1	Received from node 0b0b: seq=7, hops=2
+01:23.200	ID:1	30 0 82 0 2827 7 2 0 22 10585 0 3461 44887 12 48336 0 128 395 3 131 114 1 51 44 65535 65535 0 0 0 0
+01:23.414	ID:3	Sending to sink: seq=7, parent_etx=64, rtmetric=256, neighbors=8
+01:23.433	ID:3	Packet sent: size=46 bytes
+01:23.446	ID:1	Received from node 0303: seq=7, hops=1
+01:23.459	ID:1	30 0 82 0 771 7 1 0 22 10530 0 4540 43551 96 47995 0 64 256 8 131 114 1 51 44 65535 65535 0 0 0 0
+01:23.743	ID:7	Sending to sink: seq=6, parent_etx=192, rtmetric=515, neighbors=3
+01:23.761	ID:7	Packet sent: size=46 bytes
+01:23.801	ID:1	Received from node 0707: seq=6, hops=3
+01:23.815	ID:1	30 0 83 0 1799 6 3 0 22 10635 0 3517 44226 26 47716 0 192 515 3 131 130 1 67 60 65535 65535 0 0 0 0
+01:23.918	ID:4	Sending to sink: seq=6, parent_etx=128, rtmetric=395, neighbors=4
+01:23.936	ID:4	Packet sent: size=46 bytes
+01:23.964	ID:1	Received from node 0404: seq=6, hops=2
+01:23.978	ID:1	30 0 83 0 1028 6 2 0 22 10665 0 4182 52649 26 56805 0 128 395 4 131 144 1 81 74 65535 65535 0 0 0 0
+01:25.340	ID:9	Sending to sink: seq=9, parent_etx=128, rtmetric=391, neighbors=6
+01:25.358	ID:9	Packet sent: size=46 bytes
+01:25.386	ID:1	Received from node 0909: seq=9, hops=2
+01:25.399	ID:1	30 0 84 0 2313 9 2 0 22 10801 0 3636 46021 25 49632 0 128 391 6 131 103 1 40 33 65535 65535 0 0 0 0
+01:26.213	ID:5	Sending to sink: seq=7, parent_etx=64, rtmetric=267, neighbors=6
+01:26.232	ID:5	Packet sent: size=46 bytes
+01:26.244	ID:1	Received from node 0505: seq=7, hops=1
+01:26.258	ID:1	30 0 85 0 1285 7 1 0 22 10912 0 4475 53951 25 58401 0 64 267 6 131 121 1 58 107 65535 65535 0 0 0 0
+01:26.361	ID:7	Sending to sink: seq=7, parent_etx=192, rtmetric=514, neighbors=3
+01:26.379	ID:7	Packet sent: size=46 bytes
+01:26.419	ID:1	Received from node 0707: seq=7, hops=3
+01:26.433	ID:1	30 0 85 0 1799 7 3 0 22 10970 0 3396 39491 51 42837 0 192 514 3 131 114 1 51 100 65535 65535 0 0 0 0
+01:28.821	ID:2	Sending to sink: seq=7, parent_etx=64, rtmetric=267, neighbors=6
+01:28.839	ID:2	Packet sent: size=46 bytes
+01:28.852	ID:1	Received from node 0202: seq=7, hops=1
+01:28.866	ID:1	30 0 88 0 514 7 1 0 22 11307 0 4149 47497 12 51634 0 64 267 6 131 114 1 51 44 65535 65535 0 0 0 0
+01:29.579	ID:10	Sending to sink: seq=7, parent_etx=64, rtmetric=267, neighbors=6
+01:29.597	ID:10	Packet sent: size=46 bytes
+01:29.611	ID:1	Received from node 0a0a: seq=7, hops=1
+01:29.624	ID:1	30 0 88 0 2570 7 1 0 22 11363 0 3930 47972 26 51877 0 64 267 6 131 121 1 58 107 65535 65535 0 0 0 0
+01:30.876	ID:1	Sink Stats: Packets=71, Time=88s
+01:30.877	ID:1	Stored Routes:
+01:30.884	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+01:30.892	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+01:30.899	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+01:30.906	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+01:30.913	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+01:30.920	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+01:30.928	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+01:30.935	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+01:30.942	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+01:30.949	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+01:30.950	ID:1	Neighbors:
+01:30.954	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+01:30.958	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+01:30.962	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+01:30.967	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+01:30.968	ID:1	Total routes: 10
+01:31.641	ID:8	Sending to sink: seq=8, parent_etx=192, rtmetric=521, neighbors=2
+01:31.658	ID:8	Packet sent: size=46 bytes
+01:31.699	ID:1	Received from node 0808: seq=8, hops=3
+01:31.712	ID:1	30 0 91 0 2056 8 3 0 22 11688 0 3322 43395 13 46704 0 192 521 2 131 98 1 35 28 65535 65535 0 0 0 0
+01:31.834	ID:6	Sending to sink: seq=9, parent_etx=259, rtmetric=658, neighbors=1
+01:31.852	ID:6	Packet sent: size=46 bytes
+01:31.904	ID:1	Received from node 0606: seq=9, hops=4
+01:31.918	ID:1	30 0 91 0 1542 9 4 0 22 11690 0 2946 38589 12 41522 0 259 658 1 131 75 1 12 5 65535 65535 0 0 0 0
+01:32.088	ID:5	Sending to sink: seq=8, parent_etx=64, rtmetric=265, neighbors=6
+01:32.106	ID:5	Packet sent: size=46 bytes
+01:32.120	ID:1	Received from node 0505: seq=8, hops=1
+01:32.133	ID:1	30 0 91 0 1285 8 1 0 22 11663 0 3542 44584 25 48101 0 64 265 6 131 112 1 49 42 65535 65535 0 0 0 0
+01:32.930	ID:10	Sending to sink: seq=8, parent_etx=64, rtmetric=265, neighbors=6
+01:32.949	ID:10	Packet sent: size=46 bytes
+01:32.962	ID:1	Received from node 0a0a: seq=8, hops=1
+01:32.975	ID:1	30 0 92 0 2570 8 1 0 22 11792 0 4681 50221 51 54851 0 64 265 6 131 112 1 49 42 65535 65535 0 0 0 0
+01:33.586	ID:2	Sending to sink: seq=8, parent_etx=64, rtmetric=265, neighbors=6
+01:33.605	ID:2	Packet sent: size=46 bytes
+01:33.617	ID:1	Received from node 0202: seq=8, hops=1
+01:33.631	ID:1	30 0 92 0 514 8 1 0 22 11917 0 3124 35915 25 39013 0 64 265 6 131 98 1 35 84 65535 65535 0 0 0 0
+01:34.946	ID:11	Sending to sink: seq=8, parent_etx=128, rtmetric=393, neighbors=3
+01:34.964	ID:11	Packet sent: size=46 bytes
+01:34.991	ID:1	Received from node 0b0b: seq=8, hops=2
+01:35.005	ID:1	30 0 94 0 2827 8 2 0 22 12096 0 3464 44889 12 48341 0 128 393 3 131 98 1 35 28 65535 65535 0 0 0 0
+01:35.165	ID:3	Sending to sink: seq=8, parent_etx=64, rtmetric=256, neighbors=8
+01:35.184	ID:3	Packet sent: size=46 bytes
+01:35.198	ID:1	Received from node 0303: seq=8, hops=1
+01:35.211	ID:1	30 0 94 0 771 8 1 0 22 12034 0 4468 43665 123 48009 0 64 256 8 131 98 1 35 84 65535 65535 0 0 0 0
+01:35.879	ID:9	Sending to sink: seq=10, parent_etx=128, rtmetric=389, neighbors=6
+01:35.897	ID:9	Packet sent: size=46 bytes
+01:35.924	ID:1	Received from node 0909: seq=10, hops=2
+01:35.938	ID:1	30 0 95 0 2313 10 2 0 22 12150 0 2995 40170 12 43153 0 128 389 6 131 87 1 24 73 65535 65535 0 0 0 0
+01:37.792	ID:4	Sending to sink: seq=7, parent_etx=128, rtmetric=393, neighbors=4
+01:37.811	ID:4	Packet sent: size=46 bytes
+01:37.839	ID:1	Received from node 0404: seq=7, hops=2
+01:37.853	ID:1	30 0 97 0 1028 7 2 0 22 12441 0 4070 52760 12 56818 0 128 393 4 131 128 1 65 58 65535 65535 0 0 0 0
+01:39.678	ID:6	Sending to sink: seq=10, parent_etx=259, rtmetric=656, neighbors=1
+01:39.696	ID:6	Packet sent: size=46 bytes
+01:39.748	ID:1	Received from node 0606: seq=10, hops=4
+01:39.762	ID:1	30 0 99 0 1542 10 4 0 22 12694 0 4626 59630 25 64231 0 259 656 1 131 59 1 252 245 65535 65535 0 0 0 0
+01:40.634	ID:7	Sending to sink: seq=8, parent_etx=192, rtmetric=512, neighbors=3
+01:40.652	ID:7	Packet sent: size=46 bytes
+01:40.692	ID:1	Received from node 0707: seq=8, hops=3
+01:40.706	ID:1	30 0 100 0 1799 8 3 0 22 12797 0 4146 54314 40 58420 0 192 512 3 131 105 1 42 35 65535 65535 0 0 0 0
+01:41.430	ID:2	Sending to sink: seq=9, parent_etx=64, rtmetric=263, neighbors=6
+01:41.448	ID:2	Packet sent: size=46 bytes
+01:41.461	ID:1	Received from node 0202: seq=9, hops=1
+01:41.475	ID:1	30 0 100 0 514 9 1 0 22 12921 0 5144 59110 25 64229 0 64 263 6 131 89 1 26 19 65535 65535 0 0 0 0
+01:41.975	ID:6	Sending to sink: seq=11, parent_etx=259, rtmetric=654, neighbors=1
+01:41.993	ID:6	Packet sent: size=46 bytes
+01:42.045	ID:1	Received from node 0606: seq=11, hops=4
+01:42.060	ID:1	30 0 101 0 1542 11 4 0 22 12988 0 2942 34695 51 37586 0 259 654 1 131 43 1 236 29 65535 65535 0 0 0 0
+01:42.251	ID:10	Sending to sink: seq=9, parent_etx=64, rtmetric=263, neighbors=6
+01:42.269	ID:10	Packet sent: size=46 bytes
+01:42.282	ID:1	Received from node 0a0a: seq=9, hops=1
+01:42.296	ID:1	30 0 101 0 2570 9 1 0 22 12985 0 2727 35449 25 38151 0 64 263 6 131 96 1 33 82 65535 65535 0 0 0 0
+01:43.047	ID:8	Sending to sink: seq=9, parent_etx=192, rtmetric=519, neighbors=2
+01:43.064	ID:8	Packet sent: size=46 bytes
+01:43.105	ID:1	Received from node 0808: seq=9, hops=3
+01:43.119	ID:1	30 0 102 0 2056 9 3 0 22 13148 0 3405 43314 26 46693 0 192 519 2 131 82 1 19 12 65535 65535 0 0 0 0
+01:43.695	ID:3	Sending to sink: seq=9, parent_etx=64, rtmetric=256, neighbors=8
+01:43.714	ID:3	Packet sent: size=46 bytes
+01:43.727	ID:1	Received from node 0303: seq=9, hops=1
+01:43.741	ID:1	30 0 103 0 771 9 1 0 22 13126 0 4097 30839 96 34840 0 64 256 8 131 89 1 26 19 65535 65535 0 0 0 0
+01:45.097	ID:5	Sending to sink: seq=9, parent_etx=64, rtmetric=263, neighbors=6
+01:45.115	ID:5	Packet sent: size=46 bytes
+01:45.128	ID:1	Received from node 0505: seq=9, hops=1
+01:45.142	ID:1	30 0 104 0 1285 9 1 0 22 13329 0 3848 49432 12 53268 0 64 263 6 131 96 1 33 82 65535 65535 0 0 0 0
+01:46.418	ID:9	Sending to sink: seq=11, parent_etx=128, rtmetric=388, neighbors=6
+01:46.437	ID:9	Packet sent: size=46 bytes
+01:46.464	ID:1	Received from node 0909: seq=11, hops=2
+01:46.478	ID:1	30 0 105 0 2313 11 2 0 22 13499 0 3378 39791 12 43156 0 128 388 6 131 78 1 15 8 65535 65535 0 0 0 0
+01:46.750	ID:11	Sending to sink: seq=9, parent_etx=128, rtmetric=391, neighbors=3
+01:46.768	ID:11	Packet sent: size=46 bytes
+01:46.795	ID:1	Received from node 0b0b: seq=9, hops=2
+01:46.809	ID:1	30 0 106 0 2827 9 2 0 22 13607 0 3667 44681 12 48336 0 128 391 3 131 82 1 19 68 65535 65535 0 0 0 0
+01:46.898	ID:3	Sending to sink: seq=10, parent_etx=64, rtmetric=256, neighbors=8
+01:46.917	ID:3	Packet sent: size=46 bytes
+01:46.931	ID:1	Received from node 0303: seq=10, hops=1
+01:46.944	ID:1	30 0 106 0 771 10 1 0 22 13536 0 6054 46426 213 52265 0 64 256 8 131 73 1 10 3 65535 65535 0 0 0 0
+01:48.574	ID:4	Sending to sink: seq=8, parent_etx=128, rtmetric=391, neighbors=4
+01:48.592	ID:4	Packet sent: size=46 bytes
+01:48.620	ID:1	Received from node 0404: seq=8, hops=2
+01:48.634	ID:1	30 0 107 0 1028 8 2 0 22 13821 0 3508 40651 12 44147 0 128 391 4 131 119 1 56 49 65535 65535 0 0 0 0
+01:50.945	ID:8	Sending to sink: seq=10, parent_etx=192, rtmetric=517, neighbors=2
+01:50.963	ID:8	Packet sent: size=46 bytes
+01:51.003	ID:1	Received from node 0808: seq=10, hops=3
+01:51.017	ID:1	30 0 110 0 2056 10 3 0 22 14159 0 4682 60018 25 64674 0 192 517 2 131 66 1 3 252 65535 65535 0 0 0 0
+01:51.667	ID:4	Sending to sink: seq=9, parent_etx=128, rtmetric=388, neighbors=4
+01:51.686	ID:4	Packet sent: size=46 bytes
+01:51.713	ID:1	Received from node 0404: seq=9, hops=2
+01:51.728	ID:1	30 0 111 0 1028 9 2 0 22 14217 0 4553 46130 91 50591 0 128 388 4 131 103 1 40 33 65535 65535 0 0 0 0
+01:52.116	ID:6	Sending to sink: seq=12, parent_etx=259, rtmetric=652, neighbors=1
+01:52.133	ID:6	Packet sent: size=46 bytes
+01:52.186	ID:1	Received from node 0606: seq=12, hops=4
+01:52.200	ID:1	30 0 111 0 1542 12 4 0 22 14286 0 2769 38764 12 41520 0 259 652 1 131 34 1 227 220 65535 65535 0 0 0 0
+01:52.259	ID:11	Sending to sink: seq=10, parent_etx=128, rtmetric=388, neighbors=3
+01:52.276	ID:11	Packet sent: size=46 bytes
+01:52.304	ID:1	Received from node 0b0b: seq=10, hops=2
+01:52.318	ID:1	30 0 111 0 2827 10 2 0 22 14312 0 3724 41401 45 45080 0 128 388 3 131 73 1 10 59 65535 65535 0 0 0 0
+01:54.040	ID:2	Sending to sink: seq=10, parent_etx=64, rtmetric=261, neighbors=6
+01:54.058	ID:2	Packet sent: size=46 bytes
+01:54.071	ID:1	Received from node 0202: seq=10, hops=1
+01:54.085	ID:1	30 0 113 0 514 10 1 0 22 14535 0 4169 47479 26 51622 0 64 261 6 131 73 1 10 3 65535 65535 0 0 0 0
+01:54.454	ID:8	Sending to sink: seq=11, parent_etx=192, rtmetric=516, neighbors=2
+01:54.471	ID:8	Packet sent: size=46 bytes
+01:54.512	ID:1	Received from node 0808: seq=11, hops=3
+01:54.526	ID:1	30 0 113 0 2056 11 3 0 22 14609 0 4752 52737 51 57437 0 192 516 2 131 50 1 243 36 65535 65535 0 0 0 0
+01:54.908	ID:7	Sending to sink: seq=9, parent_etx=192, rtmetric=512, neighbors=3
+01:54.923	ID:10	Sending to sink: seq=10, parent_etx=64, rtmetric=261, neighbors=6
+01:54.926	ID:7	Packet sent: size=46 bytes
+01:54.941	ID:10	Packet sent: size=46 bytes
+01:54.983	ID:1	Received from node 0a0a: seq=10, hops=1
+01:54.997	ID:1	30 0 114 0 2570 10 1 0 22 14607 0 3964 47940 12 51891 0 64 261 6 131 87 1 24 17 65535 65535 0 0 0 0
+01:55.059	ID:1	Received from node 0707: seq=9, hops=3
+01:55.073	ID:1	30 0 114 0 1799 9 3 0 22 14624 0 4361 54105 50 58415 0 192 512 3 131 89 1 26 19 65535 65535 0 0 0 0
+01:56.957	ID:9	Sending to sink: seq=12, parent_etx=128, rtmetric=386, neighbors=6
+01:56.975	ID:9	Packet sent: size=46 bytes
+01:57.003	ID:1	Received from node 0909: seq=12, hops=2
+01:57.017	ID:1	30 0 116 0 2313 12 2 0 22 14848 0 3559 39606 23 43142 0 128 386 6 131 62 1 255 248 65535 65535 0 0 0 0
+01:58.104	ID:5	Sending to sink: seq=10, parent_etx=64, rtmetric=261, neighbors=6
+01:58.122	ID:5	Packet sent: size=46 bytes
+01:58.136	ID:1	Received from node 0505: seq=10, hops=1
+01:58.150	ID:1	30 0 117 0 1285 10 1 0 22 14994 0 3902 49375 25 53252 0 64 261 6 131 87 1 24 17 65535 65535 0 0 0 0
+01:58.556	ID:11	Sending to sink: seq=11, parent_etx=128, rtmetric=387, neighbors=3
+01:58.573	ID:11	Packet sent: size=46 bytes
+01:58.601	ID:1	Received from node 0b0b: seq=11, hops=2
+01:58.615	ID:1	30 0 117 0 2827 11 2 0 22 15118 0 3705 47876 25 51556 0 128 387 3 131 64 1 1 250 65535 65535 0 0 0 0
+01:58.641	ID:3	Sending to sink: seq=11, parent_etx=64, rtmetric=256, neighbors=8
+01:58.660	ID:3	Packet sent: size=46 bytes
+01:58.674	ID:1	Received from node 0303: seq=11, hops=1
+01:58.688	ID:1	30 0 118 0 771 11 1 0 22 15039 0 6071 42027 198 47898 0 64 256 8 131 57 1 250 243 65535 65535 0 0 0 0
+02:00.971	ID:1	Sink Stats: Packets=104, Time=118s
+02:00.972	ID:1	Stored Routes:
+02:00.979	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+02:00.986	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+02:00.993	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+02:01.001	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+02:01.008	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+02:01.015	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+02:01.022	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+02:01.030	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+02:01.037	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+02:01.044	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+02:01.045	ID:1	Neighbors:
+02:01.049	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+02:01.053	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+02:01.057	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+02:01.061	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+02:01.062	ID:1	Total routes: 10
+02:02.022	ID:6	Sending to sink: seq=13, parent_etx=259, rtmetric=650, neighbors=1
+02:02.039	ID:6	Packet sent: size=46 bytes
+02:02.097	ID:1	Received from node 0606: seq=13, hops=4
+02:02.112	ID:1	30 0 121 0 1542 13 4 0 22 15554 0 2804 37771 26 40549 0 259 650 1 131 18 1 211 204 65535 65535 0 0 0 0
+02:02.256	ID:6	Sending to sink: seq=14, parent_etx=259, rtmetric=650, neighbors=1
+02:02.274	ID:6	Packet sent: size=46 bytes
+02:02.347	ID:1	Received from node 0606: seq=14, hops=4
+02:02.361	ID:1	30 0 121 0 1542 14 4 0 22 15584 0 1528 6148 102 7575 0 259 650 1 131 2 1 195 188 65535 65535 0 0 0 0
+02:05.543	ID:4	Sending to sink: seq=10, parent_etx=128, rtmetric=387, neighbors=4
+02:05.561	ID:4	Packet sent: size=46 bytes
+02:05.589	ID:1	Received from node 0404: seq=10, hops=2
+02:05.603	ID:1	30 0 124 0 1028 10 2 0 22 15993 0 3955 52877 25 56806 0 128 387 4 131 87 1 24 17 65535 65535 0 0 0 0
+02:05.860	ID:8	Sending to sink: seq=12, parent_etx=192, rtmetric=514, neighbors=2
+02:05.877	ID:8	Packet sent: size=46 bytes
+02:05.948	ID:1	Received from node 0808: seq=12, hops=3
+02:05.963	ID:1	30 0 125 0 2056 12 3 0 22 16068 0 3317 43399 23 46694 0 192 514 2 131 41 1 234 227 65535 65535 0 0 0 0
+02:06.649	ID:2	Sending to sink: seq=11, parent_etx=64, rtmetric=260, neighbors=6
+02:06.667	ID:2	Packet sent: size=46 bytes
+02:06.680	ID:1	Received from node 0202: seq=11, hops=1
+02:06.695	ID:1	30 0 126 0 514 11 1 0 22 16149 0 4255 47393 25 51622 0 64 260 6 131 57 1 250 243 65535 65535 0 0 0 0
+02:06.712	ID:7	Sending to sink: seq=10, parent_etx=265, rtmetric=658, neighbors=3
+02:06.730	ID:7	Packet sent: size=46 bytes
+02:06.770	ID:1	Received from node 0707: seq=10, hops=3
+02:06.785	ID:1	30 0 126 0 1799 10 3 0 22 16135 0 3898 44451 117 48231 0 265 658 3 131 73 1 10 59 65535 65535 0 0 0 0
+02:07.497	ID:9	Sending to sink: seq=13, parent_etx=128, rtmetric=385, neighbors=6
+02:07.515	ID:9	Packet sent: size=46 bytes
+02:07.542	ID:1	Received from node 0909: seq=13, hops=2
+02:07.557	ID:1	30 0 126 0 2313 13 2 0 22 16197 0 3513 39656 25 43143 0 128 385 6 131 46 1 239 232 65535 65535 0 0 0 0
+02:07.595	ID:10	Sending to sink: seq=11, parent_etx=64, rtmetric=433, neighbors=6
+02:07.614	ID:10	Packet sent: size=46 bytes
+02:07.627	ID:1	Received from node 0a0a: seq=11, hops=1
+02:07.641	ID:1	30 0 126 0 2570 11 1 0 22 16229 0 4629 47277 102 51804 0 64 433 6 131 71 1 8 1 65535 65535 0 0 0 0
+02:09.181	ID:7	Sending to sink: seq=11, parent_etx=265, rtmetric=658, neighbors=3
+02:09.199	ID:7	Packet sent: size=46 bytes
+02:09.239	ID:1	Received from node 0707: seq=11, hops=3
+02:09.254	ID:1	30 0 128 0 1799 11 3 0 22 16451 0 3243 37203 50 40394 0 265 658 3 131 64 1 1 250 65535 65535 0 0 0 0
+02:10.360	ID:11	Sending to sink: seq=12, parent_etx=128, rtmetric=386, neighbors=3
+02:10.377	ID:11	Packet sent: size=46 bytes
+02:10.383	ID:3	Sending to sink: seq=12, parent_etx=64, rtmetric=261, neighbors=8
+02:10.402	ID:3	Packet sent: size=46 bytes
+02:10.424	ID:1	Received from node 0303: seq=12, hops=1
+02:10.438	ID:1	30 0 129 0 771 12 1 0 22 16542 0 6375 41718 134 47958 0 64 261 8 131 41 1 234 227 65535 65535 0 0 0 0
+02:10.446	ID:1	Received from node 0b0b: seq=12, hops=2
+02:10.461	ID:1	30 0 129 0 2827 12 2 0 22 16629 0 3474 44875 25 48323 0 128 386 3 131 48 1 241 234 65535 65535 0 0 0 0
+02:11.112	ID:5	Sending to sink: seq=11, parent_etx=64, rtmetric=259, neighbors=6
+02:11.131	ID:5	Packet sent: size=46 bytes
+02:11.144	ID:1	Received from node 0505: seq=11, hops=1
+02:11.158	ID:1	30 0 130 0 1285 11 1 0 22 16659 0 4873 48408 36 53245 0 64 259 6 131 71 1 8 57 65535 65535 0 0 0 0
+02:12.397	ID:6	Sending to sink: seq=15, parent_etx=329, rtmetric=786, neighbors=1
+02:12.414	ID:6	Packet sent: size=46 bytes
+02:12.467	ID:1	Received from node 0606: seq=15, hops=4
+02:12.481	ID:1	30 0 131 0 1542 15 4 0 22 16882 0 2941 38594 35 41499 0 329 786 1 131 242 1 179 228 65535 65535 0 0 0 0
+02:16.399	ID:10	Sending to sink: seq=12, parent_etx=64, rtmetric=383, neighbors=6
+02:16.417	ID:10	Packet sent: size=46 bytes
+02:16.431	ID:1	Received from node 0a0a: seq=12, hops=1
+02:16.445	ID:1	30 0 135 0 2570 12 1 0 22 17356 0 2883 33175 22 36035 0 64 383 6 262 55 1 248 41 65535 65535 0 0 0 0
+02:17.266	ID:8	Sending to sink: seq=13, parent_etx=261, rtmetric=690, neighbors=2
+02:17.283	ID:8	Packet sent: size=46 bytes
+02:17.324	ID:1	Received from node 0808: seq=13, hops=3
+02:17.338	ID:1	30 0 136 0 2056 13 3 0 22 17528 0 3584 43134 51 46668 0 261 690 2 131 25 1 218 211 65535 65535 0 0 0 0
+02:18.035	ID:9	Sending to sink: seq=14, parent_etx=128, rtmetric=384, neighbors=6
+02:18.053	ID:9	Packet sent: size=46 bytes
+02:18.081	ID:1	Received from node 0909: seq=14, hops=2
+02:18.095	ID:1	30 0 137 0 2313 14 2 0 22 17546 0 3184 39981 12 43152 0 128 384 6 262 30 1 223 216 65535 65535 0 0 0 0
+02:19.258	ID:2	Sending to sink: seq=12, parent_etx=64, rtmetric=258, neighbors=6
+02:19.277	ID:2	Packet sent: size=46 bytes
+02:19.290	ID:1	Received from node 0202: seq=12, hops=1
+02:19.304	ID:1	30 0 138 0 514 12 1 0 22 17763 0 3963 47684 22 51624 0 64 258 6 262 41 1 234 227 65535 65535 0 0 0 0
+02:19.418	ID:4	Sending to sink: seq=11, parent_etx=128, rtmetric=386, neighbors=4
+02:19.436	ID:4	Packet sent: size=46 bytes
+02:19.464	ID:1	Received from node 0404: seq=11, hops=2
+02:19.478	ID:1	30 0 138 0 1028 11 2 0 22 17769 0 4306 52525 12 56818 0 128 386 4 262 71 1 8 1 65535 65535 0 0 0 0
+02:20.267	ID:10	Sending to sink: seq=13, parent_etx=64, rtmetric=363, neighbors=6
+02:20.285	ID:10	Packet sent: size=46 bytes
+02:20.298	ID:1	Received from node 0a0a: seq=13, hops=1
+02:20.313	ID:1	30 0 139 0 2570 13 1 0 22 17851 0 4999 58368 51 63315 0 64 363 6 262 46 1 239 232 65535 65535 0 0 0 0
+02:22.125	ID:3	Sending to sink: seq=13, parent_etx=64, rtmetric=256, neighbors=8
+02:22.145	ID:3	Packet sent: size=46 bytes
+02:22.158	ID:1	Received from node 0303: seq=13, hops=1
+02:22.165	ID:11	Sending to sink: seq=13, parent_etx=128, rtmetric=385, neighbors=3
+02:22.172	ID:1	30 0 141 0 771 13 1 0 22 18045 0 4438 43659 92 48005 0 64 256 8 262 25 1 218 211 65535 65535 0 0 0 0
+02:22.182	ID:11	Packet sent: size=46 bytes
+02:22.231	ID:1	Received from node 0b0b: seq=13, hops=2
+02:22.245	ID:1	30 0 141 0 2827 13 2 0 22 18140 0 3464 44889 12 48341 0 128 385 3 262 32 1 225 218 65535 65535 0 0 0 0
+02:22.538	ID:6	Sending to sink: seq=16, parent_etx=329, rtmetric=786, neighbors=1
+02:22.556	ID:6	Packet sent: size=46 bytes
+02:22.609	ID:1	Received from node 0606: seq=16, hops=4
+02:22.623	ID:1	30 0 141 0 1542 16 4 0 22 18181 0 2822 38716 12 41526 0 329 786 1 262 233 1 170 163 65535 65535 0 0 0 0
+02:23.455	ID:7	Sending to sink: seq=12, parent_etx=265, rtmetric=658, neighbors=3
+02:23.473	ID:7	Packet sent: size=46 bytes
+02:23.510	ID:5	Sending to sink: seq=12, parent_etx=64, rtmetric=258, neighbors=6
+02:23.514	ID:1	Received from node 0707: seq=12, hops=3
+02:23.528	ID:1	30 0 142 0 1799 12 3 0 22 18279 0 4412 54054 66 58398 0 265 658 3 262 48 1 241 234 65535 65535 0 0 0 0
+02:23.529	ID:5	Packet sent: size=46 bytes
+02:23.542	ID:1	Received from node 0505: seq=12, hops=1
+02:23.556	ID:1	30 0 142 0 1285 12 1 0 22 18246 0 3719 47061 12 50768 0 64 258 6 262 62 1 255 248 65535 65535 0 0 0 0
+02:24.120	ID:5	Sending to sink: seq=13, parent_etx=64, rtmetric=257, neighbors=6
+02:24.138	ID:5	Packet sent: size=46 bytes
+02:24.151	ID:1	Received from node 0505: seq=13, hops=1
+02:24.165	ID:1	30 0 143 0 1285 13 1 0 22 18324 0 3018 16945 102 19860 0 64 257 6 262 46 1 239 232 65535 65535 0 0 0 0
+02:28.575	ID:9	Sending to sink: seq=15, parent_etx=128, rtmetric=384, neighbors=6
+02:28.593	ID:9	Packet sent: size=46 bytes
+02:28.620	ID:1	Received from node 0909: seq=15, hops=2
+02:28.635	ID:1	30 0 147 0 2313 15 2 0 22 18895 0 3173 39996 12 43156 0 128 384 6 262 14 1 207 200 65535 65535 0 0 0 0
+02:28.673	ID:8	Sending to sink: seq=14, parent_etx=261, rtmetric=684, neighbors=2
+02:28.690	ID:8	Packet sent: size=46 bytes
+02:28.731	ID:1	Received from node 0808: seq=14, hops=3
+02:28.745	ID:1	30 0 148 0 2056 14 3 0 22 18989 0 3329 43392 12 46709 0 261 684 2 262 9 1 202 251 65535 65535 0 0 0 0
+02:31.064	ID:1	Sink Stats: Packets=131, Time=148s
+02:31.065	ID:1	Stored Routes:
+02:31.073	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+02:31.080	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+02:31.087	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+02:31.094	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+02:31.102	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+02:31.109	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+02:31.116	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+02:31.123	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+02:31.130	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+02:31.138	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+02:31.138	ID:1	Neighbors:
+02:31.142	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+02:31.147	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+02:31.151	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+02:31.155	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+02:31.156	ID:1	Total routes: 10
+02:31.633	ID:3	Sending to sink: seq=14, parent_etx=64, rtmetric=256, neighbors=8
+02:31.652	ID:3	Packet sent: size=46 bytes
+02:31.665	ID:1	Received from node 0303: seq=14, hops=1
+02:31.679	ID:1	30 0 151 0 771 14 1 0 22 19262 0 3623 35317 82 38858 0 64 256 8 262 9 1 202 195 65535 65535 0 0 0 0
+02:31.868	ID:2	Sending to sink: seq=13, parent_etx=64, rtmetric=257, neighbors=6
+02:31.886	ID:2	Packet sent: size=46 bytes
+02:31.899	ID:1	Received from node 0202: seq=13, hops=1
+02:31.913	ID:1	30 0 151 0 514 13 1 0 22 19377 0 3777 47870 12 51634 0 64 257 6 262 25 1 218 211 65535 65535 0 0 0 0
+02:32.678	ID:6	Sending to sink: seq=17, parent_etx=329, rtmetric=786, neighbors=1
+02:32.695	ID:6	Packet sent: size=46 bytes
+02:32.748	ID:1	Received from node 0606: seq=17, hops=4
+02:32.763	ID:1	30 0 152 0 1542 17 4 0 22 19478 0 2771 38760 12 41519 0 329 786 1 262 217 1 154 147 65535 65535 0 0 0 0
+02:32.938	ID:10	Sending to sink: seq=14, parent_etx=64, rtmetric=346, neighbors=6
+02:32.957	ID:10	Packet sent: size=46 bytes
+02:32.970	ID:1	Received from node 0a0a: seq=14, hops=1
+02:32.985	ID:1	30 0 152 0 2570 14 1 0 22 19473 0 3578 48325 12 51890 0 64 346 6 262 30 1 223 216 65535 65535 0 0 0 0
+02:33.293	ID:4	Sending to sink: seq=12, parent_etx=128, rtmetric=385, neighbors=4
+02:33.311	ID:4	Packet sent: size=46 bytes
+02:33.339	ID:1	Received from node 0404: seq=12, hops=2
+02:33.353	ID:1	30 0 152 0 1028 12 2 0 22 19545 0 4068 52762 12 56818 0 128 385 4 262 55 1 248 41 65535 65535 0 0 0 0
+02:33.867	ID:3	Sending to sink: seq=15, parent_etx=64, rtmetric=256, neighbors=8
+02:33.886	ID:3	Packet sent: size=46 bytes
+02:33.899	ID:1	Received from node 0303: seq=15, hops=1
+02:33.914	ID:1	30 0 153 0 771 15 1 0 22 19548 0 4404 32201 162 36442 0 64 256 8 262 249 1 186 179 65535 65535 0 0 0 0
+02:33.969	ID:11	Sending to sink: seq=14, parent_etx=128, rtmetric=384, neighbors=3
+02:33.987	ID:11	Packet sent: size=46 bytes
+02:34.014	ID:1	Received from node 0b0b: seq=14, hops=2
+02:34.028	ID:1	30 0 153 0 2827 14 2 0 22 19651 0 3462 44886 12 48336 0 128 384 3 262 16 1 209 202 65535 65535 0 0 0 0
+02:37.128	ID:5	Sending to sink: seq=14, parent_etx=64, rtmetric=256, neighbors=6
+02:37.146	ID:5	Packet sent: size=46 bytes
+02:37.159	ID:1	Received from node 0505: seq=14, hops=1
+02:37.174	ID:1	30 0 156 0 1285 14 1 0 22 19989 0 3656 49625 12 53268 0 64 256 6 262 30 1 223 216 65535 65535 0 0 0 0
+02:37.728	ID:7	Sending to sink: seq=13, parent_etx=265, rtmetric=658, neighbors=3
+02:37.745	ID:7	Packet sent: size=46 bytes
+02:37.786	ID:1	Received from node 0707: seq=13, hops=3
+02:37.800	ID:1	30 0 157 0 1799 13 3 0 22 20105 0 3994 54466 26 58434 0 265 658 3 262 32 1 225 218 65535 65535 0 0 0 0
+02:39.113	ID:9	Sending to sink: seq=16, parent_etx=128, rtmetric=384, neighbors=6
+02:39.131	ID:9	Packet sent: size=46 bytes
+02:39.159	ID:1	Received from node 0909: seq=16, hops=2
+02:39.173	ID:1	30 0 158 0 2313 16 2 0 22 20244 0 3180 39985 12 43152 0 128 384 6 262 254 1 191 184 65535 65535 0 0 0 0
+02:40.078	ID:8	Sending to sink: seq=15, parent_etx=261, rtmetric=678, neighbors=2
+02:40.096	ID:8	Packet sent: size=46 bytes
+02:40.136	ID:1	Received from node 0808: seq=15, hops=3
+02:40.151	ID:1	30 0 159 0 2056 15 3 0 22 20448 0 3317 43399 12 46704 0 261 678 2 262 0 1 193 186 65535 65535 0 0 0 0
+02:40.853	ID:11	Sending to sink: seq=15, parent_etx=128, rtmetric=384, neighbors=3
+02:40.870	ID:11	Packet sent: size=46 bytes
+02:40.897	ID:1	Received from node 0b0b: seq=15, hops=2
+02:40.912	ID:1	30 0 160 0 2827 15 2 0 22 20532 0 4173 52215 25 56363 0 128 384 3 262 0 1 193 242 65535 65535 0 0 0 0
+02:42.819	ID:6	Sending to sink: seq=18, parent_etx=329, rtmetric=786, neighbors=1
+02:42.836	ID:6	Packet sent: size=46 bytes
+02:42.889	ID:1	Received from node 0606: seq=18, hops=4
+02:42.904	ID:1	30 0 162 0 1542 18 4 0 22 20776 0 2771 38766 12 41525 0 329 786 1 262 201 1 138 131 65535 65535 0 0 0 0
+02:44.477	ID:2	Sending to sink: seq=14, parent_etx=64, rtmetric=256, neighbors=6
+02:44.495	ID:2	Packet sent: size=46 bytes
+02:44.509	ID:1	Received from node 0202: seq=14, hops=1
+02:44.523	ID:1	30 0 163 0 514 14 1 0 22 20991 0 3772 47874 12 51634 0 64 256 6 262 9 1 202 195 65535 65535 0 0 0 0
+02:45.610	ID:3	Sending to sink: seq=16, parent_etx=64, rtmetric=256, neighbors=8
+02:45.610	ID:10	Sending to sink: seq=15, parent_etx=64, rtmetric=332, neighbors=6
+02:45.629	ID:10	Packet sent: size=46 bytes
+02:45.629	ID:3	Packet sent: size=46 bytes
+02:45.642	ID:1	Received from node 0a0a: seq=15, hops=1
+02:45.656	ID:1	30 0 165 0 2570 15 1 0 22 21095 0 3710 48192 26 51877 0 64 332 6 262 14 1 207 0 65535 65535 0 0 0 0
+02:45.665	ID:1	Received from node 0303: seq=16, hops=1
+02:45.679	ID:1	30 0 165 0 771 16 1 0 22 21051 0 4344 43753 96 48001 0 64 256 8 262 233 1 170 163 65535 65535 0 0 0 0
+02:45.774	ID:11	Sending to sink: seq=16, parent_etx=128, rtmetric=384, neighbors=3
+02:45.792	ID:11	Packet sent: size=46 bytes
+02:45.819	ID:1	Received from node 0b0b: seq=16, hops=2
+02:45.834	ID:1	30 0 165 0 2827 16 2 0 22 21162 0 2899 37419 25 40292 0 128 384 3 262 247 1 184 177 65535 65535 0 0 0 0
+02:46.277	ID:4	Sending to sink: seq=13, parent_etx=128, rtmetric=384, neighbors=4
+02:46.296	ID:4	Packet sent: size=46 bytes
+02:46.323	ID:1	Received from node 0404: seq=13, hops=2
+02:46.338	ID:1	30 0 165 0 1028 13 2 0 22 21207 0 3822 49361 12 53170 0 128 384 4 262 46 1 239 232 65535 65535 0 0 0 0
+02:46.680	ID:2	Sending to sink: seq=15, parent_etx=64, rtmetric=256, neighbors=6
+02:46.698	ID:2	Packet sent: size=46 bytes
+02:46.711	ID:1	Received from node 0202: seq=15, hops=1
+02:46.726	ID:1	30 0 166 0 514 15 1 0 22 21273 0 4054 32040 51 36044 0 64 256 6 262 249 1 186 179 65535 65535 0 0 0 0
+02:47.168	ID:4	Sending to sink: seq=14, parent_etx=128, rtmetric=384, neighbors=4
+02:47.186	ID:4	Packet sent: size=46 bytes
+02:47.230	ID:1	Received from node 0404: seq=14, hops=2
+02:47.244	ID:1	30 0 166 0 1028 14 2 0 22 21321 0 3395 25783 102 29075 0 128 384 4 262 30 1 223 216 65535 65535 0 0 0 0
+02:47.872	ID:9	Sending to sink: seq=17, parent_etx=128, rtmetric=384, neighbors=6
+02:47.890	ID:9	Packet sent: size=46 bytes
+02:47.918	ID:1	Received from node 0909: seq=17, hops=2
+02:47.932	ID:1	30 0 167 0 2313 17 2 0 22 21365 0 3003 32873 26 35849 0 128 384 6 262 238 1 175 168 65535 65535 0 0 0 0
+02:49.653	ID:9	Sending to sink: seq=18, parent_etx=128, rtmetric=384, neighbors=6
+02:49.671	ID:9	Packet sent: size=46 bytes
+02:49.699	ID:1	Received from node 0909: seq=18, hops=2
+02:49.713	ID:1	30 0 169 0 2313 18 2 0 22 21593 0 5470 52890 102 58258 0 128 384 6 262 222 1 159 152 65535 65535 0 0 0 0
+02:50.135	ID:5	Sending to sink: seq=15, parent_etx=64, rtmetric=256, neighbors=6
+02:50.153	ID:5	Packet sent: size=46 bytes
+02:50.167	ID:1	Received from node 0505: seq=15, hops=1
+02:50.181	ID:1	30 0 169 0 1285 15 1 0 22 21654 0 3675 49602 12 53265 0 64 256 6 262 14 1 207 0 65535 65535 0 0 0 0
+02:51.485	ID:8	Sending to sink: seq=16, parent_etx=261, rtmetric=673, neighbors=2
+02:51.502	ID:8	Packet sent: size=46 bytes
+02:51.543	ID:1	Received from node 0808: seq=16, hops=3
+02:51.558	ID:1	30 0 170 0 2056 16 3 0 22 21908 0 3321 43398 12 46706 0 261 673 2 262 240 1 177 170 65535 65535 0 0 0 0
+02:52.002	ID:7	Sending to sink: seq=14, parent_etx=265, rtmetric=658, neighbors=3
+02:52.020	ID:7	Packet sent: size=46 bytes
+02:52.060	ID:1	Received from node 0707: seq=14, hops=3
+02:52.075	ID:1	30 0 171 0 1799 14 3 0 22 21933 0 3991 54474 26 58439 0 265 658 3 262 16 1 209 202 65535 65535 0 0 0 0
+02:52.959	ID:6	Sending to sink: seq=19, parent_etx=329, rtmetric=786, neighbors=1
+02:52.977	ID:6	Packet sent: size=46 bytes
+02:53.029	ID:1	Received from node 0606: seq=19, hops=4
+02:53.044	ID:1	30 0 172 0 1542 19 4 0 22 22074 0 2769 38764 12 41520 0 329 786 1 262 185 1 122 115 65535 65535 0 0 0 0
+02:55.461	ID:8	Sending to sink: seq=17, parent_etx=261, rtmetric=669, neighbors=2
+02:55.478	ID:8	Packet sent: size=46 bytes
+02:55.518	ID:1	Received from node 0808: seq=17, hops=3
+02:55.533	ID:1	30 0 174 0 2056 17 3 0 22 22417 0 5031 60110 50 65090 0 261 669 2 262 224 1 161 154 65535 65535 0 0 0 0
+02:57.086	ID:2	Sending to sink: seq=16, parent_etx=64, rtmetric=256, neighbors=6
+02:57.105	ID:2	Packet sent: size=46 bytes
+02:57.118	ID:1	Received from node 0202: seq=16, hops=1
+02:57.132	ID:1	30 0 176 0 514 16 1 0 22 22605 0 2971 39652 12 42610 0 64 256 6 262 233 1 170 163 65535 65535 0 0 0 0
+02:57.351	ID:3	Sending to sink: seq=17, parent_etx=64, rtmetric=256, neighbors=8
+02:57.371	ID:3	Packet sent: size=46 bytes
+02:57.384	ID:1	Received from node 0303: seq=17, hops=1
+02:57.398	ID:1	30 0 176 0 771 17 1 0 22 22554 0 4684 43409 137 47953 0 64 256 8 262 217 1 154 147 65535 65535 0 0 0 0
+02:57.579	ID:11	Sending to sink: seq=17, parent_etx=128, rtmetric=384, neighbors=3
+02:57.596	ID:11	Packet sent: size=46 bytes
+02:57.623	ID:1	Received from node 0b0b: seq=17, hops=2
+02:57.638	ID:1	30 0 176 0 2827 17 2 0 22 22673 0 3356 44992 26 48322 0 128 384 3 262 231 1 168 161 65535 65535 0 0 0 0
+02:58.282	ID:10	Sending to sink: seq=16, parent_etx=64, rtmetric=320, neighbors=6
+02:58.301	ID:10	Packet sent: size=46 bytes
+02:58.314	ID:1	Received from node 0a0a: seq=16, hops=1
+02:58.328	ID:1	30 0 177 0 2570 16 1 0 22 22717 0 3777 48125 12 51890 0 64 320 6 262 5 1 198 191 65535 65535 0 0 0 0
+03:00.191	ID:9	Sending to sink: seq=19, parent_etx=128, rtmetric=384, neighbors=6
+03:00.209	ID:9	Packet sent: size=46 bytes
+03:00.237	ID:1	Received from node 0909: seq=19, hops=2
+03:00.251	ID:1	30 0 179 0 2313 19 2 0 22 22942 0 2998 40164 12 43150 0 128 384 6 262 206 1 143 192 65535 65535 0 0 0 0
+03:01.043	ID:4	Sending to sink: seq=15, parent_etx=128, rtmetric=384, neighbors=4
+03:01.061	ID:4	Packet sent: size=46 bytes
+03:01.089	ID:1	Received from node 0404: seq=15, hops=2
+03:01.103	ID:1	30 0 180 0 1028 15 2 0 22 23097 0 3842 52989 12 56819 0 128 384 4 262 14 1 207 200 65535 65535 0 0 0 0
+03:01.158	ID:1	Sink Stats: Packets=164, Time=180s
+03:01.159	ID:1	Stored Routes:
+03:01.166	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+03:01.174	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+03:01.181	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+03:01.188	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+03:01.195	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+03:01.203	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+03:01.210	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+03:01.217	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+03:01.224	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+03:01.231	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+03:01.232	ID:1	Neighbors:
+03:01.236	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+03:01.240	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+03:01.245	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+03:01.249	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+03:01.250	ID:1	Total routes: 10
+03:02.892	ID:8	Sending to sink: seq=18, parent_etx=261, rtmetric=666, neighbors=2
+03:02.909	ID:8	Packet sent: size=46 bytes
+03:02.950	ID:1	Received from node 0808: seq=18, hops=3
+03:02.964	ID:1	30 0 182 0 2056 18 3 0 22 23369 0 4265 56607 25 60847 0 261 666 2 262 208 1 145 138 65535 65535 0 0 0 0
+03:03.100	ID:6	Sending to sink: seq=20, parent_etx=329, rtmetric=786, neighbors=1
+03:03.117	ID:6	Packet sent: size=46 bytes
+03:03.144	ID:5	Sending to sink: seq=16, parent_etx=64, rtmetric=256, neighbors=6
+03:03.162	ID:5	Packet sent: size=46 bytes
+03:03.170	ID:1	Received from node 0606: seq=20, hops=4
+03:03.185	ID:1	30 0 182 0 1542 20 4 0 22 23372 0 2819 38716 12 41523 0 329 786 1 262 169 1 106 99 65535 65535 0 0 0 0
+03:03.193	ID:1	Received from node 0505: seq=16, hops=1
+03:03.207	ID:1	30 0 182 0 1285 16 1 0 22 23319 0 3706 49575 12 53269 0 64 256 6 262 5 1 198 247 65535 65535 0 0 0 0
+03:06.275	ID:7	Sending to sink: seq=15, parent_etx=265, rtmetric=658, neighbors=3
+03:06.292	ID:7	Packet sent: size=46 bytes
+03:06.333	ID:1	Received from node 0707: seq=15, hops=3
+03:06.347	ID:1	30 0 185 0 1799 15 3 0 22 23759 0 4188 54273 40 58420 0 265 658 3 262 0 1 193 186 65535 65535 0 0 0 0
+03:09.094	ID:3	Sending to sink: seq=18, parent_etx=64, rtmetric=256, neighbors=8
+03:09.113	ID:3	Packet sent: size=46 bytes
+03:09.127	ID:1	Received from node 0303: seq=18, hops=1
+03:09.141	ID:1	30 0 188 0 771 18 1 0 22 24057 0 4261 43837 96 48001 0 64 256 8 262 201 1 138 187 65535 65535 0 0 0 0
+03:09.384	ID:11	Sending to sink: seq=18, parent_etx=128, rtmetric=384, neighbors=3
+03:09.402	ID:11	Packet sent: size=46 bytes
+03:09.429	ID:1	Received from node 0b0b: seq=18, hops=2
+03:09.444	ID:1	30 0 188 0 2827 18 2 0 22 24185 0 3411 44944 12 48343 0 128 384 3 262 215 1 152 145 65535 65535 0 0 0 0
+03:09.696	ID:2	Sending to sink: seq=17, parent_etx=64, rtmetric=256, neighbors=6
+03:09.714	ID:2	Packet sent: size=46 bytes
+03:09.727	ID:1	Received from node 0202: seq=17, hops=1
+03:09.742	ID:1	30 0 189 0 514 17 1 0 22 24219 0 3723 47924 12 51635 0 64 256 6 262 217 1 154 203 65535 65535 0 0 0 0
+03:09.866	ID:6	Sending to sink: seq=21, parent_etx=329, rtmetric=786, neighbors=1
+03:09.883	ID:6	Packet sent: size=46 bytes
+03:09.936	ID:1	Received from node 0606: seq=21, hops=4
+03:09.950	ID:1	30 0 189 0 1542 21 4 0 22 24238 0 4025 51398 25 55397 0 329 786 1 262 153 1 90 139 65535 65535 0 0 0 0
+03:10.731	ID:9	Sending to sink: seq=20, parent_etx=128, rtmetric=384, neighbors=6
+03:10.749	ID:9	Packet sent: size=46 bytes
+03:10.777	ID:1	Received from node 0909: seq=20, hops=2
+03:10.791	ID:1	30 0 190 0 2313 20 2 0 22 24291 0 3354 39815 12 43157 0 128 384 6 262 197 1 134 127 65535 65535 0 0 0 0
+03:10.954	ID:10	Sending to sink: seq=17, parent_etx=64, rtmetric=310, neighbors=6
+03:10.973	ID:10	Packet sent: size=46 bytes
+03:10.986	ID:1	Received from node 0a0a: seq=17, hops=1
+03:11.001	ID:1	30 0 190 0 2570 17 1 0 22 24339 0 3763 48140 12 51891 0 64 310 6 262 245 1 182 175 65535 65535 0 0 0 0
+03:13.241	ID:6	Sending to sink: seq=22, parent_etx=329, rtmetric=786, neighbors=1
+03:13.258	ID:6	Packet sent: size=46 bytes
+03:13.311	ID:1	Received from node 0606: seq=22, hops=4
+03:13.325	ID:1	30 0 192 0 1542 22 4 0 22 24670 0 4054 51239 51 55242 0 329 786 1 262 144 1 81 74 65535 65535 0 0 0 0
+03:14.297	ID:8	Sending to sink: seq=19, parent_etx=261, rtmetric=663, neighbors=2
+03:14.315	ID:8	Packet sent: size=46 bytes
+03:14.355	ID:1	Received from node 0808: seq=19, hops=3
+03:14.370	ID:1	30 0 193 0 2056 19 3 0 22 24828 0 3323 43393 12 46704 0 261 663 2 262 192 1 129 122 65535 65535 0 0 0 0
+03:14.918	ID:4	Sending to sink: seq=16, parent_etx=128, rtmetric=384, neighbors=4
+03:14.936	ID:4	Packet sent: size=46 bytes
+03:14.964	ID:1	Received from node 0404: seq=16, hops=2
+03:14.979	ID:1	30 0 194 0 1028 16 2 0 22 24873 0 4073 52758 12 56818 0 128 384 4 262 254 1 191 240 65535 65535 0 0 0 0
+03:16.151	ID:5	Sending to sink: seq=17, parent_etx=64, rtmetric=256, neighbors=6
+03:16.169	ID:5	Packet sent: size=46 bytes
+03:16.182	ID:1	Received from node 0505: seq=17, hops=1
+03:16.197	ID:1	30 0 195 0 1285 17 1 0 22 24984 0 3898 49378 12 53264 0 64 256 6 262 252 1 189 238 65535 65535 0 0 0 0
+03:20.549	ID:7	Sending to sink: seq=16, parent_etx=265, rtmetric=658, neighbors=3
+03:20.566	ID:7	Packet sent: size=46 bytes
+03:20.608	ID:1	Received from node 0707: seq=16, hops=3
+03:20.622	ID:1	30 0 199 0 1799 16 3 0 22 25587 0 4334 54132 41 58424 0 265 658 3 262 240 1 177 170 65535 65535 0 0 0 0
+03:20.836	ID:3	Sending to sink: seq=19, parent_etx=64, rtmetric=256, neighbors=8
+03:20.855	ID:3	Packet sent: size=46 bytes
+03:20.868	ID:1	Received from node 0303: seq=19, hops=1
+03:20.883	ID:1	30 0 200 0 771 19 1 0 22 25560 0 4505 43587 110 47982 0 64 256 8 262 192 1 129 178 65535 65535 0 0 0 0
+03:21.188	ID:11	Sending to sink: seq=19, parent_etx=128, rtmetric=384, neighbors=3
+03:21.205	ID:11	Packet sent: size=46 bytes
+03:21.233	ID:1	Received from node 0b0b: seq=19, hops=2
+03:21.248	ID:1	30 0 200 0 2827 19 2 0 22 25695 0 3460 44886 12 48334 0 128 384 3 262 199 1 136 129 65535 65535 0 0 0 0
+03:21.269	ID:9	Sending to sink: seq=21, parent_etx=128, rtmetric=384, neighbors=6
+03:21.288	ID:9	Packet sent: size=46 bytes
+03:21.315	ID:1	Received from node 0909: seq=21, hops=2
+03:21.330	ID:1	30 0 200 0 2313 21 2 0 22 25640 0 3181 39983 12 43152 0 128 384 6 262 181 1 118 111 65535 65535 0 0 0 0
+03:22.305	ID:2	Sending to sink: seq=18, parent_etx=64, rtmetric=256, neighbors=6
+03:22.323	ID:2	Packet sent: size=46 bytes
+03:22.337	ID:1	Received from node 0202: seq=18, hops=1
+03:22.351	ID:1	30 0 201 0 514 18 1 0 22 25833 0 3773 47873 12 51634 0 64 256 6 262 208 1 145 138 65535 65535 0 0 0 0
+03:23.381	ID:6	Sending to sink: seq=23, parent_etx=329, rtmetric=786, neighbors=1
+03:23.399	ID:6	Packet sent: size=46 bytes
+03:23.451	ID:1	Received from node 0606: seq=23, hops=4
+03:23.466	ID:1	30 0 202 0 1542 23 4 0 22 25968 0 2769 38765 12 41523 0 329 786 1 262 128 1 65 58 65535 65535 0 0 0 0
+03:23.626	ID:10	Sending to sink: seq=18, parent_etx=64, rtmetric=301, neighbors=6
+03:23.645	ID:10	Packet sent: size=46 bytes
+03:23.658	ID:1	Received from node 0a0a: seq=18, hops=1
+03:23.673	ID:1	30 0 203 0 2570 18 1 0 22 25961 0 3790 48115 12 51893 0 64 301 6 262 229 1 166 215 65535 65535 0 0 0 0
+03:23.728	ID:7	Sending to sink: seq=17, parent_etx=265, rtmetric=658, neighbors=3
+03:23.746	ID:7	Packet sent: size=46 bytes
+03:23.786	ID:1	Received from node 0707: seq=17, hops=3
+03:23.801	ID:1	30 0 203 0 1799 17 3 0 22 25993 0 4613 47470 106 51976 0 265 658 3 262 224 1 161 154 65535 65535 0 0 0 0
+03:25.164	ID:10	Sending to sink: seq=19, parent_etx=64, rtmetric=294, neighbors=6
+03:25.183	ID:10	Packet sent: size=46 bytes
+03:25.196	ID:1	Received from node 0a0a: seq=19, hops=1
+03:25.211	ID:1	30 0 204 0 2570 19 1 0 22 26158 0 5236 45157 103 50290 0 64 294 6 262 220 1 157 150 65535 65535 0 0 0 0
+03:25.703	ID:8	Sending to sink: seq=20, parent_etx=261, rtmetric=661, neighbors=2
+03:25.721	ID:8	Packet sent: size=46 bytes
+03:25.761	ID:1	Received from node 0808: seq=20, hops=3
+03:25.776	ID:1	30 0 205 0 2056 20 3 0 22 26288 0 3325 43394 12 46706 0 261 661 2 262 176 1 113 106 65535 65535 0 0 0 0
+03:28.793	ID:4	Sending to sink: seq=17, parent_etx=128, rtmetric=384, neighbors=4
+03:28.811	ID:4	Packet sent: size=46 bytes
+03:28.839	ID:1	Received from node 0404: seq=17, hops=2
+03:28.854	ID:1	30 0 208 0 1028 17 2 0 22 26649 0 4067 52764 12 56818 0 128 384 4 262 245 1 182 231 65535 65535 0 0 0 0
+03:29.159	ID:5	Sending to sink: seq=18, parent_etx=64, rtmetric=256, neighbors=6
+03:29.177	ID:5	Packet sent: size=46 bytes
+03:29.191	ID:1	Received from node 0505: seq=18, hops=1
+03:29.205	ID:1	30 0 208 0 1285 18 1 0 22 26649 0 3887 49393 12 53268 0 64 256 6 262 243 1 180 173 65535 65535 0 0 0 0
+03:29.383	ID:8	Sending to sink: seq=21, parent_etx=261, rtmetric=659, neighbors=2
+03:29.400	ID:8	Packet sent: size=46 bytes
+03:29.440	ID:1	Received from node 0808: seq=21, hops=3
+03:29.455	ID:1	30 0 208 0 2056 21 3 0 22 26759 0 4687 55590 50 60226 0 261 659 2 262 160 1 97 90 65535 65535 0 0 0 0
+03:31.252	ID:1	Sink Stats: Packets=191, Time=208s
+03:31.253	ID:1	Stored Routes:
+03:31.260	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+03:31.267	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+03:31.275	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+03:31.282	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+03:31.289	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+03:31.296	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+03:31.303	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+03:31.311	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+03:31.318	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+03:31.325	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+03:31.326	ID:1	Neighbors:
+03:31.330	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+03:31.334	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+03:31.338	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+03:31.342	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+03:31.344	ID:1	Total routes: 10
+03:31.809	ID:9	Sending to sink: seq=22, parent_etx=128, rtmetric=384, neighbors=6
+03:31.827	ID:9	Packet sent: size=46 bytes
+03:31.855	ID:1	Received from node 0909: seq=22, hops=2
+03:31.869	ID:1	30 0 211 0 2313 22 2 0 22 26989 0 3178 39991 12 43156 0 128 384 6 262 165 1 102 95 65535 65535 0 0 0 0
+03:32.579	ID:3	Sending to sink: seq=20, parent_etx=64, rtmetric=256, neighbors=8
+03:32.598	ID:3	Packet sent: size=46 bytes
+03:32.611	ID:1	Received from node 0303: seq=20, hops=1
+03:32.625	ID:1	30 0 211 0 771 20 1 0 22 27063 0 4800 43297 124 47973 0 64 256 8 262 183 1 120 113 65535 65535 0 0 0 0
+03:32.651	ID:5	Sending to sink: seq=19, parent_etx=64, rtmetric=256, neighbors=6
+03:32.669	ID:5	Packet sent: size=46 bytes
+03:32.682	ID:1	Received from node 0505: seq=19, hops=1
+03:32.697	ID:1	30 0 212 0 1285 19 1 0 22 27096 0 4788 52419 51 57155 0 64 256 6 262 227 1 164 157 65535 65535 0 0 0 0
+03:32.993	ID:11	Sending to sink: seq=20, parent_etx=128, rtmetric=384, neighbors=3
+03:33.011	ID:11	Packet sent: size=46 bytes
+03:33.038	ID:1	Received from node 0b0b: seq=20, hops=2
+03:33.053	ID:1	30 0 212 0 2827 20 2 0 22 27206 0 3467 44886 12 48341 0 128 384 3 262 183 1 120 169 65535 65535 0 0 0 0
+03:33.274	ID:2	Sending to sink: seq=19, parent_etx=64, rtmetric=256, neighbors=6
+03:33.292	ID:2	Packet sent: size=46 bytes
+03:33.305	ID:1	Received from node 0202: seq=19, hops=1
+03:33.320	ID:1	30 0 212 0 514 19 1 0 22 27237 0 3319 41608 12 44914 0 64 256 6 262 192 1 129 122 65535 65535 0 0 0 0
+03:33.522	ID:6	Sending to sink: seq=24, parent_etx=329, rtmetric=786, neighbors=1
+03:33.539	ID:6	Packet sent: size=46 bytes
+03:33.579	ID:3	Sending to sink: seq=21, parent_etx=64, rtmetric=256, neighbors=8
+03:33.598	ID:3	Packet sent: size=46 bytes
+03:33.619	ID:1	Received from node 0303: seq=21, hops=1
+03:33.633	ID:1	30 0 212 0 771 21 1 0 22 27191 0 6948 25819 214 32553 0 64 256 8 262 167 1 104 97 65535 65535 0 0 0 0
+03:33.642	ID:1	Received from node 0606: seq=24, hops=4
+03:33.656	ID:1	30 0 213 0 1542 24 4 0 22 27266 0 2772 38763 12 41523 0 329 786 1 262 112 1 49 42 65535 65535 0 0 0 0
+03:34.821	ID:7	Sending to sink: seq=18, parent_etx=265, rtmetric=658, neighbors=3
+03:34.839	ID:7	Packet sent: size=46 bytes
+03:34.879	ID:1	Received from node 0707: seq=18, hops=3
+03:34.894	ID:1	30 0 214 0 1799 18 3 0 22 27413 0 3360 42078 40 45399 0 265 658 3 262 208 1 145 194 65535 65535 0 0 0 0
+03:34.915	ID:2	Sending to sink: seq=20, parent_etx=64, rtmetric=256, neighbors=6
+03:34.933	ID:2	Packet sent: size=46 bytes
+03:34.946	ID:1	Received from node 0202: seq=20, hops=1
+03:34.960	ID:1	30 0 214 0 514 20 1 0 22 27447 0 5230 48525 102 53651 0 64 256 6 262 176 1 113 106 65535 65535 0 0 0 0
+03:36.298	ID:10	Sending to sink: seq=20, parent_etx=64, rtmetric=288, neighbors=6
+03:36.316	ID:10	Packet sent: size=46 bytes
+03:36.330	ID:1	Received from node 0a0a: seq=20, hops=1
+03:36.344	ID:1	30 0 215 0 2570 20 1 0 22 27583 0 3366 42235 12 45588 0 64 288 6 262 204 1 141 190 65535 65535 0 0 0 0
+03:37.110	ID:8	Sending to sink: seq=22, parent_etx=261, rtmetric=657, neighbors=2
+03:37.128	ID:8	Packet sent: size=46 bytes
+03:37.168	ID:1	Received from node 0808: seq=22, hops=3
+03:37.183	ID:1	30 0 216 0 2056 22 3 0 22 27749 0 4536 58767 51 63252 0 261 657 2 262 144 1 81 74 65535 65535 0 0 0 0
+03:42.167	ID:5	Sending to sink: seq=20, parent_etx=64, rtmetric=256, neighbors=6
+03:42.185	ID:5	Packet sent: size=46 bytes
+03:42.198	ID:1	Received from node 0505: seq=20, hops=1
+03:42.212	ID:1	30 0 221 0 1285 20 1 0 22 28314 0 2921 36053 12 38962 0 64 256 6 262 211 1 148 197 65535 65535 0 0 0 0
+03:42.348	ID:9	Sending to sink: seq=23, parent_etx=128, rtmetric=384, neighbors=6
+03:42.366	ID:9	Packet sent: size=46 bytes
+03:42.393	ID:1	Received from node 0909: seq=23, hops=2
+03:42.408	ID:1	30 0 221 0 2313 23 2 0 22 28338 0 3539 39626 12 43152 0 128 384 6 262 149 1 86 79 65535 65535 0 0 0 0
+03:42.668	ID:4	Sending to sink: seq=18, parent_etx=128, rtmetric=384, neighbors=4
+03:42.686	ID:4	Packet sent: size=46 bytes
+03:42.714	ID:1	Received from node 0404: seq=18, hops=2
+03:42.729	ID:1	30 0 222 0 1028 18 2 0 22 28425 0 4177 52653 26 56805 0 128 384 4 262 236 1 173 166 65535 65535 0 0 0 0
+03:43.663	ID:6	Sending to sink: seq=25, parent_etx=329, rtmetric=786, neighbors=1
+03:43.680	ID:6	Packet sent: size=46 bytes
+03:43.733	ID:1	Received from node 0606: seq=25, hops=4
+03:43.747	ID:1	30 0 223 0 1542 25 4 0 22 28565 0 2810 38727 25 41512 0 329 786 1 262 96 1 33 82 65535 65535 0 0 0 0
+03:44.261	ID:4	Sending to sink: seq=19, parent_etx=128, rtmetric=384, neighbors=4
+03:44.280	ID:4	Packet sent: size=46 bytes
+03:44.307	ID:1	Received from node 0404: seq=19, hops=2
+03:44.320	ID:3	Sending to sink: seq=22, parent_etx=64, rtmetric=256, neighbors=8
+03:44.322	ID:1	30 0 223 0 1028 19 2 0 22 28629 0 5348 46875 203 52017 0 128 384 4 262 220 1 157 206 65535 65535 0 0 0 0
+03:44.339	ID:3	Packet sent: size=46 bytes
+03:44.352	ID:1	Received from node 0303: seq=22, hops=1
+03:44.367	ID:1	30 0 223 0 771 22 1 0 22 28566 0 4538 39458 110 43885 0 64 256 8 262 151 1 88 81 65535 65535 0 0 0 0
+03:44.797	ID:11	Sending to sink: seq=21, parent_etx=128, rtmetric=384, neighbors=3
+03:44.815	ID:11	Packet sent: size=46 bytes
+03:44.842	ID:1	Received from node 0b0b: seq=21, hops=2
+03:44.857	ID:1	30 0 224 0 2827 21 2 0 22 28717 0 3588 44760 25 48323 0 128 384 3 262 174 1 111 160 65535 65535 0 0 0 0
+03:45.965	ID:9	Sending to sink: seq=24, parent_etx=128, rtmetric=384, neighbors=6
+03:45.984	ID:9	Packet sent: size=46 bytes
+03:46.011	ID:1	Received from node 0909: seq=24, hops=2
+03:46.025	ID:1	30 0 225 0 2313 24 2 0 22 28801 0 5650 53622 51 59221 0 128 384 6 262 133 1 70 63 65535 65535 0 0 0 0
+03:47.525	ID:2	Sending to sink: seq=21, parent_etx=64, rtmetric=256, neighbors=6
+03:47.544	ID:2	Packet sent: size=46 bytes
+03:47.557	ID:1	Received from node 0202: seq=21, hops=1
+03:47.571	ID:1	30 0 226 0 514 21 1 0 22 29061 0 3929 47724 12 51641 0 64 256 6 262 160 1 97 90 65535 65535 0 0 0 0
+03:48.516	ID:8	Sending to sink: seq=23, parent_etx=261, rtmetric=655, neighbors=2
+03:48.533	ID:8	Packet sent: size=46 bytes
+03:48.574	ID:1	Received from node 0808: seq=23, hops=3
+03:48.588	ID:1	30 0 227 0 2056 23 3 0 22 29208 0 3121 43596 13 46704 0 261 655 2 262 128 1 65 58 65535 65535 0 0 0 0
+03:48.970	ID:10	Sending to sink: seq=21, parent_etx=64, rtmetric=283, neighbors=6
+03:48.988	ID:10	Packet sent: size=46 bytes
+03:49.002	ID:1	Received from node 0a0a: seq=21, hops=1
+03:49.016	ID:1	30 0 228 0 2570 21 1 0 22 29205 0 3619 48284 25 51877 0 64 283 6 262 195 1 132 181 65535 65535 0 0 0 0
+03:49.095	ID:7	Sending to sink: seq=19, parent_etx=265, rtmetric=658, neighbors=3
+03:49.113	ID:7	Packet sent: size=46 bytes
+03:49.154	ID:1	Received from node 0707: seq=19, hops=3
+03:49.169	ID:1	30 0 228 0 1799 19 3 0 22 29241 0 4082 54384 26 58439 0 265 658 3 262 199 1 136 129 65535 65535 0 0 0 0
+03:50.946	ID:11	Sending to sink: seq=22, parent_etx=128, rtmetric=384, neighbors=3
+03:50.964	ID:11	Packet sent: size=46 bytes
+03:50.991	ID:1	Received from node 0b0b: seq=22, hops=2
+03:51.006	ID:1	30 0 230 0 2827 22 2 0 22 29504 0 3765 46607 25 50347 0 128 384 3 262 165 1 102 151 65535 65535 0 0 0 0
+03:52.887	ID:9	Sending to sink: seq=25, parent_etx=128, rtmetric=384, neighbors=6
+03:52.905	ID:9	Packet sent: size=46 bytes
+03:52.933	ID:1	Received from node 0909: seq=25, hops=2
+03:52.947	ID:1	30 0 232 0 2313 25 2 0 22 29687 0 4083 52618 25 56676 0 128 384 6 262 117 1 54 47 65535 65535 0 0 0 0
+03:53.803	ID:6	Sending to sink: seq=26, parent_etx=329, rtmetric=786, neighbors=1
+03:53.820	ID:6	Packet sent: size=46 bytes
+03:53.873	ID:1	Received from node 0606: seq=26, hops=4
+03:53.887	ID:1	30 0 233 0 1542 26 4 0 22 29862 0 2771 38762 12 41520 0 329 786 1 262 87 1 24 17 65535 65535 0 0 0 0
+03:55.175	ID:5	Sending to sink: seq=21, parent_etx=64, rtmetric=256, neighbors=6
+03:55.193	ID:5	Packet sent: size=46 bytes
+03:55.206	ID:1	Received from node 0505: seq=21, hops=1
+03:55.221	ID:1	30 0 234 0 1285 21 1 0 22 29979 0 4029 49252 38 53242 0 64 256 6 262 202 1 139 132 65535 65535 0 0 0 0
+03:56.063	ID:3	Sending to sink: seq=23, parent_etx=64, rtmetric=256, neighbors=8
+03:56.082	ID:3	Packet sent: size=46 bytes
+03:56.095	ID:1	Received from node 0303: seq=23, hops=1
+03:56.109	ID:1	30 0 235 0 771 23 1 0 22 30069 0 4642 43455 110 47986 0 64 256 8 262 135 1 72 65 65535 65535 0 0 0 0
+03:56.543	ID:4	Sending to sink: seq=20, parent_etx=128, rtmetric=384, neighbors=4
+03:56.561	ID:4	Packet sent: size=46 bytes
+03:56.589	ID:1	Received from node 0404: seq=20, hops=2
+03:56.603	ID:11	Sending to sink: seq=23, parent_etx=128, rtmetric=384, neighbors=3
+03:56.604	ID:1	30 0 235 0 1028 20 2 0 22 30201 0 3531 46772 12 50290 0 128 384 4 262 211 1 148 141 65535 65535 0 0 0 0
+03:56.620	ID:11	Packet sent: size=46 bytes
+03:56.648	ID:1	Received from node 0b0b: seq=23, hops=2
+03:56.662	ID:1	30 0 236 0 2827 23 2 0 22 30228 0 3287 43046 25 46308 0 128 384 3 262 156 1 93 142 65535 65535 0 0 0 0
+03:59.922	ID:8	Sending to sink: seq=24, parent_etx=261, rtmetric=654, neighbors=2
+03:59.940	ID:8	Packet sent: size=46 bytes
+03:59.980	ID:1	Received from node 0808: seq=24, hops=3
+03:59.995	ID:1	30 0 239 0 2056 24 3 0 22 30668 0 3203 43516 26 46693 0 261 654 2 262 112 1 49 42 65535 65535 0 0 0 0
+04:00.133	ID:2	Sending to sink: seq=22, parent_etx=64, rtmetric=256, neighbors=6
+04:00.152	ID:2	Packet sent: size=46 bytes
+04:00.165	ID:1	Received from node 0202: seq=22, hops=1
+04:00.179	ID:1	30 0 239 0 514 22 1 0 22 30675 0 3895 47746 12 51628 0 64 256 6 262 144 1 81 74 65535 65535 0 0 0 0
+04:01.346	ID:1	Sink Stats: Packets=223, Time=239s
+04:01.347	ID:1	Stored Routes:
+04:01.348	ID:9	Sending to sink: seq=26, parent_etx=128, rtmetric=384, neighbors=6
+04:01.354	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+04:01.361	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+04:01.366	ID:9	Packet sent: size=46 bytes
+04:01.368	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+04:01.376	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+04:01.383	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+04:01.390	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+04:01.397	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+04:01.405	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+04:01.412	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+04:01.419	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+04:01.420	ID:1	Neighbors:
+04:01.424	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+04:01.428	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+04:01.432	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+04:01.436	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+04:01.438	ID:1	Total routes: 10
+04:01.446	ID:1	Received from node 0909: seq=26, hops=2
+04:01.460	ID:1	30 0 240 0 2313 26 2 0 22 30770 0 2630 32023 12 34641 0 128 384 6 262 101 1 38 31 65535 65535 0 0 0 0
+04:01.642	ID:10	Sending to sink: seq=22, parent_etx=64, rtmetric=278, neighbors=6
+04:01.660	ID:10	Packet sent: size=46 bytes
+04:01.674	ID:1	Received from node 0a0a: seq=22, hops=1
+04:01.688	ID:1	30 0 241 0 2570 22 1 0 22 30827 0 3768 48135 12 51891 0 64 278 6 262 186 1 123 116 65535 65535 0 0 0 0
+04:01.691	ID:4	Sending to sink: seq=21, parent_etx=128, rtmetric=384, neighbors=4
+04:01.709	ID:4	Packet sent: size=46 bytes
+04:01.737	ID:1	Received from node 0404: seq=21, hops=2
+04:01.751	ID:1	30 0 241 0 1028 21 2 0 22 30860 0 3138 39032 25 42146 0 128 384 4 262 195 1 132 181 65535 65535 0 0 0 0
+04:03.368	ID:7	Sending to sink: seq=20, parent_etx=265, rtmetric=658, neighbors=3
+04:03.386	ID:7	Packet sent: size=46 bytes
+04:03.426	ID:9	Sending to sink: seq=27, parent_etx=128, rtmetric=384, neighbors=6
+04:03.427	ID:1	Received from node 0707: seq=20, hops=3
+04:03.441	ID:1	30 0 242 0 1799 20 3 0 22 31067 0 4189 54271 26 58434 0 265 658 3 262 183 1 120 113 65535 65535 0 0 0 0
+04:03.444	ID:9	Packet sent: size=46 bytes
+04:03.471	ID:1	Received from node 0909: seq=27, hops=2
+04:03.485	ID:1	30 0 242 0 2313 27 2 0 22 31036 0 3060 30987 51 33995 0 128 384 6 262 85 1 22 15 65535 65535 0 0 0 0
+04:03.944	ID:6	Sending to sink: seq=27, parent_etx=329, rtmetric=786, neighbors=1
+04:03.961	ID:6	Packet sent: size=46 bytes
+04:04.014	ID:1	Received from node 0606: seq=27, hops=4
+04:04.028	ID:1	30 0 243 0 1542 27 4 0 22 31160 0 2900 38635 26 41509 0 329 786 1 262 71 1 8 1 65535 65535 0 0 0 0
+04:07.804	ID:3	Sending to sink: seq=24, parent_etx=64, rtmetric=256, neighbors=8
+04:07.824	ID:3	Packet sent: size=46 bytes
+04:07.837	ID:1	Received from node 0303: seq=24, hops=1
+04:07.851	ID:1	30 0 247 0 771 24 1 0 22 31572 0 4988 43105 124 47968 0 64 256 8 262 119 1 56 49 65535 65535 0 0 0 0
+04:08.182	ID:5	Sending to sink: seq=22, parent_etx=64, rtmetric=256, neighbors=6
+04:08.200	ID:5	Packet sent: size=46 bytes
+04:08.214	ID:1	Received from node 0505: seq=22, hops=1
+04:08.228	ID:1	30 0 247 0 1285 22 1 0 22 31644 0 3960 49317 12 53265 0 64 256 6 262 186 1 123 116 65535 65535 0 0 0 0
+04:08.407	ID:11	Sending to sink: seq=24, parent_etx=128, rtmetric=384, neighbors=3
+04:08.424	ID:11	Packet sent: size=46 bytes
+04:08.452	ID:1	Received from node 0b0b: seq=24, hops=2
+04:08.466	ID:1	30 0 247 0 2827 24 2 0 22 31739 0 3488 44861 12 48336 0 128 384 3 262 147 1 84 77 65535 65535 0 0 0 0
+04:09.120	ID:5	Sending to sink: seq=23, parent_etx=64, rtmetric=256, neighbors=6
+04:09.138	ID:5	Packet sent: size=46 bytes
+04:09.151	ID:1	Received from node 0505: seq=23, hops=1
+04:09.165	ID:1	30 0 248 0 1285 23 1 0 22 31764 0 3853 26864 102 30613 0 64 256 6 262 170 1 107 100 65535 65535 0 0 0 0
+04:09.672	ID:3	Sending to sink: seq=25, parent_etx=64, rtmetric=256, neighbors=8
+04:09.692	ID:3	Packet sent: size=46 bytes
+04:09.705	ID:1	Received from node 0303: seq=25, hops=1
+04:09.719	ID:1	30 0 249 0 771 25 1 0 22 31811 0 7747 53455 215 60987 0 64 256 8 262 103 1 40 33 65535 65535 0 0 0 0
+04:10.418	ID:4	Sending to sink: seq=22, parent_etx=128, rtmetric=384, neighbors=4
+04:10.436	ID:4	Packet sent: size=46 bytes
+04:10.464	ID:1	Received from node 0404: seq=22, hops=2
+04:10.479	ID:1	30 0 249 0 1028 22 2 0 22 31977 0 2657 33087 12 35732 0 128 384 4 262 186 1 123 116 65535 65535 0 0 0 0
+04:11.329	ID:8	Sending to sink: seq=25, parent_etx=192, rtmetric=515, neighbors=2
+04:11.346	ID:8	Packet sent: size=46 bytes
+04:11.387	ID:1	Received from node 0808: seq=25, hops=3
+04:11.401	ID:1	30 0 250 0 2056 25 3 0 22 32129 0 3448 43273 12 46709 0 192 515 2 262 96 1 33 26 65535 65535 0 0 0 0
+04:12.329	ID:11	Sending to sink: seq=25, parent_etx=128, rtmetric=384, neighbors=3
+04:12.346	ID:11	Packet sent: size=46 bytes
+04:12.373	ID:1	Received from node 0b0b: seq=25, hops=2
+04:12.388	ID:1	30 0 251 0 2827 25 2 0 22 32241 0 5041 59213 51 64203 0 128 384 3 262 131 1 68 117 65535 65535 0 0 0 0
+04:12.743	ID:2	Sending to sink: seq=23, parent_etx=64, rtmetric=256, neighbors=6
+04:12.761	ID:2	Packet sent: size=46 bytes
+04:12.774	ID:1	Received from node 0202: seq=23, hops=1
+04:12.788	ID:1	30 0 252 0 514 23 1 0 22 32289 0 3990 47658 25 51622 0 64 256 6 262 128 1 65 114 65535 65535 0 0 0 0
+04:13.965	ID:9	Sending to sink: seq=28, parent_etx=128, rtmetric=384, neighbors=6
+04:13.984	ID:9	Packet sent: size=46 bytes
+04:14.011	ID:1	Received from node 0909: seq=28, hops=2
+04:14.025	ID:1	30 0 253 0 2313 28 2 0 22 32385 0 3661 39508 35 43134 0 128 384 6 262 69 1 6 255 65535 65535 0 0 0 0
+04:14.084	ID:6	Sending to sink: seq=28, parent_etx=329, rtmetric=786, neighbors=1
+04:14.102	ID:6	Packet sent: size=46 bytes
+04:14.155	ID:1	Received from node 0606: seq=28, hops=4
+04:14.169	ID:1	30 0 253 0 1542 28 4 0 22 32458 0 2977 38558 12 41522 0 329 786 1 262 55 1 248 241 65535 65535 0 0 0 0
+04:14.313	ID:10	Sending to sink: seq=23, parent_etx=64, rtmetric=274, neighbors=6
+04:14.332	ID:10	Packet sent: size=46 bytes
+04:14.345	ID:1	Received from node 0a0a: seq=23, hops=1
+04:14.360	ID:1	30 0 253 0 2570 23 1 0 22 32449 0 4156 47747 12 51890 0 64 274 6 262 170 1 107 100 65535 65535 0 0 0 0
+04:17.642	ID:7	Sending to sink: seq=21, parent_etx=192, rtmetric=512, neighbors=3
+04:17.660	ID:7	Packet sent: size=46 bytes
+04:17.701	ID:1	Received from node 0707: seq=21, hops=3
+04:17.716	ID:1	30 0 257 0 1799 21 3 0 22 32895 0 4497 53968 53 58412 0 192 512 3 262 167 1 104 97 65535 65535 0 0 0 0
+04:19.547	ID:3	Sending to sink: seq=26, parent_etx=64, rtmetric=256, neighbors=8
+04:19.567	ID:3	Packet sent: size=46 bytes
+04:19.580	ID:1	Received from node 0303: seq=26, hops=1
+04:19.594	ID:1	30 0 258 0 771 26 1 0 22 33075 0 4562 35885 130 40316 0 64 256 8 262 87 1 24 17 65535 65535 0 0 0 0
+04:20.212	ID:11	Sending to sink: seq=26, parent_etx=128, rtmetric=384, neighbors=3
+04:20.229	ID:11	Packet sent: size=46 bytes
+04:20.257	ID:1	Received from node 0b0b: seq=26, hops=2
+04:20.271	ID:1	30 0 259 0 2827 26 2 0 22 33250 0 4458 60121 25 64554 0 128 384 3 262 122 1 59 52 65535 65535 0 0 0 0
+04:21.190	ID:5	Sending to sink: seq=24, parent_etx=64, rtmetric=256, neighbors=6
+04:21.209	ID:5	Packet sent: size=46 bytes
+04:21.222	ID:1	Received from node 0505: seq=24, hops=1
+04:21.236	ID:1	30 0 260 0 1285 24 1 0 22 33309 0 3993 45448 22 49418 0 64 256 6 262 154 1 91 84 65535 65535 0 0 0 0
+04:22.735	ID:8	Sending to sink: seq=26, parent_etx=192, rtmetric=514, neighbors=2
+04:22.752	ID:8	Packet sent: size=46 bytes
+04:22.793	ID:1	Received from node 0808: seq=26, hops=3
+04:22.807	ID:1	30 0 262 0 2056 26 3 0 22 33588 0 3321 43396 12 46704 0 192 514 2 262 80 1 17 10 65535 65535 0 0 0 0
+04:24.225	ID:6	Sending to sink: seq=29, parent_etx=329, rtmetric=786, neighbors=1
+04:24.242	ID:6	Packet sent: size=46 bytes
+04:24.293	ID:4	Sending to sink: seq=23, parent_etx=128, rtmetric=384, neighbors=4
+04:24.295	ID:1	Received from node 0606: seq=29, hops=4
+04:24.310	ID:1	30 0 263 0 1542 29 4 0 22 33756 0 2945 38590 12 41522 0 329 786 1 262 39 1 232 225 65535 65535 0 0 0 0
+04:24.311	ID:4	Packet sent: size=46 bytes
+04:24.339	ID:1	Received from node 0404: seq=23, hops=2
+04:24.354	ID:1	30 0 263 0 1028 23 2 0 22 33753 0 4060 52771 12 56819 0 128 384 4 262 170 1 107 100 65535 65535 0 0 0 0
+04:24.504	ID:9	Sending to sink: seq=29, parent_etx=128, rtmetric=384, neighbors=6
+04:24.522	ID:9	Packet sent: size=46 bytes
+04:24.549	ID:1	Received from node 0909: seq=29, hops=2
+04:24.564	ID:1	30 0 263 0 2313 29 2 0 22 33734 0 3345 39819 22 43142 0 128 384 6 262 53 1 246 39 65535 65535 0 0 0 0
+04:25.352	ID:2	Sending to sink: seq=24, parent_etx=64, rtmetric=256, neighbors=6
+04:25.370	ID:2	Packet sent: size=46 bytes
+04:25.384	ID:1	Received from node 0202: seq=24, hops=1
+04:25.398	ID:1	30 0 264 0 514 24 1 0 22 33903 0 4352 47295 22 51624 0 64 256 6 524 119 1 56 49 65535 65535 0 0 0 0
+04:26.532	ID:8	Sending to sink: seq=27, parent_etx=192, rtmetric=513, neighbors=2
+04:26.549	ID:8	Packet sent: size=46 bytes
+04:26.589	ID:1	Received from node 0808: seq=27, hops=3
+04:26.604	ID:1	30 0 265 0 2056 27 3 0 22 34074 0 4840 57366 50 62156 0 192 513 2 262 64 1 1 250 65535 65535 0 0 0 0
+04:26.985	ID:10	Sending to sink: seq=24, parent_etx=64, rtmetric=268, neighbors=6
+04:27.004	ID:10	Packet sent: size=46 bytes
+04:27.017	ID:1	Received from node 0a0a: seq=24, hops=1
+04:27.032	ID:1	30 0 266 0 2570 24 1 0 22 34071 0 4366 47537 22 51880 0 64 268 6 524 154 1 91 140 65535 65535 0 0 0 0
+04:31.289	ID:3	Sending to sink: seq=27, parent_etx=64, rtmetric=256, neighbors=8
+04:31.308	ID:3	Packet sent: size=46 bytes
+04:31.321	ID:1	Received from node 0303: seq=27, hops=1
+04:31.335	ID:1	30 0 270 0 771 27 1 0 22 34578 0 4820 43273 149 47942 0 64 256 8 524 71 1 8 1 65535 65535 0 0 0 0
+04:31.439	ID:1	Sink Stats: Packets=253, Time=270s
+04:31.440	ID:1	Stored Routes:
+04:31.448	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+04:31.455	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+04:31.462	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+04:31.469	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+04:31.476	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+04:31.484	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+04:31.491	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+04:31.498	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+04:31.505	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+04:31.512	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+04:31.513	ID:1	Neighbors:
+04:31.517	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+04:31.521	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+04:31.526	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+04:31.530	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+04:31.531	ID:1	Total routes: 10
+04:31.915	ID:7	Sending to sink: seq=22, parent_etx=192, rtmetric=512, neighbors=3
+04:31.933	ID:7	Packet sent: size=46 bytes
+04:31.973	ID:1	Received from node 0707: seq=22, hops=3
+04:31.988	ID:1	30 0 271 0 1799 22 3 0 22 34721 0 4250 54210 26 58434 0 192 512 3 524 151 1 88 137 65535 65535 0 0 0 0
+04:32.016	ID:11	Sending to sink: seq=27, parent_etx=128, rtmetric=384, neighbors=3
+04:32.033	ID:11	Packet sent: size=46 bytes
+04:32.061	ID:1	Received from node 0b0b: seq=27, hops=2
+04:32.075	ID:1	30 0 271 0 2827 27 2 0 22 34761 0 3515 44834 22 48326 0 128 384 3 524 113 1 50 43 65535 65535 0 0 0 0
+04:34.141	ID:8	Sending to sink: seq=28, parent_etx=192, rtmetric=512, neighbors=2
+04:34.158	ID:8	Packet sent: size=46 bytes
+04:34.198	ID:5	Sending to sink: seq=25, parent_etx=64, rtmetric=256, neighbors=6
+04:34.199	ID:1	Received from node 0808: seq=28, hops=3
+04:34.213	ID:1	30 0 273 0 2056 28 3 0 22 35048 0 4269 58065 25 62309 0 192 512 2 524 48 1 241 234 65535 65535 0 0 0 0
+04:34.216	ID:5	Packet sent: size=46 bytes
+04:34.230	ID:1	Received from node 0505: seq=25, hops=1
+04:34.244	ID:1	30 0 273 0 1285 25 1 0 22 34974 0 3860 49417 12 53265 0 64 256 6 524 138 1 75 68 65535 65535 0 0 0 0
+04:34.366	ID:6	Sending to sink: seq=30, parent_etx=329, rtmetric=786, neighbors=1
+04:34.383	ID:6	Packet sent: size=46 bytes
+04:34.436	ID:1	Received from node 0606: seq=30, hops=4
+04:34.450	ID:1	30 0 273 0 1542 30 4 0 22 35054 0 2953 38582 12 41523 0 329 786 1 524 23 1 216 209 65535 65535 0 0 0 0
+04:35.043	ID:9	Sending to sink: seq=30, parent_etx=128, rtmetric=384, neighbors=6
+04:35.062	ID:9	Packet sent: size=46 bytes
+04:35.089	ID:1	Received from node 0909: seq=30, hops=2
+04:35.103	ID:1	30 0 274 0 2313 30 2 0 22 35083 0 3014 40155 12 43156 0 128 384 6 524 44 1 237 230 65535 65535 0 0 0 0
+04:37.031	ID:2	Sending to sink: seq=25, parent_etx=64, rtmetric=256, neighbors=6
+04:37.050	ID:2	Packet sent: size=46 bytes
+04:37.063	ID:1	Received from node 0202: seq=25, hops=1
+04:37.077	ID:1	30 0 276 0 514 25 1 0 22 35398 0 3517 44319 12 47824 0 64 256 6 524 103 1 40 33 65535 65535 0 0 0 0
+04:37.961	ID:2	Sending to sink: seq=26, parent_etx=64, rtmetric=256, neighbors=6
+04:37.980	ID:2	Packet sent: size=46 bytes
+04:37.992	ID:1	Received from node 0202: seq=26, hops=1
+04:38.006	ID:1	30 0 277 0 514 26 1 0 22 35517 0 3679 26795 103 30370 0 64 256 6 524 87 1 24 17 65535 65535 0 0 0 0
+04:38.168	ID:4	Sending to sink: seq=24, parent_etx=128, rtmetric=384, neighbors=4
+04:38.186	ID:4	Packet sent: size=46 bytes
+04:38.214	ID:1	Received from node 0404: seq=24, hops=2
+04:38.228	ID:1	30 0 277 0 1028 24 2 0 22 35529 0 3951 52880 22 56808 0 128 384 4 524 154 1 91 84 65535 65535 0 0 0 0
+04:39.658	ID:10	Sending to sink: seq=25, parent_etx=64, rtmetric=266, neighbors=6
+04:39.676	ID:10	Packet sent: size=46 bytes
+04:39.690	ID:1	Received from node 0a0a: seq=25, hops=1
+04:39.704	ID:1	30 0 279 0 2570 25 1 0 22 35693 0 3794 48111 12 51893 0 64 266 6 524 145 1 82 131 65535 65535 0 0 0 0
+04:43.032	ID:3	Sending to sink: seq=28, parent_etx=64, rtmetric=256, neighbors=8
+04:43.051	ID:3	Packet sent: size=46 bytes
+04:43.064	ID:1	Received from node 0303: seq=28, hops=1
+04:43.078	ID:1	30 0 282 0 771 28 1 0 22 36081 0 4120 43978 96 48000 0 64 256 8 524 55 1 248 241 65535 65535 0 0 0 0
+04:43.690	ID:7	Sending to sink: seq=23, parent_etx=192, rtmetric=512, neighbors=3
+04:43.708	ID:7	Packet sent: size=46 bytes
+04:43.748	ID:1	Received from node 0707: seq=23, hops=3
+04:43.763	ID:1	30 0 283 0 1799 23 3 0 22 36229 0 3543 44687 26 48203 0 192 512 3 524 142 1 79 72 65535 65535 0 0 0 0
+04:43.821	ID:11	Sending to sink: seq=28, parent_etx=128, rtmetric=384, neighbors=3
+04:43.839	ID:11	Packet sent: size=46 bytes
+04:43.866	ID:1	Received from node 0b0b: seq=28, hops=2
+04:43.880	ID:1	30 0 283 0 2827 28 2 0 22 36272 0 3257 45096 12 48341 0 128 384 3 524 97 1 34 83 65535 65535 0 0 0 0
+04:44.507	ID:6	Sending to sink: seq=31, parent_etx=329, rtmetric=786, neighbors=1
+04:44.524	ID:6	Packet sent: size=46 bytes
+04:44.577	ID:1	Received from node 0606: seq=31, hops=4
+04:44.591	ID:1	30 0 283 0 1542 31 4 0 22 36353 0 2947 38590 12 41525 0 329 786 1 524 7 1 200 193 65535 65535 0 0 0 0
+04:45.548	ID:8	Sending to sink: seq=29, parent_etx=192, rtmetric=512, neighbors=2
+04:45.565	ID:8	Packet sent: size=46 bytes
+04:45.582	ID:9	Sending to sink: seq=31, parent_etx=128, rtmetric=384, neighbors=6
+04:45.600	ID:9	Packet sent: size=46 bytes
+04:45.605	ID:1	Received from node 0808: seq=29, hops=3
+04:45.620	ID:1	30 0 284 0 2056 29 3 0 22 36509 0 3128 43593 12 46708 0 192 512 2 524 32 1 225 218 65535 65535 0 0 0 0
+04:45.629	ID:1	Received from node 0909: seq=31, hops=2
+04:45.644	ID:1	30 0 284 0 2313 31 2 0 22 36432 0 3294 39870 26 43139 0 128 384 6 524 28 1 221 214 65535 65535 0 0 0 0
+04:46.189	ID:7	Sending to sink: seq=24, parent_etx=192, rtmetric=512, neighbors=3
+04:46.207	ID:7	Packet sent: size=46 bytes
+04:46.248	ID:1	Received from node 0707: seq=24, hops=3
+04:46.262	ID:1	30 0 285 0 1799 24 3 0 22 36549 0 3533 37405 107 40831 0 192 512 3 524 126 1 63 56 65535 65535 0 0 0 0
+04:47.206	ID:5	Sending to sink: seq=26, parent_etx=64, rtmetric=256, neighbors=6
+04:47.224	ID:5	Packet sent: size=46 bytes
+04:47.238	ID:1	Received from node 0505: seq=26, hops=1
+04:47.252	ID:1	30 0 286 0 1285 26 1 0 22 36639 0 3840 49440 12 53268 0 64 256 6 524 122 1 59 52 65535 65535 0 0 0 0
+04:48.060	ID:6	Sending to sink: seq=32, parent_etx=329, rtmetric=786, neighbors=1
+04:48.078	ID:6	Packet sent: size=46 bytes
+04:48.131	ID:1	Received from node 0606: seq=32, hops=4
+04:48.145	ID:1	30 0 287 0 1542 32 4 0 22 36807 0 4495 53724 51 58168 0 329 786 1 524 247 1 184 177 65535 65535 0 0 0 0
+04:50.571	ID:2	Sending to sink: seq=27, parent_etx=64, rtmetric=256, neighbors=6
+04:50.589	ID:2	Packet sent: size=46 bytes
+04:50.602	ID:1	Received from node 0202: seq=27, hops=1
+04:50.616	ID:1	30 0 289 0 514 27 1 0 22 37131 0 3880 47767 26 51621 0 64 256 6 524 71 1 8 1 65535 65535 0 0 0 0
+04:52.043	ID:4	Sending to sink: seq=25, parent_etx=128, rtmetric=384, neighbors=4
+04:52.061	ID:4	Packet sent: size=46 bytes
+04:52.089	ID:1	Received from node 0404: seq=25, hops=2
+04:52.103	ID:1	30 0 291 0 1028 25 2 0 22 37305 0 3833 52997 12 56818 0 128 384 4 524 138 1 75 124 65535 65535 0 0 0 0
+04:52.329	ID:10	Sending to sink: seq=26, parent_etx=64, rtmetric=264, neighbors=6
+04:52.348	ID:10	Packet sent: size=46 bytes
+04:52.361	ID:1	Received from node 0a0a: seq=26, hops=1
+04:52.375	ID:1	30 0 291 0 2570 26 1 0 22 37315 0 3948 47952 26 51875 0 64 264 6 524 136 1 73 66 65535 65535 0 0 0 0
+04:54.517	ID:10	Sending to sink: seq=27, parent_etx=64, rtmetric=262, neighbors=6
+04:54.535	ID:10	Packet sent: size=46 bytes
+04:54.548	ID:1	Received from node 0a0a: seq=27, hops=1
+04:54.562	ID:1	30 0 293 0 2570 27 1 0 22 37595 0 3317 32522 51 35787 0 64 262 6 524 120 1 57 50 65535 65535 0 0 0 0
+04:54.647	ID:6	Sending to sink: seq=33, parent_etx=329, rtmetric=786, neighbors=1
+04:54.664	ID:6	Packet sent: size=46 bytes
+04:54.717	ID:1	Received from node 0606: seq=33, hops=4
+04:54.732	ID:1	30 0 294 0 1542 33 4 0 22 37650 0 3705 50250 25 53929 0 329 786 1 524 231 1 168 161 65535 65535 0 0 0 0
+04:54.773	ID:3	Sending to sink: seq=29, parent_etx=64, rtmetric=256, neighbors=8
+04:54.792	ID:3	Packet sent: size=46 bytes
+04:54.806	ID:1	Received from node 0303: seq=29, hops=1
+04:54.820	ID:1	30 0 294 0 771 29 1 0 22 37584 0 4671 43421 138 47953 0 64 256 8 524 39 1 232 225 65535 65535 0 0 0 0
+04:55.625	ID:11	Sending to sink: seq=29, parent_etx=128, rtmetric=384, neighbors=3
+04:55.643	ID:11	Packet sent: size=46 bytes
+04:55.670	ID:1	Received from node 0b0b: seq=29, hops=2
+04:55.685	ID:1	30 0 295 0 2827 29 2 0 22 37783 0 3261 45088 12 48336 0 128 384 3 524 88 1 25 18 65535 65535 0 0 0 0
+04:56.122	ID:9	Sending to sink: seq=32, parent_etx=128, rtmetric=384, neighbors=6
+04:56.140	ID:9	Packet sent: size=46 bytes
+04:56.168	ID:1	Received from node 0909: seq=32, hops=2
+04:56.182	ID:1	30 0 295 0 2313 32 2 0 22 37781 0 3003 40168 12 43158 0 128 384 6 524 12 1 205 198 65535 65535 0 0 0 0
+04:56.953	ID:8	Sending to sink: seq=30, parent_etx=192, rtmetric=512, neighbors=2
+04:56.971	ID:8	Packet sent: size=46 bytes
+04:57.011	ID:1	Received from node 0808: seq=30, hops=3
+04:57.026	ID:1	30 0 296 0 2056 30 3 0 22 37968 0 3122 43594 13 46704 0 192 512 2 524 16 1 209 202 65535 65535 0 0 0 0
+05:00.213	ID:5	Sending to sink: seq=27, parent_etx=64, rtmetric=256, neighbors=6
+05:00.232	ID:5	Packet sent: size=46 bytes
+05:00.245	ID:1	Received from node 0505: seq=27, hops=1
+05:00.259	ID:1	30 0 299 0 1285 27 1 0 22 38304 0 3656 49621 12 53265 0 64 256 6 524 106 1 43 92 65535 65535 0 0 0 0
+05:00.462	ID:7	Sending to sink: seq=25, parent_etx=192, rtmetric=512, neighbors=3
+05:00.480	ID:7	Packet sent: size=46 bytes
+05:00.520	ID:1	Received from node 0707: seq=25, hops=3
+05:00.535	ID:1	30 0 299 0 1799 25 3 0 22 38375 0 4083 54377 40 58420 0 192 512 3 524 110 1 47 40 65535 65535 0 0 0 0
+05:00.659	ID:4	Sending to sink: seq=26, parent_etx=128, rtmetric=384, neighbors=4
+05:00.678	ID:4	Packet sent: size=46 bytes
+05:00.705	ID:1	Received from node 0404: seq=26, hops=2
+05:00.720	ID:1	30 0 300 0 1028 26 2 0 22 38408 0 2458 32835 12 35281 0 128 384 4 524 129 1 66 59 65535 65535 0 0 0 0
+05:01.533	ID:1	Sink Stats: Packets=284, Time=300s
+05:01.534	ID:1	Stored Routes:
+05:01.542	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:7403:3:303
+05:01.549	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7403:3:303
+05:01.556	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:7403:3:303
+05:01.563	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7403:3:303
+05:01.570	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+05:01.577	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+05:01.585	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+05:01.592	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+05:01.599	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7403:3:303
+05:01.606	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7403:3:303
+05:01.607	ID:1	Neighbors:
+05:01.611	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+05:01.615	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+05:01.620	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+05:01.624	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+05:01.625	ID:1	Total routes: 10
+05:03.180	ID:2	Sending to sink: seq=28, parent_etx=64, rtmetric=256, neighbors=6
+05:03.198	ID:2	Packet sent: size=46 bytes
+05:03.212	ID:1	Received from node 0202: seq=28, hops=1
+05:03.226	ID:1	30 0 302 0 514 28 1 0 22 38745 0 3605 48042 12 51635 0 64 256 6 524 55 1 248 41 65535 65535 0 0 0 0
