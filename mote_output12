@@ -1,0 +1,777 @@
+00:00.340	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.350	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.359	ID:8	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.369	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.373	ID:8	Starting 'UDP client process' 'collect common process'
+00:00.378	ID:8	IPv6 addresses: fd00::212:7408:8:808
+00:00.380	ID:8	Waiting for RPL DAG...
+00:00.382	ID:8	Waiting for RPL DAG...
+00:00.384	ID:8	Waiting for RPL DAG...
+00:00.385	ID:8	Waiting for RPL DAG...
+00:00.387	ID:8	Waiting for RPL DAG...
+00:00.389	ID:8	Waiting for RPL DAG...
+00:00.391	ID:8	Waiting for RPL DAG...
+00:00.393	ID:8	Waiting for RPL DAG...
+00:00.394	ID:8	Waiting for RPL DAG...
+00:00.396	ID:8	Waiting for RPL DAG...
+00:00.400	ID:8	DAG not found, server address set to: fd00::1
+00:00.402	ID:8	UDP client process started
+00:00.406	ID:8	Client IPv6 addresses: fd00::212:7408:8:808
+00:00.409	ID:8	fe80::212:7408:8:808
+00:00.415	ID:8	Created a connection with the server :: local/remote port 8775/5688
+00:00.458	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+00:00.468	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 11.
+00:00.477	ID:11	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.488	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+00:00.492	ID:11	Starting 'UDP client process' 'collect common process'
+00:00.497	ID:11	IPv6 addresses: fd00::212:740b:b:b0b
+00:00.498	ID:11	Waiting for RPL DAG...
+00:00.500	ID:11	Waiting for RPL DAG...
+00:00.502	ID:11	Waiting for RPL DAG...
+00:00.503	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.504	ID:11	Waiting for RPL DAG...
+00:00.506	ID:11	Waiting for RPL DAG...
+00:00.507	ID:11	Waiting for RPL DAG...
+00:00.509	ID:11	Waiting for RPL DAG...
+00:00.511	ID:11	Waiting for RPL DAG...
+00:00.513	ID:11	Waiting for RPL DAG...
+00:00.513	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.515	ID:11	Waiting for RPL DAG...
+00:00.518	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.518	ID:11	DAG not found, server address set to: fd00::1
+00:00.520	ID:11	UDP client process started
+00:00.522	ID:2	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.525	ID:11	Client IPv6 addresses: fd00::212:740b:b:b0b
+00:00.528	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.528	ID:11	fe80::212:740b:b:b0b
+00:00.533	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.533	ID:11	Created a connection with the server :: local/remote port 8775/5688
+00:00.536	ID:6	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.537	ID:2	Starting 'UDP client process' 'collect common process'
+00:00.542	ID:2	IPv6 addresses: fd00::212:7402:2:202
+00:00.543	ID:2	Waiting for RPL DAG...
+00:00.545	ID:2	Waiting for RPL DAG...
+00:00.547	ID:2	Waiting for RPL DAG...
+00:00.547	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.549	ID:2	Waiting for RPL DAG...
+00:00.550	ID:2	Waiting for RPL DAG...
+00:00.551	ID:6	Starting 'UDP client process' 'collect common process'
+00:00.552	ID:2	Waiting for RPL DAG...
+00:00.554	ID:2	Waiting for RPL DAG...
+00:00.556	ID:2	Waiting for RPL DAG...
+00:00.556	ID:6	IPv6 addresses: fd00::212:7406:6:606
+00:00.558	ID:2	Waiting for RPL DAG...
+00:00.558	ID:6	Waiting for RPL DAG...
+00:00.560	ID:2	Waiting for RPL DAG...
+00:00.560	ID:6	Waiting for RPL DAG...
+00:00.561	ID:6	Waiting for RPL DAG...
+00:00.563	ID:6	Waiting for RPL DAG...
+00:00.563	ID:2	DAG not found, server address set to: fd00::1
+00:00.565	ID:6	Waiting for RPL DAG...
+00:00.565	ID:2	UDP client process started
+00:00.567	ID:6	Waiting for RPL DAG...
+00:00.569	ID:6	Waiting for RPL DAG...
+00:00.570	ID:2	Client IPv6 addresses: fd00::212:7402:2:202
+00:00.570	ID:6	Waiting for RPL DAG...
+00:00.572	ID:6	Waiting for RPL DAG...
+00:00.573	ID:2	fe80::212:7402:2:202
+00:00.574	ID:6	Waiting for RPL DAG...
+00:00.578	ID:2	Created a connection with the server :: local/remote port 8775/5688
+00:00.578	ID:6	DAG not found, server address set to: fd00::1
+00:00.580	ID:6	UDP client process started
+00:00.584	ID:6	Client IPv6 addresses: fd00::212:7406:6:606
+00:00.587	ID:6	fe80::212:7406:6:606
+00:00.592	ID:6	Created a connection with the server :: local/remote port 8775/5688
+00:00.616	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.625	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.634	ID:4	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.645	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.649	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.649	ID:4	Starting 'UDP client process' 'collect common process'
+00:00.654	ID:4	IPv6 addresses: fd00::212:7404:4:404
+00:00.656	ID:4	Waiting for RPL DAG...
+00:00.657	ID:4	Waiting for RPL DAG...
+00:00.658	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.659	ID:4	Waiting for RPL DAG...
+00:00.661	ID:4	Waiting for RPL DAG...
+00:00.663	ID:4	Waiting for RPL DAG...
+00:00.665	ID:4	Waiting for RPL DAG...
+00:00.666	ID:4	Waiting for RPL DAG...
+00:00.667	ID:1	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.668	ID:4	Waiting for RPL DAG...
+00:00.669	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.670	ID:4	Waiting for RPL DAG...
+00:00.672	ID:4	Waiting for RPL DAG...
+00:00.676	ID:4	DAG not found, server address set to: fd00::1
+00:00.678	ID:4	UDP client process started
+00:00.678	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.679	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.682	ID:1	Starting 'UDP server process' 'collect common process'
+00:00.682	ID:4	Client IPv6 addresses: fd00::212:7404:4:404
+00:00.684	ID:1	Sink initialized with storing mode
+00:00.685	ID:4	fe80::212:7404:4:404
+00:00.686	ID:1	UDP server started
+00:00.688	ID:7	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.690	ID:4	Created a connection with the server :: local/remote port 8775/5688
+00:00.690	ID:1	created a new RPL dag
+00:00.695	ID:1	Server IPv6 addresses: fd00::212:7401:1:101
+00:00.696	ID:1	fd00::1
+00:00.699	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.699	ID:1	fe80::212:7401:1:101
+00:00.702	ID:7	Starting 'UDP client process' 'collect common process'
+00:00.705	ID:1	Created a server connection with remote address :: local/remote port 5688/8775
+00:00.707	ID:7	IPv6 addresses: fd00::212:7407:7:707
+00:00.709	ID:7	Waiting for RPL DAG...
+00:00.711	ID:7	Waiting for RPL DAG...
+00:00.713	ID:7	Waiting for RPL DAG...
+00:00.714	ID:7	Waiting for RPL DAG...
+00:00.716	ID:7	Waiting for RPL DAG...
+00:00.718	ID:7	Waiting for RPL DAG...
+00:00.720	ID:7	Waiting for RPL DAG...
+00:00.722	ID:7	Waiting for RPL DAG...
+00:00.723	ID:7	Waiting for RPL DAG...
+00:00.725	ID:7	Waiting for RPL DAG...
+00:00.729	ID:7	DAG not found, server address set to: fd00::1
+00:00.731	ID:7	UDP client process started
+00:00.735	ID:7	Client IPv6 addresses: fd00::212:7407:7:707
+00:00.738	ID:7	fe80::212:7407:7:707
+00:00.744	ID:7	Created a connection with the server :: local/remote port 8775/5688
+00:00.824	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.834	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
+00:00.843	ID:10	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.854	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.858	ID:10	Starting 'UDP client process' 'collect common process'
+00:00.862	ID:12	Rime started with address 0.18.116.12.0.12.12.12
+00:00.863	ID:10	IPv6 addresses: fd00::212:740a:a:a0a
+00:00.864	ID:10	Waiting for RPL DAG...
+00:00.866	ID:10	Waiting for RPL DAG...
+00:00.868	ID:10	Waiting for RPL DAG...
+00:00.870	ID:10	Waiting for RPL DAG...
+00:00.872	ID:10	Waiting for RPL DAG...
+00:00.872	ID:12	MAC 00:12:74:0c:00:0c:0c:0c Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 12.
+00:00.873	ID:10	Waiting for RPL DAG...
+00:00.875	ID:10	Waiting for RPL DAG...
+00:00.877	ID:10	Waiting for RPL DAG...
+00:00.879	ID:10	Waiting for RPL DAG...
+00:00.881	ID:10	Waiting for RPL DAG...
+00:00.881	ID:12	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:00.884	ID:10	DAG not found, server address set to: fd00::1
+00:00.886	ID:10	UDP client process started
+00:00.891	ID:10	Client IPv6 addresses: fd00::212:740a:a:a0a
+00:00.892	ID:12	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740c:000c:0c0c
+00:00.894	ID:10	fe80::212:740a:a:a0a
+00:00.896	ID:12	Starting 'UDP client process' 'collect common process'
+00:00.899	ID:10	Created a connection with the server :: local/remote port 8775/5688
+00:00.901	ID:12	IPv6 addresses: fd00::212:740c:c:c0c
+00:00.902	ID:12	Waiting for RPL DAG...
+00:00.904	ID:12	Waiting for RPL DAG...
+00:00.906	ID:12	Waiting for RPL DAG...
+00:00.908	ID:12	Waiting for RPL DAG...
+00:00.909	ID:12	Waiting for RPL DAG...
+00:00.911	ID:12	Waiting for RPL DAG...
+00:00.913	ID:12	Waiting for RPL DAG...
+00:00.915	ID:12	Waiting for RPL DAG...
+00:00.917	ID:12	Waiting for RPL DAG...
+00:00.918	ID:12	Waiting for RPL DAG...
+00:00.922	ID:12	DAG not found, server address set to: fd00::1
+00:00.924	ID:12	UDP client process started
+00:00.929	ID:12	Client IPv6 addresses: fd00::212:740c:c:c0c
+00:00.931	ID:12	fe80::212:740c:c:c0c
+00:00.937	ID:12	Created a connection with the server :: local/remote port 8775/5688
+00:00.976	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.982	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.985	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.992	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.994	ID:9	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.001	ID:5	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.005	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.009	ID:9	Starting 'UDP client process' 'collect common process'
+00:01.012	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.014	ID:9	IPv6 addresses: fd00::212:7409:9:909
+00:01.016	ID:5	Starting 'UDP client process' 'collect common process'
+00:01.016	ID:9	Waiting for RPL DAG...
+00:01.017	ID:9	Waiting for RPL DAG...
+00:01.019	ID:9	Waiting for RPL DAG...
+00:01.021	ID:5	IPv6 addresses: fd00::212:7405:5:505
+00:01.021	ID:9	Waiting for RPL DAG...
+00:01.022	ID:5	Waiting for RPL DAG...
+00:01.023	ID:9	Waiting for RPL DAG...
+00:01.024	ID:5	Waiting for RPL DAG...
+00:01.025	ID:9	Waiting for RPL DAG...
+00:01.026	ID:5	Waiting for RPL DAG...
+00:01.027	ID:9	Waiting for RPL DAG...
+00:01.028	ID:5	Waiting for RPL DAG...
+00:01.028	ID:9	Waiting for RPL DAG...
+00:01.029	ID:5	Waiting for RPL DAG...
+00:01.030	ID:9	Waiting for RPL DAG...
+00:01.031	ID:5	Waiting for RPL DAG...
+00:01.032	ID:9	Waiting for RPL DAG...
+00:01.033	ID:5	Waiting for RPL DAG...
+00:01.035	ID:5	Waiting for RPL DAG...
+00:01.036	ID:9	DAG not found, server address set to: fd00::1
+00:01.037	ID:5	Waiting for RPL DAG...
+00:01.038	ID:9	UDP client process started
+00:01.039	ID:5	Waiting for RPL DAG...
+00:01.042	ID:9	Client IPv6 addresses: fd00::212:7409:9:909
+00:01.042	ID:5	DAG not found, server address set to: fd00::1
+00:01.044	ID:5	UDP client process started
+00:01.045	ID:9	fe80::212:7409:9:909
+00:01.049	ID:5	Client IPv6 addresses: fd00::212:7405:5:505
+00:01.050	ID:9	Created a connection with the server :: local/remote port 8775/5688
+00:01.052	ID:5	fe80::212:7405:5:505
+00:01.057	ID:5	Created a connection with the server :: local/remote port 8775/5688
+00:01.167	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.176	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.185	ID:3	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26, CCA threshold -45
+00:01.196	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.200	ID:3	Starting 'UDP client process' 'collect common process'
+00:01.205	ID:3	IPv6 addresses: fd00::212:7403:3:303
+00:01.207	ID:3	Waiting for RPL DAG...
+00:01.208	ID:3	Waiting for RPL DAG...
+00:01.210	ID:3	Waiting for RPL DAG...
+00:01.212	ID:3	Waiting for RPL DAG...
+00:01.214	ID:3	Waiting for RPL DAG...
+00:01.216	ID:3	Waiting for RPL DAG...
+00:01.217	ID:3	Waiting for RPL DAG...
+00:01.219	ID:3	Waiting for RPL DAG...
+00:01.221	ID:3	Waiting for RPL DAG...
+00:01.223	ID:3	Waiting for RPL DAG...
+00:01.227	ID:3	DAG not found, server address set to: fd00::1
+00:01.229	ID:3	UDP client process started
+00:01.233	ID:3	Client IPv6 addresses: fd00::212:7403:3:303
+00:01.236	ID:3	fe80::212:7403:3:303
+00:01.241	ID:3	Created a connection with the server :: local/remote port 8775/5688
+00:04.538	ID:2	Joined RPL DAG: fd00::1
+00:04.859	ID:10	Joined RPL DAG: fd00::1
+00:04.896	ID:12	Joined RPL DAG: fd00::1
+00:05.017	ID:5	Joined RPL DAG: fd00::1
+00:05.201	ID:3	Joined RPL DAG: fd00::1
+00:06.493	ID:11	Joined RPL DAG: fd00::1
+00:06.651	ID:4	Joined RPL DAG: fd00::1
+00:06.704	ID:7	Joined RPL DAG: fd00::1
+00:07.011	ID:9	Joined RPL DAG: fd00::1
+00:08.400	ID:8	Joined RPL DAG: fd00::1
+00:08.618	ID:6	Joined RPL DAG: fd00::1
+00:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+00:30.708	ID:1	DAG Verification:
+00:30.710	ID:1	  DAG ID: fd00::1
+00:30.711	ID:1	  Version: 240
+00:30.712	ID:1	  Rank: 128
+00:30.713	ID:1	Stored Routes:
+00:30.720	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+00:30.728	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+00:30.735	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+00:30.742	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+00:30.749	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+00:30.756	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+00:30.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+00:30.771	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+00:30.778	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+00:30.785	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+00:30.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+00:30.793	ID:1	Neighbors:
+00:30.798	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+00:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+00:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+00:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+00:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+00:30.819	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+00:30.820	ID:1	Total routes: 11
+01:00.707	ID:1	Sink Stats: Packets=0, Time=0s
+01:00.708	ID:1	DAG Verification:
+01:00.710	ID:1	  DAG ID: fd00::1
+01:00.711	ID:1	  Version: 240
+01:00.712	ID:1	  Rank: 128
+01:00.713	ID:1	Stored Routes:
+01:00.720	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+01:00.728	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+01:00.735	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+01:00.742	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+01:00.749	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+01:00.756	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+01:00.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+01:00.771	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+01:00.778	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+01:00.785	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+01:00.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+01:00.793	ID:1	Neighbors:
+01:00.798	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+01:00.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+01:00.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+01:00.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+01:00.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+01:00.819	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+01:00.820	ID:1	Total routes: 11
+01:01.624	ID:11	Sending to sink: seq=1, parent_etx=64, rtmetric=292, neighbors=10
+01:01.644	ID:11	Packet sent: size=46 bytes
+01:01.966	ID:12	Sending to sink: seq=1, parent_etx=64, rtmetric=292, neighbors=11
+01:01.985	ID:12	Packet sent: size=46 bytes
+01:06.614	ID:2	Sending to sink: seq=1, parent_etx=64, rtmetric=286, neighbors=9
+01:06.633	ID:2	Packet sent: size=46 bytes
+01:14.254	ID:6	Sending to sink: seq=1, parent_etx=138, rtmetric=441, neighbors=10
+01:14.272	ID:6	Packet sent: size=46 bytes
+01:27.763	ID:8	Sending to sink: seq=1, parent_etx=138, rtmetric=441, neighbors=8
+01:27.781	ID:8	Packet sent: size=46 bytes
+01:29.101	ID:9	Sending to sink: seq=1, parent_etx=138, rtmetric=441, neighbors=9
+01:29.120	ID:9	Packet sent: size=46 bytes
+01:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+01:30.708	ID:1	DAG Verification:
+01:30.710	ID:1	  DAG ID: fd00::1
+01:30.711	ID:1	  Version: 240
+01:30.712	ID:1	  Rank: 128
+01:30.713	ID:1	Stored Routes:
+01:30.720	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+01:30.727	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+01:30.735	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+01:30.742	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+01:30.749	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+01:30.757	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+01:30.764	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+01:30.771	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+01:30.778	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+01:30.785	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+01:30.793	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+01:30.793	ID:1	Neighbors:
+01:30.798	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+01:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+01:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+01:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+01:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+01:30.819	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+01:30.820	ID:1	Total routes: 11
+01:36.398	ID:4	Sending to sink: seq=1, parent_etx=138, rtmetric=441, neighbors=7
+01:36.416	ID:4	Packet sent: size=46 bytes
+01:37.449	ID:10	Sending to sink: seq=1, parent_etx=64, rtmetric=286, neighbors=8
+01:37.468	ID:10	Packet sent: size=46 bytes
+01:48.099	ID:3	Sending to sink: seq=1, parent_etx=64, rtmetric=286, neighbors=11
+01:48.118	ID:3	Packet sent: size=46 bytes
+01:52.241	ID:7	Sending to sink: seq=1, parent_etx=138, rtmetric=441, neighbors=8
+01:52.260	ID:7	Packet sent: size=46 bytes
+01:53.930	ID:5	Sending to sink: seq=1, parent_etx=64, rtmetric=270, neighbors=11
+01:53.949	ID:5	Packet sent: size=46 bytes
+02:00.707	ID:1	Sink Stats: Packets=0, Time=0s
+02:00.708	ID:1	DAG Verification:
+02:00.710	ID:1	  DAG ID: fd00::1
+02:00.711	ID:1	  Version: 240
+02:00.712	ID:1	  Rank: 128
+02:00.713	ID:1	Stored Routes:
+02:00.720	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+02:00.727	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+02:00.735	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+02:00.742	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+02:00.749	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+02:00.757	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+02:00.764	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+02:00.771	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+02:00.778	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+02:00.785	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+02:00.793	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+02:00.793	ID:1	Neighbors:
+02:00.798	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+02:00.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+02:00.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+02:00.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+02:00.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+02:00.819	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+02:00.820	ID:1	Total routes: 11
+02:03.740	ID:8	Sending to sink: seq=2, parent_etx=138, rtmetric=435, neighbors=8
+02:03.758	ID:8	Packet sent: size=46 bytes
+02:04.475	ID:7	Sending to sink: seq=2, parent_etx=138, rtmetric=435, neighbors=8
+02:04.494	ID:7	Packet sent: size=46 bytes
+02:09.165	ID:5	Sending to sink: seq=2, parent_etx=64, rtmetric=265, neighbors=11
+02:09.184	ID:5	Packet sent: size=46 bytes
+02:17.450	ID:12	Sending to sink: seq=2, parent_etx=64, rtmetric=281, neighbors=11
+02:17.469	ID:12	Packet sent: size=46 bytes
+02:23.550	ID:6	Sending to sink: seq=2, parent_etx=133, rtmetric=420, neighbors=10
+02:23.569	ID:6	Packet sent: size=46 bytes
+02:25.168	ID:10	Sending to sink: seq=2, parent_etx=64, rtmetric=281, neighbors=8
+02:25.187	ID:10	Packet sent: size=46 bytes
+02:25.708	ID:3	Sending to sink: seq=2, parent_etx=64, rtmetric=281, neighbors=11
+02:25.727	ID:3	Packet sent: size=46 bytes
+02:27.023	ID:9	Sending to sink: seq=2, parent_etx=133, rtmetric=420, neighbors=9
+02:27.042	ID:9	Packet sent: size=46 bytes
+02:30.083	ID:2	Sending to sink: seq=2, parent_etx=64, rtmetric=281, neighbors=9
+02:30.102	ID:2	Packet sent: size=46 bytes
+02:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+02:30.708	ID:1	DAG Verification:
+02:30.710	ID:1	  DAG ID: fd00::1
+02:30.711	ID:1	  Version: 240
+02:30.712	ID:1	  Rank: 128
+02:30.713	ID:1	Stored Routes:
+02:30.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+02:30.728	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+02:30.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+02:30.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+02:30.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+02:30.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+02:30.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+02:30.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+02:30.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+02:30.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+02:30.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+02:30.793	ID:1	Neighbors:
+02:30.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+02:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+02:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+02:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+02:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+02:30.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+02:30.820	ID:1	Total routes: 11
+02:39.608	ID:11	Sending to sink: seq=2, parent_etx=64, rtmetric=281, neighbors=10
+02:39.628	ID:11	Packet sent: size=46 bytes
+02:58.570	ID:4	Sending to sink: seq=2, parent_etx=133, rtmetric=420, neighbors=7
+02:58.588	ID:4	Packet sent: size=46 bytes
+03:00.707	ID:1	Sink Stats: Packets=0, Time=0s
+03:00.708	ID:1	DAG Verification:
+03:00.710	ID:1	  DAG ID: fd00::1
+03:00.711	ID:1	  Version: 240
+03:00.712	ID:1	  Rank: 128
+03:00.713	ID:1	Stored Routes:
+03:00.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+03:00.728	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+03:00.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+03:00.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+03:00.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+03:00.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+03:00.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+03:00.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+03:00.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+03:00.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+03:00.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+03:00.793	ID:1	Neighbors:
+03:00.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+03:00.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+03:00.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+03:00.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+03:00.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+03:00.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+03:00.820	ID:1	Total routes: 11
+03:07.129	ID:2	Sending to sink: seq=3, parent_etx=64, rtmetric=277, neighbors=9
+03:07.148	ID:2	Packet sent: size=46 bytes
+03:09.950	ID:8	Sending to sink: seq=3, parent_etx=133, rtmetric=416, neighbors=8
+03:09.968	ID:8	Packet sent: size=46 bytes
+03:17.702	ID:11	Sending to sink: seq=3, parent_etx=64, rtmetric=277, neighbors=10
+03:17.721	ID:11	Packet sent: size=46 bytes
+03:18.544	ID:12	Sending to sink: seq=3, parent_etx=64, rtmetric=277, neighbors=11
+03:18.563	ID:12	Packet sent: size=46 bytes
+03:23.515	ID:5	Sending to sink: seq=3, parent_etx=64, rtmetric=258, neighbors=11
+03:23.535	ID:5	Packet sent: size=46 bytes
+03:25.840	ID:10	Sending to sink: seq=3, parent_etx=64, rtmetric=277, neighbors=8
+03:25.859	ID:10	Packet sent: size=46 bytes
+03:29.492	ID:9	Sending to sink: seq=3, parent_etx=133, rtmetric=416, neighbors=9
+03:29.510	ID:9	Packet sent: size=46 bytes
+03:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+03:30.708	ID:1	DAG Verification:
+03:30.710	ID:1	  DAG ID: fd00::1
+03:30.711	ID:1	  Version: 240
+03:30.712	ID:1	  Rank: 128
+03:30.713	ID:1	Stored Routes:
+03:30.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+03:30.727	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+03:30.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+03:30.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+03:30.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+03:30.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+03:30.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+03:30.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+03:30.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+03:30.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+03:30.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+03:30.793	ID:1	Neighbors:
+03:30.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+03:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+03:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+03:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+03:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+03:30.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+03:30.820	ID:1	Total routes: 11
+03:44.335	ID:4	Sending to sink: seq=3, parent_etx=128, rtmetric=406, neighbors=7
+03:44.354	ID:4	Packet sent: size=46 bytes
+03:52.691	ID:6	Sending to sink: seq=3, parent_etx=128, rtmetric=406, neighbors=10
+03:52.710	ID:6	Packet sent: size=46 bytes
+03:54.692	ID:3	Sending to sink: seq=3, parent_etx=64, rtmetric=277, neighbors=11
+03:54.712	ID:3	Packet sent: size=46 bytes
+03:59.428	ID:7	Sending to sink: seq=3, parent_etx=128, rtmetric=406, neighbors=8
+03:59.447	ID:7	Packet sent: size=46 bytes
+04:00.707	ID:1	Sink Stats: Packets=0, Time=0s
+04:00.708	ID:1	DAG Verification:
+04:00.710	ID:1	  DAG ID: fd00::1
+04:00.711	ID:1	  Version: 240
+04:00.712	ID:1	  Rank: 128
+04:00.713	ID:1	Stored Routes:
+04:00.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+04:00.728	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+04:00.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+04:00.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+04:00.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+04:00.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+04:00.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+04:00.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+04:00.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+04:00.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+04:00.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+04:00.793	ID:1	Neighbors:
+04:00.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+04:00.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+04:00.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+04:00.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+04:00.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+04:00.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+04:00.820	ID:1	Total routes: 11
+04:08.201	ID:12	Sending to sink: seq=4, parent_etx=64, rtmetric=273, neighbors=11
+04:08.220	ID:12	Packet sent: size=46 bytes
+04:21.498	ID:7	Sending to sink: seq=4, parent_etx=128, rtmetric=402, neighbors=8
+04:21.517	ID:7	Packet sent: size=46 bytes
+04:25.364	ID:10	Sending to sink: seq=4, parent_etx=64, rtmetric=273, neighbors=8
+04:25.383	ID:10	Packet sent: size=46 bytes
+04:28.341	ID:2	Sending to sink: seq=4, parent_etx=64, rtmetric=273, neighbors=9
+04:28.360	ID:2	Packet sent: size=46 bytes
+04:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+04:30.708	ID:1	DAG Verification:
+04:30.710	ID:1	  DAG ID: fd00::1
+04:30.711	ID:1	  Version: 240
+04:30.712	ID:1	  Rank: 128
+04:30.713	ID:1	Stored Routes:
+04:30.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+04:30.728	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+04:30.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+04:30.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+04:30.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+04:30.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+04:30.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+04:30.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+04:30.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+04:30.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+04:30.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+04:30.793	ID:1	Neighbors:
+04:30.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+04:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+04:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+04:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+04:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+04:30.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+04:30.820	ID:1	Total routes: 11
+04:35.016	ID:9	Sending to sink: seq=4, parent_etx=128, rtmetric=402, neighbors=9
+04:35.034	ID:9	Packet sent: size=46 bytes
+04:42.187	ID:4	Sending to sink: seq=4, parent_etx=128, rtmetric=402, neighbors=7
+04:42.206	ID:4	Packet sent: size=46 bytes
+04:51.852	ID:5	Sending to sink: seq=4, parent_etx=64, rtmetric=257, neighbors=11
+04:51.871	ID:5	Packet sent: size=46 bytes
+04:53.622	ID:3	Sending to sink: seq=4, parent_etx=64, rtmetric=273, neighbors=11
+04:53.641	ID:3	Packet sent: size=46 bytes
+04:54.006	ID:11	Sending to sink: seq=4, parent_etx=64, rtmetric=273, neighbors=10
+04:54.026	ID:11	Packet sent: size=46 bytes
+04:59.138	ID:8	Sending to sink: seq=4, parent_etx=128, rtmetric=402, neighbors=8
+04:59.156	ID:8	Packet sent: size=46 bytes
+05:00.340	ID:6	Sending to sink: seq=4, parent_etx=128, rtmetric=402, neighbors=10
+05:00.359	ID:6	Packet sent: size=46 bytes
+05:00.707	ID:1	Sink Stats: Packets=0, Time=0s
+05:00.708	ID:1	DAG Verification:
+05:00.710	ID:1	  DAG ID: fd00::1
+05:00.711	ID:1	  Version: 240
+05:00.712	ID:1	  Rank: 128
+05:00.713	ID:1	Stored Routes:
+05:00.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+05:00.728	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+05:00.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+05:00.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+05:00.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+05:00.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+05:00.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+05:00.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+05:00.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+05:00.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+05:00.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+05:00.793	ID:1	Neighbors:
+05:00.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+05:00.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+05:00.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+05:00.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+05:00.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+05:00.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+05:00.820	ID:1	Total routes: 11
+05:03.031	ID:4	Sending to sink: seq=5, parent_etx=128, rtmetric=399, neighbors=7
+05:03.049	ID:4	Packet sent: size=46 bytes
+05:14.349	ID:10	Sending to sink: seq=5, parent_etx=64, rtmetric=270, neighbors=8
+05:14.368	ID:10	Packet sent: size=46 bytes
+05:14.597	ID:6	Sending to sink: seq=5, parent_etx=128, rtmetric=399, neighbors=10
+05:14.616	ID:6	Packet sent: size=46 bytes
+05:25.606	ID:8	Sending to sink: seq=5, parent_etx=128, rtmetric=399, neighbors=8
+05:25.624	ID:8	Packet sent: size=46 bytes
+05:27.803	ID:11	Sending to sink: seq=5, parent_etx=64, rtmetric=270, neighbors=10
+05:27.823	ID:11	Packet sent: size=46 bytes
+05:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+05:30.708	ID:1	DAG Verification:
+05:30.710	ID:1	  DAG ID: fd00::1
+05:30.711	ID:1	  Version: 240
+05:30.712	ID:1	  Rank: 128
+05:30.713	ID:1	Stored Routes:
+05:30.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+05:30.728	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+05:30.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+05:30.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+05:30.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+05:30.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+05:30.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+05:30.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+05:30.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+05:30.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+05:30.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+05:30.793	ID:1	Neighbors:
+05:30.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+05:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+05:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+05:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+05:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+05:30.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+05:30.820	ID:1	Total routes: 11
+05:32.200	ID:2	Sending to sink: seq=5, parent_etx=64, rtmetric=270, neighbors=9
+05:32.219	ID:2	Packet sent: size=46 bytes
+05:41.668	ID:3	Sending to sink: seq=5, parent_etx=64, rtmetric=270, neighbors=11
+05:41.688	ID:3	Packet sent: size=46 bytes
+05:42.895	ID:12	Sending to sink: seq=5, parent_etx=64, rtmetric=270, neighbors=11
+05:42.914	ID:12	Packet sent: size=46 bytes
+05:44.467	ID:7	Sending to sink: seq=5, parent_etx=128, rtmetric=399, neighbors=8
+05:44.485	ID:7	Packet sent: size=46 bytes
+05:58.961	ID:5	Sending to sink: seq=5, parent_etx=64, rtmetric=256, neighbors=11
+05:58.981	ID:5	Packet sent: size=46 bytes
+06:00.002	ID:9	Sending to sink: seq=5, parent_etx=128, rtmetric=399, neighbors=9
+06:00.021	ID:9	Packet sent: size=46 bytes
+06:00.707	ID:1	Sink Stats: Packets=0, Time=0s
+06:00.708	ID:1	DAG Verification:
+06:00.710	ID:1	  DAG ID: fd00::1
+06:00.711	ID:1	  Version: 240
+06:00.712	ID:1	  Rank: 128
+06:00.713	ID:1	Stored Routes:
+06:00.720	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+06:00.728	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+06:00.735	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+06:00.742	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+06:00.749	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+06:00.756	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+06:00.763	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+06:00.771	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+06:00.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+06:00.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+06:00.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+06:00.793	ID:1	Neighbors:
+06:00.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+06:00.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+06:00.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+06:00.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+06:00.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+06:00.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+06:00.820	ID:1	Total routes: 11
+06:02.757	ID:7	Sending to sink: seq=6, parent_etx=128, rtmetric=396, neighbors=8
+06:02.775	ID:7	Packet sent: size=46 bytes
+06:06.497	ID:12	Sending to sink: seq=6, parent_etx=64, rtmetric=267, neighbors=11
+06:06.516	ID:12	Packet sent: size=46 bytes
+06:10.390	ID:11	Sending to sink: seq=6, parent_etx=64, rtmetric=267, neighbors=10
+06:10.409	ID:11	Packet sent: size=46 bytes
+06:11.453	ID:5	Sending to sink: seq=6, parent_etx=64, rtmetric=256, neighbors=11
+06:11.472	ID:5	Packet sent: size=46 bytes
+06:11.976	ID:4	Sending to sink: seq=6, parent_etx=128, rtmetric=396, neighbors=7
+06:11.994	ID:4	Packet sent: size=46 bytes
+06:16.945	ID:9	Sending to sink: seq=6, parent_etx=128, rtmetric=396, neighbors=9
+06:16.964	ID:9	Packet sent: size=46 bytes
+06:18.083	ID:2	Sending to sink: seq=6, parent_etx=64, rtmetric=267, neighbors=9
+06:18.102	ID:2	Packet sent: size=46 bytes
+06:24.403	ID:3	Sending to sink: seq=6, parent_etx=64, rtmetric=267, neighbors=11
+06:24.422	ID:3	Packet sent: size=46 bytes
+06:26.521	ID:8	Sending to sink: seq=6, parent_etx=128, rtmetric=396, neighbors=8
+06:26.540	ID:8	Packet sent: size=46 bytes
+06:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+06:30.708	ID:1	DAG Verification:
+06:30.710	ID:1	  DAG ID: fd00::1
+06:30.711	ID:1	  Version: 240
+06:30.712	ID:1	  Rank: 128
+06:30.713	ID:1	Stored Routes:
+06:30.720	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+06:30.728	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+06:30.735	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+06:30.742	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+06:30.749	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+06:30.756	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+06:30.764	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+06:30.771	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+06:30.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+06:30.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+06:30.793	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+06:30.793	ID:1	Neighbors:
+06:30.798	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+06:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+06:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+06:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+06:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+06:30.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+06:30.820	ID:1	Total routes: 11
+06:40.707	ID:6	Sending to sink: seq=6, parent_etx=128, rtmetric=395, neighbors=10
+06:40.725	ID:6	Packet sent: size=46 bytes
+06:59.106	ID:10	Sending to sink: seq=6, parent_etx=64, rtmetric=265, neighbors=8
+06:59.124	ID:10	Packet sent: size=46 bytes
+07:00.707	ID:1	Sink Stats: Packets=0, Time=0s
+07:00.708	ID:1	DAG Verification:
+07:00.710	ID:1	  DAG ID: fd00::1
+07:00.711	ID:1	  Version: 240
+07:00.712	ID:1	  Rank: 128
+07:00.713	ID:1	Stored Routes:
+07:00.720	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+07:00.728	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+07:00.735	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+07:00.742	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+07:00.749	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+07:00.756	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+07:00.763	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+07:00.771	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+07:00.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+07:00.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+07:00.792	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+07:00.793	ID:1	Neighbors:
+07:00.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+07:00.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+07:00.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+07:00.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+07:00.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+07:00.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+07:00.820	ID:1	Total routes: 11
+07:03.575	ID:8	Sending to sink: seq=7, parent_etx=128, rtmetric=393, neighbors=8
+07:03.593	ID:8	Packet sent: size=46 bytes
+07:13.324	ID:10	Sending to sink: seq=7, parent_etx=64, rtmetric=263, neighbors=8
+07:13.343	ID:10	Packet sent: size=46 bytes
+07:18.305	ID:5	Sending to sink: seq=7, parent_etx=64, rtmetric=256, neighbors=11
+07:18.324	ID:5	Packet sent: size=46 bytes
+07:23.015	ID:4	Sending to sink: seq=7, parent_etx=128, rtmetric=393, neighbors=7
+07:23.034	ID:4	Packet sent: size=46 bytes
+07:27.067	ID:12	Sending to sink: seq=7, parent_etx=64, rtmetric=265, neighbors=11
+07:27.086	ID:12	Packet sent: size=46 bytes
+07:30.707	ID:1	Sink Stats: Packets=0, Time=0s
+07:30.708	ID:1	DAG Verification:
+07:30.710	ID:1	  DAG ID: fd00::1
+07:30.711	ID:1	  Version: 240
+07:30.712	ID:1	  Rank: 128
+07:30.713	ID:1	Stored Routes:
+07:30.720	ID:1	  fd00::212:7407:7:707/128 via fe80::212:7405:5:505
+07:30.727	ID:1	  fd00::212:740a:a:a0a/128 via fe80::212:740a:a:a0a
+07:30.735	ID:1	  fd00::212:740b:b:b0b/128 via fe80::212:740b:b:b0b
+07:30.742	ID:1	  fd00::212:7409:9:909/128 via fe80::212:7405:5:505
+07:30.749	ID:1	  fd00::212:7408:8:808/128 via fe80::212:7405:5:505
+07:30.756	ID:1	  fd00::212:7406:6:606/128 via fe80::212:7405:5:505
+07:30.763	ID:1	  fd00::212:7404:4:404/128 via fe80::212:7405:5:505
+07:30.771	ID:1	  fd00::212:7405:5:505/128 via fe80::212:7405:5:505
+07:30.778	ID:1	  fd00::212:7403:3:303/128 via fe80::212:7403:3:303
+07:30.785	ID:1	  fd00::212:7402:2:202/128 via fe80::212:7402:2:202
+07:30.792	ID:1	  fd00::212:740c:c:c0c/128 via fe80::212:740c:c:c0c
+07:30.793	ID:1	Neighbors:
+07:30.797	ID:1	  fe80::212:7402:2:202 (reachable: 1)
+07:30.802	ID:1	  fe80::212:740a:a:a0a (reachable: 1)
+07:30.806	ID:1	  fe80::212:7405:5:505 (reachable: 1)
+07:30.810	ID:1	  fe80::212:740c:c:c0c (reachable: 1)
+07:30.814	ID:1	  fe80::212:740b:b:b0b (reachable: 1)
+07:30.818	ID:1	  fe80::212:7403:3:303 (reachable: 1)
+07:30.820	ID:1	Total routes: 11
+07:31.999	ID:11	Sending to sink: seq=7, parent_etx=64, rtmetric=263, neighbors=10
+07:32.018	ID:11	Packet sent: size=46 bytes
+07:40.095	ID:9	Sending to sink: seq=7, parent_etx=128, rtmetric=393, neighbors=9
+07:40.113	ID:9	Packet sent: size=46 bytes
+07:40.264	ID:7	Sending to sink: seq=7, parent_etx=128, rtmetric=391, neighbors=8
+07:40.282	ID:7	Packet sent: size=46 bytes
