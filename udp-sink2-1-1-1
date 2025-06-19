@@ -1,0 +1,224 @@
+/* Enhanced UDP Sink with Storing Mode Support */
+#include "contiki.h"
+#include "contiki-lib.h"
+#include "contiki-net.h"
+#include "net/ip/uip.h"
+#include "net/rpl/rpl.h"
+#include "net/linkaddr.h"
+#include "net/netstack.h"
+#include "net/ipv6/uip-ds6.h"
+#include "net/ipv6/uip-ds6-route.h"
+#include "dev/button-sensor.h"
+#include "dev/serial-line.h"
+#if CONTIKI_TARGET_Z1
+#include "dev/uart0.h"
+#else
+#include "dev/uart1.h"
+#endif
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include "collect-common.h"
+#include "collect-view.h"
+
+#define DEBUG DEBUG_PRINT
+#include "net/ip/uip-debug.h"
+
+#define UIP_IP_BUF   ((struct uip_ip_hdr *)&uip_buf[UIP_LLH_LEN])
+#define UDP_CLIENT_PORT 8775
+#define UDP_SERVER_PORT 5688
+#define STATISTICS_INTERVAL (30 * CLOCK_SECOND)
+
+static struct uip_udp_conn *server_conn;
+static uint32_t total_packets_received = 0;
+static uint32_t network_time = 0;
+
+PROCESS(udp_server_process, "UDP server process");
+AUTOSTART_PROCESSES(&udp_server_process, &collect_common_process);
+
+/*---------------------------------------------------------------------------*/
+void
+collect_common_set_sink(void)
+{
+  /* Sink-specific initialization */
+}
+
+/*---------------------------------------------------------------------------*/
+void
+collect_common_net_print(void)
+{
+  uip_ds6_route_t *r;
+  uip_ds6_defrt_t *defrt;
+  uip_ds6_nbr_t *nbr;
+  int route_count = 0;
+  
+  printf("Sink Stats: Packets=%lu, Time=%lus\n", 
+        total_packets_received,
+        network_time / CLOCK_SECOND);
+  
+  /* Display routes maintained in storing mode */
+  printf("Stored Routes:\n");
+  defrt = uip_ds6_defrt_head();
+  while(defrt != NULL) {
+    printf("  Default via ");
+    PRINT6ADDR(&defrt->ipaddr);
+    printf("\n");
+    route_count++;
+    defrt = list_item_next(defrt);
+  }
+  
+  for(r = uip_ds6_route_head(); r != NULL; r = uip_ds6_route_next(r)) {
+    printf("  ");
+    PRINT6ADDR(&r->ipaddr);
+    printf("/%u via ", r->length);
+    if(uip_ds6_route_nexthop(r) != NULL) {
+      PRINT6ADDR(uip_ds6_route_nexthop(r));
+    } else {
+      printf("(direct)");
+    }
+    printf("\n");
+    route_count++;
+  }
+  
+  printf("Neighbors:\n");
+  for(nbr = nbr_table_head(ds6_neighbors); 
+      nbr != NULL; 
+      nbr = nbr_table_next(ds6_neighbors, nbr)) {
+    printf("  ");
+    PRINT6ADDR(&nbr->ipaddr);
+    printf(" (reachable: %u)\n", 
+           (nbr_table_get_lladdr(ds6_neighbors, nbr) != NULL));
+  }
+  
+  printf("Total routes: %d\n", route_count);
+}
+
+/*---------------------------------------------------------------------------*/
+void
+collect_common_send(void)
+{
+  /* Sink does not send data */
+}
+
+/*---------------------------------------------------------------------------*/
+void
+collect_common_net_init(void)
+{
+#if CONTIKI_TARGET_Z1
+  uart0_set_input(serial_line_input_byte);
+#else
+  uart1_set_input(serial_line_input_byte);
+#endif
+  serial_line_init();
+  PRINTF("Sink initialized with storing mode\n");
+}
+
+/*---------------------------------------------------------------------------*/
+#ifndef UIP_IP_BUF
+#define UIP_IP_BUF ((struct uip_ip_hdr *)&uip_buf[UIP_LLH_LEN])
+#endif
+#ifndef UIP_LLH_LEN
+#define UIP_LLH_LEN 14   // For 802.15.4 (adjust if using different link layer)
+#endif
+
+static void
+tcpip_handler(void)
+{
+  uint8_t *appdata;
+  linkaddr_t sender;
+  uint8_t seqno;
+  uint8_t hops;
+
+  if(uip_newdata()) {
+    appdata = (uint8_t *)uip_appdata;
+    
+    /* Extract node ID from IPv6 address (bytes 14-15) */
+    uint16_t node_id = (UIP_IP_BUF->srcipaddr.u8[14] << 8) | 
+                       UIP_IP_BUF->srcipaddr.u8[15];
+    
+    /* Convert to linkaddr_t format */
+    sender.u8[0] = node_id & 0xFF;
+    sender.u8[1] = (node_id >> 8) & 0xFF;
+    
+    seqno = *appdata;
+    hops = uip_ds6_if.cur_hop_limit - UIP_IP_BUF->ttl + 1;
+    
+    total_packets_received++;
+    network_time = clock_time();
+
+    PRINTF("Received from node %04x: seq=%u, hops=%u\n", node_id, seqno, hops);
+    
+    
+    
+    collect_common_recv(&sender, seqno, hops, appdata + 2, uip_datalen() - 2);
+  }
+}
+
+
+
+/*---------------------------------------------------------------------------*/
+PROCESS_THREAD(udp_server_process, ev, data)
+{
+  uip_ipaddr_t ipaddr;
+  struct uip_ds6_addr *root_if;
+  static struct etimer periodic_timer;
+
+  PROCESS_BEGIN();
+  
+    /* Initialize network stack FIRST */
+  netstack_init();
+  
+  
+  collect_common_net_init();     /* Initialize Collect View I/O */
+  collect_common_set_sink();     /* Mark this node as sink */
+  
+
+#if UIP_CONF_ROUTER
+  /* Configure as RPL root with consistent prefix */
+  uip_ip6addr(&ipaddr, UIP_DS6_DEFAULT_PREFIX, 0, 0, 0, 0, 0, 0, 1);
+  uip_ds6_addr_add(&ipaddr, 0, ADDR_MANUAL);
+  root_if = uip_ds6_addr_lookup(&ipaddr);
+  if(root_if != NULL) {
+    rpl_dag_t *dag = rpl_set_root(RPL_DEFAULT_INSTANCE, &ipaddr);
+    if(dag != NULL) {
+      uip_ip6addr(&ipaddr, UIP_DS6_DEFAULT_PREFIX, 0, 0, 0, 0, 0, 0, 0);
+      rpl_set_prefix(dag, &ipaddr, 64);
+      PRINTF("Created RPL DAG with storing mode (MOP=%u)\n", dag->instance->mop);
+    }   
+    
+  } 
+#endif
+
+  NETSTACK_RDC.off(1);
+  server_conn = udp_new(NULL, UIP_HTONS(UDP_CLIENT_PORT), NULL);
+  udp_bind(server_conn, UIP_HTONS(UDP_SERVER_PORT));
+  
+    /* CRITICAL: Attach connection to current process */
+  udp_attach(server_conn, PROCESS_CURRENT());
+
+  printf("Sink listening on UDP port %u\n", UDP_SERVER_PORT);
+
+  etimer_set(&periodic_timer, STATISTICS_INTERVAL);
+
+  while(1) {
+    PROCESS_WAIT_EVENT();
+    if(ev == tcpip_event) {
+      /* Handle incoming packets */
+      tcpip_handler();
+      uint8_t *appdata = uip_appdata;
+      if(uip_newdata()) {
+        total_packets_received++;
+        printf("Received packet from ");
+        uip_debug_ipaddr_print(&UIP_IP_BUF->srcipaddr);
+        printf("First byte: %u\n", appdata[0]);
+        printf("\n");
+      }
+    }
+    else if(etimer_expired(&periodic_timer)) {
+      printf("Sink Stats: Received %lu packets\n", total_packets_received);
+      etimer_reset(&periodic_timer);
+    }
+  }
+
+  PROCESS_END();
+}
