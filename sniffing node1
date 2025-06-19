@@ -1,0 +1,65 @@
+#include "contiki.h"
+#include "net/netstack.h"
+#include "net/packetbuf.h"
+#include "net/ip/uip.h"
+#include "net/ip/uip-debug.h"
+#include "net/ipv6/uip-ds6.h"
+#include <stdio.h>
+
+PROCESS(sniffer_process, "Packet sniffer process");
+AUTOSTART_PROCESSES(&sniffer_process);
+
+/*---------------------------------------------------------------------------*/
+static void
+input_callback(void)
+{
+  printf("SNIFF: Packet received, len=%u\n", packetbuf_datalen());
+  
+  /* Print packet data in hex format */
+  printf("SNIFF: Data: ");
+  int i;
+  for(i = 0; i < packetbuf_datalen() && i < 32; i++) {
+    printf("%02x ", ((uint8_t *)packetbuf_dataptr())[i]);
+  }
+  printf("\n");
+  
+  /* Try to parse as IPv6 */
+  if(packetbuf_datalen() > UIP_IPH_LEN) {
+    struct uip_ip_hdr *ip_hdr = (struct uip_ip_hdr *)packetbuf_dataptr();
+    
+    printf("SNIFF: IPv6 packet from ");
+    PRINT6ADDR(&ip_hdr->srcipaddr);
+    printf(" to ");
+    PRINT6ADDR(&ip_hdr->destipaddr);
+    printf("\n");
+    
+    /* Check if it's UDP */
+    if(ip_hdr->proto == UIP_PROTO_UDP && packetbuf_datalen() > UIP_IPUDPH_LEN) {
+      struct uip_udp_hdr *udp_hdr = (struct uip_udp_hdr *)(((uint8_t *)packetbuf_dataptr()) + UIP_IPH_LEN);
+      
+      printf("SNIFF: UDP packet from port %u to port %u\n", 
+             UIP_HTONS(udp_hdr->srcport), 
+             UIP_HTONS(udp_hdr->destport));
+    }
+  }
+}
+
+/*---------------------------------------------------------------------------*/
+PROCESS_THREAD(sniffer_process, ev, data)
+{
+  PROCESS_BEGIN();
+  
+  printf("Packet sniffer started\n");
+  
+  /* Set radio to promiscuous mode */
+  NETSTACK_RADIO.set_value(RADIO_PARAM_RX_MODE, 0);
+  
+  /* Register callback for incoming packets */
+  NETSTACK_MAC.input = input_callback;
+  
+  while(1) {
+    PROCESS_YIELD();
+  }
+  
+  PROCESS_END();
+}
