@@ -1,0 +1,701 @@
+00:00.344	ID:8	Rime started with address 0.18.116.8.0.8.8.8
+00:00.354	ID:8	MAC 00:12:74:08:00:08:08:08 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 8.
+00:00.362	ID:8	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.373	ID:8	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+00:00.377	ID:8	Starting 'UDP client process' 'collect common process'
+00:00.382	ID:8	Server address set to: fd00::1
+00:00.384	ID:8	UDP client process started
+00:00.388	ID:8	Client IPv6 addresses: fd00::212:7408:8:808
+00:00.391	ID:8	fe80::212:7408:8:808
+00:00.394	ID:8	Created UDP connection for RPL routing
+00:00.467	ID:11	Rime started with address 0.18.116.11.0.11.11.11
+00:00.477	ID:11	MAC 00:12:74:0b:00:0b:0b:0b Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 11.
+00:00.485	ID:11	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.496	ID:11	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+00:00.499	ID:11	Starting 'UDP Packet Sniffer Process'
+00:00.502	ID:11	UDP sniffer started, listening on UDP port 1234
+00:00.508	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.517	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 2.
+00:00.522	ID:6	Rime started with address 0.18.116.6.0.6.6.6
+00:00.526	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.532	ID:6	MAC 00:12:74:06:00:06:06:06 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 6.
+00:00.537	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.540	ID:6	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.540	ID:2	Starting 'UDP client process' 'collect common process'
+00:00.545	ID:2	Server address set to: fd00::1
+00:00.547	ID:2	UDP client process started
+00:00.551	ID:6	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+00:00.552	ID:2	Client IPv6 addresses: fd00::212:7402:2:202
+00:00.554	ID:2	fe80::212:7402:2:202
+00:00.555	ID:6	Starting 'UDP client process' 'collect common process'
+00:00.557	ID:2	Created UDP connection for RPL routing
+00:00.560	ID:6	Server address set to: fd00::1
+00:00.562	ID:6	UDP client process started
+00:00.566	ID:6	Client IPv6 addresses: fd00::212:7406:6:606
+00:00.569	ID:6	fe80::212:7406:6:606
+00:00.572	ID:6	Created UDP connection for RPL routing
+00:00.620	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.630	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 4.
+00:00.638	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.649	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.653	ID:4	Starting 'UDP client process' 'collect common process'
+00:00.654	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.658	ID:4	Server address set to: fd00::1
+00:00.659	ID:4	UDP client process started
+00:00.663	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 1.
+00:00.664	ID:4	Client IPv6 addresses: fd00::212:7404:4:404
+00:00.667	ID:4	fe80::212:7404:4:404
+00:00.669	ID:4	Created UDP connection for RPL routing
+00:00.672	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.673	ID:7	Rime started with address 0.18.116.7.0.7.7.7
+00:00.683	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.683	ID:7	MAC 00:12:74:07:00:07:07:07 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 7.
+00:00.686	ID:1	Starting 'UDP server process' 'collect common process'
+00:00.691	ID:1	Sink initialized with storing mode
+00:00.691	ID:7	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.696	ID:1	Created RPL DAG with storing mode (MOP=2)
+00:00.699	ID:1	Sink listening on UDP port 5688
+00:00.702	ID:1	Sink initialized with storing mode
+00:00.702	ID:7	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+00:00.706	ID:7	Starting 'UDP client process' 'collect common process'
+00:00.711	ID:7	Server address set to: fd00::1
+00:00.713	ID:7	UDP client process started
+00:00.717	ID:7	Client IPv6 addresses: fd00::212:7407:7:707
+00:00.720	ID:7	fe80::212:7407:7:707
+00:00.723	ID:7	Created UDP connection for RPL routing
+00:00.829	ID:10	Rime started with address 0.18.116.10.0.10.10.10
+00:00.838	ID:10	MAC 00:12:74:0a:00:0a:0a:0a Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 10.
+00:00.847	ID:10	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.858	ID:10	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+00:00.861	ID:10	Starting 'UDP client process' 'collect common process'
+00:00.866	ID:10	Server address set to: fd00::1
+00:00.868	ID:10	UDP client process started
+00:00.873	ID:10	Client IPv6 addresses: fd00::212:740a:a:a0a
+00:00.876	ID:10	fe80::212:740a:a:a0a
+00:00.878	ID:10	Created UDP connection for RPL routing
+00:00.980	ID:9	Rime started with address 0.18.116.9.0.9.9.9
+00:00.987	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.990	ID:9	MAC 00:12:74:09:00:09:09:09 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 9.
+00:00.996	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 5.
+00:00.998	ID:9	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.005	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.009	ID:9	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+00:01.013	ID:9	Starting 'UDP client process' 'collect common process'
+00:01.016	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:01.018	ID:9	Server address set to: fd00::1
+00:01.019	ID:5	Starting 'UDP client process' 'collect common process'
+00:01.019	ID:9	UDP client process started
+00:01.024	ID:9	Client IPv6 addresses: fd00::212:7409:9:909
+00:01.024	ID:5	Server address set to: fd00::1
+00:01.026	ID:5	UDP client process started
+00:01.027	ID:9	fe80::212:7409:9:909
+00:01.029	ID:9	Created UDP connection for RPL routing
+00:01.031	ID:5	Client IPv6 addresses: fd00::212:7405:5:505
+00:01.033	ID:5	fe80::212:7405:5:505
+00:01.036	ID:5	Created UDP connection for RPL routing
+00:01.171	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:01.181	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.x-3345-g32b5b17f6 started. Node id is set to 3.
+00:01.189	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:01.200	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:01.204	ID:3	Starting 'UDP client process' 'collect common process'
+00:01.209	ID:3	Server address set to: fd00::1
+00:01.210	ID:3	UDP client process started
+00:01.215	ID:3	Client IPv6 addresses: fd00::212:7403:3:303
+00:01.218	ID:3	fe80::212:7403:3:303
+00:01.220	ID:3	Created UDP connection for RPL routing
+00:10.714	ID:6	No DAG available, sending with default values
+00:10.729	ID:6	Packet sent: size=46 bytes
+00:11.570	ID:9	No DAG available, sending with default values
+00:11.585	ID:9	Packet sent: size=46 bytes
+00:11.802	ID:8	No DAG available, sending with default values
+00:11.817	ID:8	Packet sent: size=46 bytes
+00:12.964	ID:3	No DAG available, sending with default values
+00:12.979	ID:3	Packet sent: size=46 bytes
+00:13.168	ID:2	No DAG available, sending with default values
+00:13.184	ID:2	Packet sent: size=46 bytes
+00:13.551	ID:10	No DAG available, sending with default values
+00:13.566	ID:10	Packet sent: size=46 bytes
+00:14.045	ID:5	No DAG available, sending with default values
+00:14.061	ID:5	Packet sent: size=46 bytes
+00:14.546	ID:4	No DAG available, sending with default values
+00:14.561	ID:4	Packet sent: size=46 bytes
+00:14.998	ID:7	No DAG available, sending with default values
+00:15.013	ID:7	Packet sent: size=46 bytes
+00:20.870	ID:6	No DAG available, sending with default values
+00:20.885	ID:6	Packet sent: size=46 bytes
+00:22.125	ID:9	No DAG available, sending with default values
+00:22.140	ID:9	Packet sent: size=46 bytes
+00:23.224	ID:8	No DAG available, sending with default values
+00:23.239	ID:8	Packet sent: size=46 bytes
+00:24.722	ID:3	No DAG available, sending with default values
+00:24.737	ID:3	Packet sent: size=46 bytes
+00:25.793	ID:2	No DAG available, sending with default values
+00:25.808	ID:2	Packet sent: size=46 bytes
+00:26.239	ID:10	No DAG available, sending with default values
+00:26.254	ID:10	Packet sent: size=46 bytes
+00:27.069	ID:5	No DAG available, sending with default values
+00:27.085	ID:5	Packet sent: size=46 bytes
+00:28.437	ID:4	No DAG available, sending with default values
+00:28.452	ID:4	Packet sent: size=46 bytes
+00:29.287	ID:7	No DAG available, sending with default values
+00:29.302	ID:7	Packet sent: size=46 bytes
+00:30.696	ID:1	Sink Stats: Received 0 packets
+00:31.027	ID:6	No DAG available, sending with default values
+00:31.042	ID:6	Packet sent: size=46 bytes
+00:32.679	ID:9	No DAG available, sending with default values
+00:32.694	ID:9	Packet sent: size=46 bytes
+00:34.645	ID:8	No DAG available, sending with default values
+00:34.661	ID:8	Packet sent: size=46 bytes
+00:36.479	ID:3	No DAG available, sending with default values
+00:36.495	ID:3	Packet sent: size=46 bytes
+00:38.418	ID:2	No DAG available, sending with default values
+00:38.433	ID:2	Packet sent: size=46 bytes
+00:38.926	ID:10	No DAG available, sending with default values
+00:38.941	ID:10	Packet sent: size=46 bytes
+00:40.092	ID:5	No DAG available, sending with default values
+00:40.107	ID:5	Packet sent: size=46 bytes
+00:41.183	ID:6	No DAG available, sending with default values
+00:41.198	ID:6	Packet sent: size=46 bytes
+00:42.327	ID:4	No DAG available, sending with default values
+00:42.342	ID:4	Packet sent: size=46 bytes
+00:43.234	ID:9	No DAG available, sending with default values
+00:43.249	ID:9	Packet sent: size=46 bytes
+00:43.576	ID:7	No DAG available, sending with default values
+00:43.591	ID:7	Packet sent: size=46 bytes
+00:46.067	ID:8	No DAG available, sending with default values
+00:46.082	ID:8	Packet sent: size=46 bytes
+00:48.238	ID:3	No DAG available, sending with default values
+00:48.253	ID:3	Packet sent: size=46 bytes
+00:51.043	ID:2	No DAG available, sending with default values
+00:51.058	ID:2	Packet sent: size=46 bytes
+00:51.339	ID:6	No DAG available, sending with default values
+00:51.354	ID:6	Packet sent: size=46 bytes
+00:51.614	ID:10	No DAG available, sending with default values
+00:51.629	ID:10	Packet sent: size=46 bytes
+00:53.116	ID:5	No DAG available, sending with default values
+00:53.131	ID:5	Packet sent: size=46 bytes
+00:53.789	ID:9	No DAG available, sending with default values
+00:53.804	ID:9	Packet sent: size=46 bytes
+00:56.218	ID:4	No DAG available, sending with default values
+00:56.233	ID:4	Packet sent: size=46 bytes
+00:57.489	ID:8	No DAG available, sending with default values
+00:57.504	ID:8	Packet sent: size=46 bytes
+00:57.865	ID:7	No DAG available, sending with default values
+00:57.880	ID:7	Packet sent: size=46 bytes
+00:59.995	ID:3	No DAG available, sending with default values
+01:00.010	ID:3	Packet sent: size=46 bytes
+01:00.395	ID:8	No DAG found or no preferred parent
+01:00.396	ID:8	Routes:
+01:00.397	ID:8	Neighbors:
+01:00.398	ID:8	Total routes: 0
+01:00.398	ID:8	---
+01:00.559	ID:2	No DAG found or no preferred parent
+01:00.559	ID:2	Routes:
+01:00.560	ID:2	Neighbors:
+01:00.561	ID:2	Total routes: 0
+01:00.562	ID:2	---
+01:00.573	ID:6	No DAG found or no preferred parent
+01:00.574	ID:6	Routes:
+01:00.575	ID:6	Neighbors:
+01:00.576	ID:6	Total routes: 0
+01:00.576	ID:6	---
+01:00.671	ID:4	No DAG found or no preferred parent
+01:00.672	ID:4	Routes:
+01:00.672	ID:4	Neighbors:
+01:00.673	ID:4	Total routes: 0
+01:00.674	ID:4	---
+01:00.696	ID:1	Sink Stats: Received 0 packets
+01:00.724	ID:7	No DAG found or no preferred parent
+01:00.725	ID:7	Routes:
+01:00.726	ID:7	Neighbors:
+01:00.727	ID:7	Total routes: 0
+01:00.727	ID:7	---
+01:00.879	ID:10	No DAG found or no preferred parent
+01:00.880	ID:10	Routes:
+01:00.880	ID:10	Neighbors:
+01:00.882	ID:10	Total routes: 0
+01:00.882	ID:10	---
+01:01.031	ID:9	No DAG found or no preferred parent
+01:01.032	ID:9	Routes:
+01:01.032	ID:9	Neighbors:
+01:01.034	ID:9	Total routes: 0
+01:01.034	ID:9	---
+01:01.038	ID:5	No DAG found or no preferred parent
+01:01.038	ID:5	Routes:
+01:01.039	ID:5	Neighbors:
+01:01.040	ID:5	Total routes: 0
+01:01.041	ID:5	---
+01:01.222	ID:3	No DAG found or no preferred parent
+01:01.223	ID:3	Routes:
+01:01.223	ID:3	Neighbors:
+01:01.224	ID:3	Total routes: 0
+01:01.225	ID:3	---
+01:01.495	ID:6	No DAG available, sending with default values
+01:01.510	ID:6	Packet sent: size=46 bytes
+01:03.668	ID:2	No DAG available, sending with default values
+01:03.683	ID:2	Packet sent: size=46 bytes
+01:04.301	ID:10	No DAG available, sending with default values
+01:04.316	ID:10	Packet sent: size=46 bytes
+01:04.344	ID:9	No DAG available, sending with default values
+01:04.359	ID:9	Packet sent: size=46 bytes
+01:05.194	ID:5	No DAG available, sending with default values
+01:05.209	ID:5	Packet sent: size=46 bytes
+01:06.139	ID:5	No DAG available, sending with default values
+01:06.154	ID:5	Packet sent: size=46 bytes
+01:08.491	ID:4	No DAG available, sending with default values
+01:08.506	ID:4	Packet sent: size=46 bytes
+01:08.911	ID:8	No DAG available, sending with default values
+01:08.926	ID:8	Packet sent: size=46 bytes
+01:10.109	ID:4	No DAG available, sending with default values
+01:10.124	ID:4	Packet sent: size=46 bytes
+01:11.652	ID:6	No DAG available, sending with default values
+01:11.667	ID:6	Packet sent: size=46 bytes
+01:11.753	ID:3	No DAG available, sending with default values
+01:11.768	ID:3	Packet sent: size=46 bytes
+01:12.154	ID:7	No DAG available, sending with default values
+01:12.169	ID:7	Packet sent: size=46 bytes
+01:14.122	ID:8	No DAG available, sending with default values
+01:14.137	ID:8	Packet sent: size=46 bytes
+01:14.898	ID:9	No DAG available, sending with default values
+01:14.913	ID:9	Packet sent: size=46 bytes
+01:16.065	ID:6	No DAG available, sending with default values
+01:16.080	ID:6	Packet sent: size=46 bytes
+01:16.293	ID:2	No DAG available, sending with default values
+01:16.308	ID:2	Packet sent: size=46 bytes
+01:16.989	ID:10	No DAG available, sending with default values
+01:17.004	ID:10	Packet sent: size=46 bytes
+01:18.598	ID:2	No DAG available, sending with default values
+01:18.613	ID:2	Packet sent: size=46 bytes
+01:19.163	ID:5	No DAG available, sending with default values
+01:19.178	ID:5	Packet sent: size=46 bytes
+01:20.333	ID:8	No DAG available, sending with default values
+01:20.348	ID:8	Packet sent: size=46 bytes
+01:21.808	ID:6	No DAG available, sending with default values
+01:21.823	ID:6	Packet sent: size=46 bytes
+01:23.230	ID:10	No DAG available, sending with default values
+01:23.245	ID:10	Packet sent: size=46 bytes
+01:23.511	ID:3	No DAG available, sending with default values
+01:23.526	ID:3	Packet sent: size=46 bytes
+01:23.999	ID:4	No DAG available, sending with default values
+01:24.014	ID:4	Packet sent: size=46 bytes
+01:25.453	ID:9	No DAG available, sending with default values
+01:25.468	ID:9	Packet sent: size=46 bytes
+01:26.443	ID:7	No DAG available, sending with default values
+01:26.458	ID:7	Packet sent: size=46 bytes
+01:28.918	ID:2	No DAG available, sending with default values
+01:28.933	ID:2	Packet sent: size=46 bytes
+01:29.676	ID:10	No DAG available, sending with default values
+01:29.691	ID:10	Packet sent: size=46 bytes
+01:30.696	ID:1	Sink Stats: Received 0 packets
+01:31.755	ID:8	No DAG available, sending with default values
+01:31.770	ID:8	Packet sent: size=46 bytes
+01:31.964	ID:6	No DAG available, sending with default values
+01:31.979	ID:6	Packet sent: size=46 bytes
+01:32.186	ID:5	No DAG available, sending with default values
+01:32.201	ID:5	Packet sent: size=46 bytes
+01:35.269	ID:3	No DAG available, sending with default values
+01:35.284	ID:3	Packet sent: size=46 bytes
+01:36.007	ID:9	No DAG available, sending with default values
+01:36.022	ID:9	Packet sent: size=46 bytes
+01:37.344	ID:9	No DAG available, sending with default values
+01:37.359	ID:9	Packet sent: size=46 bytes
+01:37.890	ID:4	No DAG available, sending with default values
+01:37.905	ID:4	Packet sent: size=46 bytes
+01:40.732	ID:7	No DAG available, sending with default values
+01:40.747	ID:7	Packet sent: size=46 bytes
+01:41.543	ID:2	No DAG available, sending with default values
+01:41.558	ID:2	Packet sent: size=46 bytes
+01:42.120	ID:6	No DAG available, sending with default values
+01:42.135	ID:6	Packet sent: size=46 bytes
+01:42.364	ID:10	No DAG available, sending with default values
+01:42.379	ID:10	Packet sent: size=46 bytes
+01:43.177	ID:8	No DAG available, sending with default values
+01:43.192	ID:8	Packet sent: size=46 bytes
+01:44.566	ID:3	No DAG available, sending with default values
+01:44.581	ID:3	Packet sent: size=46 bytes
+01:45.210	ID:5	No DAG available, sending with default values
+01:45.225	ID:5	Packet sent: size=46 bytes
+01:46.563	ID:9	No DAG available, sending with default values
+01:46.578	ID:9	Packet sent: size=46 bytes
+01:47.026	ID:3	No DAG available, sending with default values
+01:47.041	ID:3	Packet sent: size=46 bytes
+01:49.975	ID:7	No DAG available, sending with default values
+01:49.990	ID:7	Packet sent: size=46 bytes
+01:51.780	ID:4	No DAG available, sending with default values
+01:51.796	ID:4	Packet sent: size=46 bytes
+01:52.277	ID:6	No DAG available, sending with default values
+01:52.292	ID:6	Packet sent: size=46 bytes
+01:54.168	ID:2	No DAG available, sending with default values
+01:54.183	ID:2	Packet sent: size=46 bytes
+01:54.599	ID:8	No DAG available, sending with default values
+01:54.614	ID:8	Packet sent: size=46 bytes
+01:55.021	ID:7	No DAG available, sending with default values
+01:55.036	ID:7	Packet sent: size=46 bytes
+01:55.051	ID:10	No DAG available, sending with default values
+01:55.066	ID:10	Packet sent: size=46 bytes
+01:57.117	ID:9	No DAG available, sending with default values
+01:57.134	ID:9	Packet sent: size=46 bytes
+01:58.233	ID:5	No DAG available, sending with default values
+01:58.248	ID:5	Packet sent: size=46 bytes
+01:58.785	ID:3	No DAG available, sending with default values
+01:58.800	ID:3	Packet sent: size=46 bytes
+02:00.395	ID:8	No DAG found or no preferred parent
+02:00.395	ID:8	Routes:
+02:00.396	ID:8	Neighbors:
+02:00.397	ID:8	Total routes: 0
+02:00.398	ID:8	---
+02:00.558	ID:2	No DAG found or no preferred parent
+02:00.559	ID:2	Routes:
+02:00.559	ID:2	Neighbors:
+02:00.561	ID:2	Total routes: 0
+02:00.561	ID:2	---
+02:00.573	ID:6	No DAG found or no preferred parent
+02:00.573	ID:6	Routes:
+02:00.574	ID:6	Neighbors:
+02:00.575	ID:6	Total routes: 0
+02:00.575	ID:6	---
+02:00.670	ID:4	No DAG found or no preferred parent
+02:00.671	ID:4	Routes:
+02:00.672	ID:4	Neighbors:
+02:00.673	ID:4	Total routes: 0
+02:00.673	ID:4	---
+02:00.696	ID:1	Sink Stats: Received 0 packets
+02:00.724	ID:7	No DAG found or no preferred parent
+02:00.724	ID:7	Routes:
+02:00.725	ID:7	Neighbors:
+02:00.726	ID:7	Total routes: 0
+02:00.727	ID:7	---
+02:00.879	ID:10	No DAG found or no preferred parent
+02:00.879	ID:10	Routes:
+02:00.880	ID:10	Neighbors:
+02:00.881	ID:10	Total routes: 0
+02:00.881	ID:10	---
+02:01.031	ID:9	No DAG found or no preferred parent
+02:01.031	ID:9	Routes:
+02:01.032	ID:9	Neighbors:
+02:01.033	ID:9	Total routes: 0
+02:01.033	ID:9	---
+02:01.037	ID:5	No DAG found or no preferred parent
+02:01.038	ID:5	Routes:
+02:01.038	ID:5	Neighbors:
+02:01.040	ID:5	Total routes: 0
+02:01.040	ID:5	---
+02:01.221	ID:3	No DAG found or no preferred parent
+02:01.222	ID:3	Routes:
+02:01.223	ID:3	Neighbors:
+02:01.224	ID:3	Total routes: 0
+02:01.224	ID:3	---
+02:02.433	ID:6	No DAG available, sending with default values
+02:02.448	ID:6	Packet sent: size=46 bytes
+02:05.671	ID:4	No DAG available, sending with default values
+02:05.686	ID:4	Packet sent: size=46 bytes
+02:06.021	ID:8	No DAG available, sending with default values
+02:06.036	ID:8	Packet sent: size=46 bytes
+02:06.793	ID:2	No DAG available, sending with default values
+02:06.808	ID:2	Packet sent: size=46 bytes
+02:07.672	ID:9	No DAG available, sending with default values
+02:07.687	ID:9	Packet sent: size=46 bytes
+02:07.739	ID:10	No DAG available, sending with default values
+02:07.754	ID:10	Packet sent: size=46 bytes
+02:09.311	ID:7	No DAG available, sending with default values
+02:09.327	ID:7	Packet sent: size=46 bytes
+02:09.531	ID:4	No DAG available, sending with default values
+02:09.546	ID:4	Packet sent: size=46 bytes
+02:10.542	ID:3	No DAG available, sending with default values
+02:10.557	ID:3	Packet sent: size=46 bytes
+02:11.257	ID:5	No DAG available, sending with default values
+02:11.272	ID:5	Packet sent: size=46 bytes
+02:12.589	ID:6	No DAG available, sending with default values
+02:12.604	ID:6	Packet sent: size=46 bytes
+02:14.136	ID:3	No DAG available, sending with default values
+02:14.151	ID:3	Packet sent: size=46 bytes
+02:17.442	ID:8	No DAG available, sending with default values
+02:17.458	ID:8	Packet sent: size=46 bytes
+02:18.226	ID:9	No DAG available, sending with default values
+02:18.241	ID:9	Packet sent: size=46 bytes
+02:19.418	ID:2	No DAG available, sending with default values
+02:19.433	ID:2	Packet sent: size=46 bytes
+02:19.562	ID:4	No DAG available, sending with default values
+02:19.577	ID:4	Packet sent: size=46 bytes
+02:20.426	ID:10	No DAG available, sending with default values
+02:20.441	ID:10	Packet sent: size=46 bytes
+02:21.036	ID:8	No DAG available, sending with default values
+02:21.051	ID:8	Packet sent: size=46 bytes
+02:22.300	ID:3	No DAG available, sending with default values
+02:22.315	ID:3	Packet sent: size=46 bytes
+02:22.745	ID:6	No DAG available, sending with default values
+02:22.760	ID:6	Packet sent: size=46 bytes
+02:23.600	ID:7	No DAG available, sending with default values
+02:23.615	ID:7	Packet sent: size=46 bytes
+02:24.280	ID:5	No DAG available, sending with default values
+02:24.295	ID:5	Packet sent: size=46 bytes
+02:25.419	ID:7	No DAG available, sending with default values
+02:25.434	ID:7	Packet sent: size=46 bytes
+02:26.514	ID:5	No DAG available, sending with default values
+02:26.529	ID:5	Packet sent: size=46 bytes
+02:28.781	ID:9	No DAG available, sending with default values
+02:28.796	ID:9	Packet sent: size=46 bytes
+02:28.865	ID:8	No DAG available, sending with default values
+02:28.880	ID:8	Packet sent: size=46 bytes
+02:29.645	ID:10	No DAG available, sending with default values
+02:29.660	ID:10	Packet sent: size=46 bytes
+02:30.696	ID:1	Sink Stats: Received 0 packets
+02:32.043	ID:2	No DAG available, sending with default values
+02:32.058	ID:2	Packet sent: size=46 bytes
+02:32.902	ID:6	No DAG available, sending with default values
+02:32.917	ID:6	Packet sent: size=46 bytes
+02:33.114	ID:10	No DAG available, sending with default values
+02:33.129	ID:10	Packet sent: size=46 bytes
+02:33.453	ID:4	No DAG available, sending with default values
+02:33.468	ID:4	Packet sent: size=46 bytes
+02:34.058	ID:3	No DAG available, sending with default values
+02:34.074	ID:3	Packet sent: size=46 bytes
+02:35.539	ID:9	No DAG available, sending with default values
+02:35.554	ID:9	Packet sent: size=46 bytes
+02:37.303	ID:5	No DAG available, sending with default values
+02:37.319	ID:5	Packet sent: size=46 bytes
+02:37.888	ID:7	No DAG available, sending with default values
+02:37.903	ID:7	Packet sent: size=46 bytes
+02:39.335	ID:9	No DAG available, sending with default values
+02:39.351	ID:9	Packet sent: size=46 bytes
+02:40.286	ID:8	No DAG available, sending with default values
+02:40.301	ID:8	Packet sent: size=46 bytes
+02:43.058	ID:6	No DAG available, sending with default values
+02:43.073	ID:6	Packet sent: size=46 bytes
+02:43.262	ID:2	No DAG available, sending with default values
+02:43.277	ID:2	Packet sent: size=46 bytes
+02:44.668	ID:2	No DAG available, sending with default values
+02:44.683	ID:2	Packet sent: size=46 bytes
+02:45.801	ID:10	No DAG available, sending with default values
+02:45.816	ID:3	No DAG available, sending with default values
+02:45.816	ID:10	Packet sent: size=46 bytes
+02:45.831	ID:3	Packet sent: size=46 bytes
+02:47.343	ID:4	No DAG available, sending with default values
+02:47.358	ID:4	Packet sent: size=46 bytes
+02:49.668	ID:6	No DAG available, sending with default values
+02:49.683	ID:6	Packet sent: size=46 bytes
+02:49.891	ID:9	No DAG available, sending with default values
+02:49.906	ID:9	Packet sent: size=46 bytes
+02:50.326	ID:5	No DAG available, sending with default values
+02:50.342	ID:5	Packet sent: size=46 bytes
+02:51.708	ID:8	No DAG available, sending with default values
+02:51.723	ID:8	Packet sent: size=46 bytes
+02:52.178	ID:7	No DAG available, sending with default values
+02:52.193	ID:7	Packet sent: size=46 bytes
+02:53.214	ID:6	No DAG available, sending with default values
+02:53.229	ID:6	Packet sent: size=46 bytes
+02:57.293	ID:2	No DAG available, sending with default values
+02:57.308	ID:2	Packet sent: size=46 bytes
+02:57.573	ID:3	No DAG available, sending with default values
+02:57.588	ID:3	Packet sent: size=46 bytes
+02:58.489	ID:10	No DAG available, sending with default values
+02:58.504	ID:10	Packet sent: size=46 bytes
+03:00.395	ID:8	No DAG found or no preferred parent
+03:00.396	ID:8	Routes:
+03:00.397	ID:8	Neighbors:
+03:00.398	ID:8	Total routes: 0
+03:00.398	ID:8	---
+03:00.445	ID:9	No DAG available, sending with default values
+03:00.460	ID:9	Packet sent: size=46 bytes
+03:00.559	ID:2	No DAG found or no preferred parent
+03:00.559	ID:2	Routes:
+03:00.560	ID:2	Neighbors:
+03:00.561	ID:2	Total routes: 0
+03:00.562	ID:2	---
+03:00.573	ID:6	No DAG found or no preferred parent
+03:00.574	ID:6	Routes:
+03:00.575	ID:6	Neighbors:
+03:00.576	ID:6	Total routes: 0
+03:00.576	ID:6	---
+03:00.671	ID:4	No DAG found or no preferred parent
+03:00.672	ID:4	Routes:
+03:00.672	ID:4	Neighbors:
+03:00.673	ID:4	Total routes: 0
+03:00.674	ID:4	---
+03:00.696	ID:1	Sink Stats: Received 0 packets
+03:00.724	ID:7	No DAG found or no preferred parent
+03:00.725	ID:7	Routes:
+03:00.726	ID:7	Neighbors:
+03:00.727	ID:7	Total routes: 0
+03:00.727	ID:7	---
+03:00.879	ID:10	No DAG found or no preferred parent
+03:00.880	ID:10	Routes:
+03:00.880	ID:10	Neighbors:
+03:00.882	ID:10	Total routes: 0
+03:00.882	ID:10	---
+03:01.031	ID:9	No DAG found or no preferred parent
+03:01.032	ID:9	Routes:
+03:01.032	ID:9	Neighbors:
+03:01.034	ID:9	Total routes: 0
+03:01.034	ID:9	---
+03:01.038	ID:5	No DAG found or no preferred parent
+03:01.038	ID:5	Routes:
+03:01.039	ID:5	Neighbors:
+03:01.040	ID:5	Total routes: 0
+03:01.041	ID:5	---
+03:01.222	ID:3	No DAG found or no preferred parent
+03:01.223	ID:3	Routes:
+03:01.223	ID:3	Neighbors:
+03:01.224	ID:3	Total routes: 0
+03:01.225	ID:3	---
+03:01.234	ID:4	No DAG available, sending with default values
+03:01.249	ID:4	Packet sent: size=46 bytes
+03:03.130	ID:8	No DAG available, sending with default values
+03:03.145	ID:8	Packet sent: size=46 bytes
+03:03.351	ID:5	No DAG available, sending with default values
+03:03.366	ID:5	Packet sent: size=46 bytes
+03:03.370	ID:6	No DAG available, sending with default values
+03:03.385	ID:6	Packet sent: size=46 bytes
+03:06.466	ID:7	No DAG available, sending with default values
+03:06.481	ID:7	Packet sent: size=46 bytes
+03:09.332	ID:3	No DAG available, sending with default values
+03:09.347	ID:3	Packet sent: size=46 bytes
+03:09.918	ID:2	No DAG available, sending with default values
+03:09.933	ID:2	Packet sent: size=46 bytes
+03:11.001	ID:9	No DAG available, sending with default values
+03:11.016	ID:9	Packet sent: size=46 bytes
+03:11.176	ID:10	No DAG available, sending with default values
+03:11.191	ID:10	Packet sent: size=46 bytes
+03:13.527	ID:6	No DAG available, sending with default values
+03:13.542	ID:6	Packet sent: size=46 bytes
+03:14.552	ID:8	No DAG available, sending with default values
+03:14.567	ID:8	Packet sent: size=46 bytes
+03:15.124	ID:4	No DAG available, sending with default values
+03:15.139	ID:4	Packet sent: size=46 bytes
+03:16.374	ID:5	No DAG available, sending with default values
+03:16.390	ID:5	Packet sent: size=46 bytes
+03:16.777	ID:10	No DAG available, sending with default values
+03:16.792	ID:10	Packet sent: size=46 bytes
+03:18.410	ID:3	No DAG available, sending with default values
+03:18.425	ID:3	Packet sent: size=46 bytes
+03:18.429	ID:5	No DAG available, sending with default values
+03:18.444	ID:5	Packet sent: size=46 bytes
+03:20.756	ID:7	No DAG available, sending with default values
+03:20.771	ID:7	Packet sent: size=46 bytes
+03:21.089	ID:3	No DAG available, sending with default values
+03:21.104	ID:3	Packet sent: size=46 bytes
+03:21.554	ID:9	No DAG available, sending with default values
+03:21.569	ID:9	Packet sent: size=46 bytes
+03:22.543	ID:2	No DAG available, sending with default values
+03:22.558	ID:2	Packet sent: size=46 bytes
+03:22.669	ID:8	No DAG available, sending with default values
+03:22.684	ID:8	Packet sent: size=46 bytes
+03:23.683	ID:6	No DAG available, sending with default values
+03:23.698	ID:6	Packet sent: size=46 bytes
+03:23.864	ID:10	No DAG available, sending with default values
+03:23.879	ID:10	Packet sent: size=46 bytes
+03:24.237	ID:6	No DAG available, sending with default values
+03:24.252	ID:6	Packet sent: size=46 bytes
+03:25.974	ID:8	No DAG available, sending with default values
+03:25.989	ID:8	Packet sent: size=46 bytes
+03:29.015	ID:4	No DAG available, sending with default values
+03:29.030	ID:4	Packet sent: size=46 bytes
+03:29.397	ID:5	No DAG available, sending with default values
+03:29.412	ID:5	Packet sent: size=46 bytes
+03:30.696	ID:1	Sink Stats: Received 0 packets
+03:32.109	ID:9	No DAG available, sending with default values
+03:32.124	ID:9	Packet sent: size=46 bytes
+03:32.847	ID:3	No DAG available, sending with default values
+03:32.862	ID:3	Packet sent: size=46 bytes
+03:33.839	ID:6	No DAG available, sending with default values
+03:33.854	ID:6	Packet sent: size=46 bytes
+03:35.044	ID:7	No DAG available, sending with default values
+03:35.059	ID:7	Packet sent: size=46 bytes
+03:35.168	ID:2	No DAG available, sending with default values
+03:35.183	ID:2	Packet sent: size=46 bytes
+03:36.551	ID:10	No DAG available, sending with default values
+03:36.566	ID:10	Packet sent: size=46 bytes
+03:36.959	ID:7	No DAG available, sending with default values
+03:36.974	ID:7	Packet sent: size=46 bytes
+03:37.396	ID:8	No DAG available, sending with default values
+03:37.411	ID:8	Packet sent: size=46 bytes
+03:42.420	ID:5	No DAG available, sending with default values
+03:42.435	ID:5	Packet sent: size=46 bytes
+03:42.664	ID:9	No DAG available, sending with default values
+03:42.679	ID:9	Packet sent: size=46 bytes
+03:42.906	ID:4	No DAG available, sending with default values
+03:42.921	ID:4	Packet sent: size=46 bytes
+03:43.995	ID:6	No DAG available, sending with default values
+03:44.010	ID:6	Packet sent: size=46 bytes
+03:44.604	ID:3	No DAG available, sending with default values
+03:44.620	ID:3	Packet sent: size=46 bytes
+03:46.828	ID:9	No DAG available, sending with default values
+03:46.843	ID:9	Packet sent: size=46 bytes
+03:47.645	ID:2	No DAG available, sending with default values
+03:47.661	ID:2	Packet sent: size=46 bytes
+03:47.793	ID:2	No DAG available, sending with default values
+03:47.808	ID:2	Packet sent: size=46 bytes
+03:48.817	ID:8	No DAG available, sending with default values
+03:48.832	ID:8	Packet sent: size=46 bytes
+03:49.239	ID:10	No DAG available, sending with default values
+03:49.254	ID:10	Packet sent: size=46 bytes
+03:49.334	ID:7	No DAG available, sending with default values
+03:49.349	ID:7	Packet sent: size=46 bytes
+03:50.788	ID:4	No DAG available, sending with default values
+03:50.803	ID:4	Packet sent: size=46 bytes
+03:53.219	ID:9	No DAG available, sending with default values
+03:53.234	ID:9	Packet sent: size=46 bytes
+03:54.152	ID:6	No DAG available, sending with default values
+03:54.167	ID:6	Packet sent: size=46 bytes
+03:55.444	ID:5	No DAG available, sending with default values
+03:55.459	ID:5	Packet sent: size=46 bytes
+03:56.363	ID:3	No DAG available, sending with default values
+03:56.378	ID:3	Packet sent: size=46 bytes
+03:56.796	ID:4	No DAG available, sending with default values
+03:56.811	ID:4	Packet sent: size=46 bytes
+04:00.239	ID:8	No DAG available, sending with default values
+04:00.254	ID:8	Packet sent: size=46 bytes
+04:00.395	ID:8	No DAG found or no preferred parent
+04:00.395	ID:8	Routes:
+04:00.396	ID:8	Neighbors:
+04:00.397	ID:8	Total routes: 0
+04:00.398	ID:8	---
+04:00.418	ID:2	No DAG available, sending with default values
+04:00.433	ID:2	Packet sent: size=46 bytes
+04:00.558	ID:2	No DAG found or no preferred parent
+04:00.559	ID:2	Routes:
+04:00.559	ID:2	Neighbors:
+04:00.561	ID:2	Total routes: 0
+04:00.561	ID:2	---
+04:00.573	ID:6	No DAG found or no preferred parent
+04:00.573	ID:6	Routes:
+04:00.574	ID:6	Neighbors:
+04:00.575	ID:6	Total routes: 0
+04:00.575	ID:6	---
+04:00.670	ID:4	No DAG found or no preferred parent
+04:00.671	ID:4	Routes:
+04:00.672	ID:4	Neighbors:
+04:00.673	ID:4	Total routes: 0
+04:00.673	ID:4	---
+04:00.696	ID:1	Sink Stats: Received 0 packets
+04:00.724	ID:7	No DAG found or no preferred parent
+04:00.724	ID:7	Routes:
+04:00.725	ID:7	Neighbors:
+04:00.726	ID:7	Total routes: 0
+04:00.727	ID:7	---
+04:00.879	ID:10	No DAG found or no preferred parent
+04:00.879	ID:10	Routes:
+04:00.880	ID:10	Neighbors:
+04:00.881	ID:10	Total routes: 0
+04:00.881	ID:10	---
+04:01.031	ID:9	No DAG found or no preferred parent
+04:01.031	ID:9	Routes:
+04:01.032	ID:9	Neighbors:
+04:01.033	ID:9	Total routes: 0
+04:01.033	ID:9	---
+04:01.037	ID:5	No DAG found or no preferred parent
+04:01.038	ID:5	Routes:
+04:01.038	ID:5	Neighbors:
+04:01.040	ID:5	Total routes: 0
+04:01.040	ID:5	---
+04:01.221	ID:3	No DAG found or no preferred parent
+04:01.222	ID:3	Routes:
+04:01.223	ID:3	Neighbors:
+04:01.224	ID:3	Total routes: 0
+04:01.224	ID:3	---
+04:01.926	ID:10	No DAG available, sending with default values
+04:01.941	ID:10	Packet sent: size=46 bytes
+04:03.623	ID:7	No DAG available, sending with default values
+04:03.638	ID:7	Packet sent: size=46 bytes
+04:03.773	ID:9	No DAG available, sending with default values
+04:03.788	ID:9	Packet sent: size=46 bytes
