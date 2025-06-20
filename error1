@@ -1,0 +1,831 @@
+
+> make udp-sink.sky TARGET=sky 
+mkdir obj_sky
+  CC        ../../../core/net/rpl/rpl-ext-header.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/rpl/rpl-ext-header.c:47:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/net/rpl/rpl-ext-header.c:47:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../apps/powertrace/powertrace.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/./net/rime/abc.h:61,
+                 from ../../../core/./net/rime/broadcast.h:68,
+                 from ../../../core/./net/rime/unicast.h:65,
+                 from ../../../core/./net/rime/stunicast.h:76,
+                 from ../../../core/./net/rime/runicast.h:81,
+                 from ../../../core/./net/rime/collect.h:63,
+                 from ../../../core/./net/rime/rime.h:49,
+                 from ../../../apps/powertrace/powertrace.c:44:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../apps/powertrace/powertrace.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../apps/collect-view/collect-view.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/./net/rime/abc.h:61,
+                 from ../../../core/./net/rime/broadcast.h:68,
+                 from ../../../core/./net/rime/unicast.h:65,
+                 from ../../../core/./net/rime/stunicast.h:76,
+                 from ../../../core/./net/rime/runicast.h:81,
+                 from ../../../core/./net/rime/collect.h:63,
+                 from ../../../core/./net/rime/rime.h:49,
+                 from ../../../apps/collect-view/collect-view.c:42:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../apps/collect-view/collect-view.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../apps/collect-view/collect-view-sky.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/./net/rime/abc.h:61,
+                 from ../../../core/./net/rime/broadcast.h:68,
+                 from ../../../core/./net/rime/unicast.h:65,
+                 from ../../../core/./net/rime/stunicast.h:76,
+                 from ../../../core/./net/rime/runicast.h:81,
+                 from ../../../core/./net/rime/collect.h:63,
+                 from ../../../apps/collect-view/collect-view.h:6,
+                 from ../../../apps/collect-view/collect-view-sky.c:1:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../apps/collect-view/collect-view.h:4,
+                 from ../../../apps/collect-view/collect-view-sky.c:1:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../platform/sky/./contiki-sky-platform.c
+  CC        ../../../dev/sht11/sht11.c
+  CC        ../../../dev/sht11/sht11-sensor.c
+  CC        ../../../platform/sky/dev/light-sensor.c
+  CC        ../../../platform/sky/dev/battery-sensor.c
+  CC        ../../../platform/sky/dev/button-sensor.c
+  CC        ../../../platform/sky/dev/radio-sensor.c
+  CC        ../../../cpu/msp430/f1xxx/spi.c
+  CC        ../../../dev/ds2411/ds2411.c
+  CC        ../../../platform/sky/dev/xmem.c
+  CC        ../../../platform/sky/dev/i2c.c
+  CC        ../../../platform/sky/./node-id.c
+  CC        ../../../core/lib/sensors.c
+  CC        ../../../core/cfs/cfs-coffee.c
+  CC        ../../../dev/cc2420/cc2420.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../dev/cc2420/cc2420.c:49:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../dev/cc2420/cc2420.c:38:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../cpu/msp430/./cc2420-arch.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../cpu/msp430/./cc2420-arch.c:32:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../cpu/msp430/./cc2420-arch.c:31:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../cpu/msp430/./cc2420-arch-sfd.c
+  CC        ../../../platform/sky/dev/sky-sensors.c
+  CC        ../../../cpu/msp430/./uip-ipchksum.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../cpu/msp430/./uip-ipchksum.c:38:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../cpu/msp430/./uip-ipchksum.c:38:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../cpu/msp430/f1xxx/uart1.c
+  CC        ../../../cpu/msp430/./slip_uart1.c
+  CC        ../../../cpu/msp430/dev/uart1-putchar.c
+  CC        ../../../core/lib/me.c
+  CC        ../../../core/lib/me_tabs.c
+  CC        ../../../core/dev/slip.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/dev/slip.c:40:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/dev/slip.c:38:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/lib/crc16.c
+  CC        ../../../cpu/msp430/f1xxx/msp430.c
+  CC        ../../../cpu/msp430/./flash.c
+  CC        ../../../cpu/msp430/f1xxx/clock.c
+  CC        ../../../core/dev/leds.c
+  CC        ../../../cpu/msp430/./leds-arch.c
+  CC        ../../../cpu/msp430/./watchdog.c
+  CC        ../../../cpu/msp430/./lpm.c
+  CC        ../../../cpu/msp430/f1xxx/rtimer-arch.c
+  CC        ../../../cpu/msp430/./mtarch.c
+  CC        ../../../core/loader/elfloader.c
+  CC        ../../../core/loader/elfloader-msp430.c
+  CC        ../../../core/loader/symtab.c
+  CC        ../../../core/net/ipv6/sicslowpan.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/net/ipv6/sicslowpan.c:66:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/ipv6/sicslowpan.c:63:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/uip-ds6-nbr.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/net/ipv6/uip-ds6-nbr.c:52:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/net/linkaddr.h:57,
+                 from ../../../core/./net/link-stats.h:36,
+                 from ../../../core/net/ipv6/uip-ds6-nbr.c:50:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/uip-ds6-route.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ipv6/uip-ds6.h:45,
+                 from ../../../core/net/ipv6/uip-ds6-route.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/ipv6/uip-ds6.h:45,
+                 from ../../../core/net/ipv6/uip-ds6-route.c:41:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/uip-ds6.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ipv6/uip-nd6.h:48,
+                 from ../../../core/net/ipv6/uip-ds6.c:49:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/ipv6/uip-nd6.h:48,
+                 from ../../../core/net/ipv6/uip-ds6.c:49:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/uip-icmp6.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ipv6/uip-ds6.h:45,
+                 from ../../../core/net/ipv6/uip-icmp6.c:46:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/ipv6/uip-ds6.h:45,
+                 from ../../../core/net/ipv6/uip-icmp6.c:46:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/uip-nd6.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ipv6/uip-icmp6.h:48,
+                 from ../../../core/net/ipv6/uip-nd6.c:72:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/ipv6/uip-icmp6.h:48,
+                 from ../../../core/net/ipv6/uip-nd6.c:72:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/uip6.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/ipv6/uip6.c:75:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./sys/cc.h:48,
+                 from ../../../core/net/ipv6/uip6.c:74:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/websocket-http-client.c
+In file included from ../../../core/net/ip/uip.h:86:0,
+                 from ../../../core/net/ip/tcp-socket.h:35,
+                 from ../../../core/net/ipv6/websocket-http-client.h:35,
+                 from ../../../core/net/ipv6/websocket-http-client.c:32:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/ipv6/websocket-http-client.h:34,
+                 from ../../../core/net/ipv6/websocket-http-client.c:32:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ipv6/websocket.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/ipv6/websocket.c:36:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./contiki-net.h:37,
+                 from ../../../core/net/ipv6/websocket.c:36:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/dhcpc.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/ip/dhcpc.c:37:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/ip/dhcpc.c:36:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/ip64-addr.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/ip/ip64-addr.h:35,
+                 from ../../../core/net/ip/ip64-addr.c:32:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/net/ip/ip64-addr.h:35,
+                 from ../../../core/net/ip/ip64-addr.c:32:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/psock.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/./net/ip/psock.h:91,
+                 from ../../../core/net/ip/psock.c:37:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./net/ip/psock.h:89,
+                 from ../../../core/net/ip/psock.c:37:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/resolv.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/net/ip/resolv.c:65:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./net/ip/tcpip.h:70,
+                 from ../../../core/net/ip/resolv.c:65:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/simple-udp.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/ip/simple-udp.c:45:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./contiki-net.h:37,
+                 from ../../../core/net/ip/simple-udp.c:45:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/slipdev.c
+In file included from ../../../core/net/ip/uip.h:86:0,
+                 from ../../../core/net/ip/slipdev.c:68:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/net/ip/uip.h:86,
+                 from ../../../core/net/ip/slipdev.c:68:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/tcp-socket.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/net-debug.h:45,
+                 from ../../../core/./net/ip/uip-debug.h:45,
+                 from ../../../core/net/ip/tcp-socket.c:33:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/net-debug.h:45,
+                 from ../../../core/./net/ip/uip-debug.h:45,
+                 from ../../../core/net/ip/tcp-socket.c:33:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/tcpip.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/ip/tcpip.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./contiki-net.h:37,
+                 from ../../../core/net/ip/tcpip.c:41:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/udp-socket.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/ip/udp-socket.c:32:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./contiki-net.h:37,
+                 from ../../../core/net/ip/udp-socket.c:32:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/uip-debug.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/net-debug.h:45,
+                 from ../../../core/./net/ip/uip-debug.h:45,
+                 from ../../../core/net/ip/uip-debug.c:40:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/net-debug.h:45,
+                 from ../../../core/./net/ip/uip-debug.h:45,
+                 from ../../../core/net/ip/uip-debug.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/uip-nameserver.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/ip/uip-nameserver.c:45:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/ip/uip-nameserver.c:44:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/uip-packetqueue.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/ip/uip-packetqueue.c:3:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/net/ip/uip-packetqueue.c:3:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/uip-split.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/ip/uip-split.c:38:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/net/ip/uip-split.c:38:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/uip-udp-packet.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/uip-udp-packet.h:43,
+                 from ../../../core/net/ip/uip-udp-packet.c:44:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/net/ip/uip-udp-packet.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/ip/uiplib.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/ip/uiplib.c:36:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/net/ip/uiplib.c:36:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-dag-root.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/rpl/rpl-dag-root.c:33:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/rpl/rpl-dag-root.c:32:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-dag.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/rpl/rpl.h:44,
+                 from ../../../core/./net/rpl/rpl-private.h:40,
+                 from ../../../core/net/rpl/rpl-dag.c:48:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/rpl/rpl-dag.c:46:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-icmp6.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/net/rpl/rpl-icmp6.c:48:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./net/ip/tcpip.h:70,
+                 from ../../../core/net/rpl/rpl-icmp6.c:48:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-mrhof.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/rpl/rpl.h:44,
+                 from ../../../core/net/rpl/rpl-mrhof.c:49:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/rpl/rpl-conf.h:41,
+                 from ../../../core/./net/rpl/rpl.h:41,
+                 from ../../../core/net/rpl/rpl-mrhof.c:49:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-nbr-policy.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/rpl/rpl.h:44,
+                 from ../../../core/./net/rpl/rpl-private.h:40,
+                 from ../../../core/net/rpl/rpl-nbr-policy.c:47:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/rpl/rpl-conf.h:41,
+                 from ../../../core/./net/rpl/rpl.h:41,
+                 from ../../../core/./net/rpl/rpl-private.h:40,
+                 from ../../../core/net/rpl/rpl-nbr-policy.c:47:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-ns.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/rpl/rpl-ns.c:42:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/rpl/rpl-conf.h:41,
+                 from ../../../core/net/rpl/rpl-ns.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-of0.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/rpl/rpl.h:44,
+                 from ../../../core/net/rpl/rpl-of0.c:45:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/rpl/rpl-conf.h:41,
+                 from ../../../core/./net/rpl/rpl.h:41,
+                 from ../../../core/net/rpl/rpl-of0.c:45:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl-timers.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/rpl/rpl.h:44,
+                 from ../../../core/./net/rpl/rpl-private.h:40,
+                 from ../../../core/net/rpl/rpl-timers.c:45:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/net/rpl/rpl-timers.c:44:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/rpl/rpl.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/net/rpl/rpl.c:45:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/net/rpl/rpl.c:45:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/llsec/anti-replay.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/net/llsec/anti-replay.c:47:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./net/llsec/anti-replay.h:48,
+                 from ../../../core/net/llsec/anti-replay.c:46:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/llsec/ccm-star-packetbuf.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/net/llsec/ccm-star-packetbuf.c:43:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./lib/ccm-star.h:43,
+                 from ../../../core/net/llsec/ccm-star-packetbuf.h:44,
+                 from ../../../core/net/llsec/ccm-star-packetbuf.c:41:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/llsec/nullsec.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from ../../../core/net/llsec/nullsec.c:47:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/mac.h:43,
+                 from ../../../core/./net/llsec/llsec.h:57,
+                 from ../../../core/./net/llsec/nullsec.h:56,
+                 from ../../../core/net/llsec/nullsec.c:45:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/sys/arg.c
+  CC        ../../../core/sys/autostart.c
+  CC        ../../../core/sys/compower.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/sys/compower.c:48:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/sys/compower.c:45:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/sys/ctimer.c
+  CC        ../../../core/sys/energest.c
+  CC        ../../../core/sys/etimer.c
+  CC        ../../../core/sys/mt.c
+  CC        ../../../core/sys/process.c
+  CC        ../../../core/sys/procinit.c
+  CC        ../../../core/sys/rtimer.c
+  CC        ../../../core/sys/stimer.c
+  CC        ../../../core/sys/timer.c
+  CC        ../../../core/dev/nullradio.c
+  CC        ../../../core/dev/serial-line.c
+  CC        ../../../core/lib/aes-128.c
+  CC        ../../../core/lib/assert.c
+  CC        ../../../core/lib/ccm-star.c
+  CC        ../../../core/lib/gcr.c
+  CC        ../../../core/lib/ifft.c
+  CC        ../../../core/lib/list.c
+  CC        ../../../core/lib/memb.c
+  CC        ../../../core/lib/mmem.c
+  CC        ../../../core/lib/petsciiconv.c
+  CC        ../../../core/lib/print-stats.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/./net/rime/abc.h:61,
+                 from ../../../core/./net/rime/broadcast.h:68,
+                 from ../../../core/./net/rime/unicast.h:65,
+                 from ../../../core/./net/rime/stunicast.h:76,
+                 from ../../../core/./net/rime/runicast.h:81,
+                 from ../../../core/./net/rime/collect.h:63,
+                 from ../../../core/./net/rime/rime.h:49,
+                 from ../../../core/lib/print-stats.c:42:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/linkaddr.h:57,
+                 from ../../../core/./net/rime/announcement.h:69,
+                 from ../../../core/./net/rime/rime.h:48,
+                 from ../../../core/lib/print-stats.c:42:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/lib/random.c
+  CC        ../../../core/lib/ringbuf.c
+  CC        ../../../core/lib/ringbufindex.c
+  CC        ../../../core/lib/settings.c
+  CC        ../../../core/lib/trickle-timer.c
+  CC        ../../../core/net/mac/csma.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/net/mac/csma.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/mac.h:43,
+                 from ../../../core/./net/mac/csma.h:44,
+                 from ../../../core/net/mac/csma.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/frame802154.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/net/mac/frame802154.c:68:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./sys/cc.h:48,
+                 from ../../../core/net/mac/frame802154.c:66:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/frame802154e-ie.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/net-debug.h:45,
+                 from ../../../core/net/mac/frame802154e-ie.c:44:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./net/mac/frame802154e-ie.h:43,
+                 from ../../../core/net/mac/frame802154e-ie.c:41:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/framer-802154.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/net/mac/framer-802154.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/frame802154.h:68,
+                 from ../../../core/net/mac/framer-802154.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/framer-nullmac.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/net/mac/framer-nullmac.c:40:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/packetbuf.h:55,
+                 from ../../../core/net/mac/framer-nullmac.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/mac-sequence.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/mac/mac-sequence.c:47:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./contiki-net.h:37,
+                 from ../../../core/net/mac/mac-sequence.c:47:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/mac.c
+  CC        ../../../core/net/mac/nordc.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/net/mac/nordc.c:42:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/rdc.h:44,
+                 from ../../../core/net/mac/nordc.c:42:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/nullmac.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from ../../../core/net/mac/nullmac.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/mac.h:43,
+                 from ../../../core/./net/mac/nullmac.h:43,
+                 from ../../../core/net/mac/nullmac.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/nullrdc-noframer.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/mac/nullrdc-noframer.h:43,
+                 from ../../../core/net/mac/nullrdc-noframer.c:40:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/rdc.h:44,
+                 from ../../../core/./net/mac/nullrdc-noframer.h:43,
+                 from ../../../core/net/mac/nullrdc-noframer.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/nullrdc.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/mac/nullrdc.h:44,
+                 from ../../../core/net/mac/nullrdc.c:42:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/rdc.h:44,
+                 from ../../../core/./net/mac/nullrdc.h:44,
+                 from ../../../core/net/mac/nullrdc.c:42:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/phase.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from ../../../core/./net/mac/phase.h:48,
+                 from ../../../core/net/mac/phase.c:40:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/linkaddr.h:57,
+                 from ../../../core/./net/mac/phase.h:43,
+                 from ../../../core/net/mac/phase.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/link-stats.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/net/link-stats.c:35:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/link-stats.c:33:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/linkaddr.c
+  CC        ../../../core/net/nbr-table.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from ../../../core/./net/nbr-table.h:40,
+                 from ../../../core/net/nbr-table.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/net/nbr-table.c:35:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/net-debug.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/net-debug.h:45,
+                 from ../../../core/net/net-debug.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/net-debug.h:45,
+                 from ../../../core/net/net-debug.c:41:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/netstack.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from ../../../core/net/netstack.c:40:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/netstack.h:44,
+                 from ../../../core/net/netstack.c:40:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/packetbuf.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/packetbuf.c:47:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./contiki-net.h:37,
+                 from ../../../core/net/packetbuf.c:47:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/queuebuf.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/tcpip.h:88,
+                 from ../../../core/./contiki-net.h:39,
+                 from ../../../core/net/queuebuf.c:45:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../core/./contiki-net.h:37,
+                 from ../../../core/net/queuebuf.c:45:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/contikimac/contikimac-framer.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/packetbuf.h:57,
+                 from ../../../core/net/mac/contikimac/contikimac-framer.c:41:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/packetbuf.h:55,
+                 from ../../../core/net/mac/contikimac/contikimac-framer.c:41:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/contikimac/contikimac.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/mac/contikimac/contikimac.h:44,
+                 from ../../../core/net/mac/contikimac/contikimac.c:48:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/net/mac/contikimac/contikimac.c:42:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/mac/cxmac/cxmac.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from ../../../core/net/mac/cxmac/cxmac.c:45:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./dev/leds.h:51,
+                 from ../../../core/net/mac/cxmac/cxmac.c:42:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../core/net/llsec/noncoresec/noncoresec.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/net/llsec/noncoresec/noncoresec.c:47:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/mac/mac.h:43,
+                 from ../../../core/./net/llsec/llsec.h:57,
+                 from ../../../core/./net/llsec/noncoresec/noncoresec.h:56,
+                 from ../../../core/net/llsec/noncoresec/noncoresec.c:45:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        symbols.c
+  AR        contiki-sky.a
+  CC        udp-sink.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/ip/uip-udp-packet.h:43,
+                 from udp-sink.c:31:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./net/ip/uipopt.h:74,
+                 from ../../../core/./net/ip/uip.h:86,
+                 from ../../../core/./net/ip/uip-udp-packet.h:43,
+                 from udp-sink.c:31:
+./project-conf.h:24:0: note: this is the location of the previous definition
+udp-sink.c: In function 'process_thread_udp_server_process':
+udp-sink.c:239:24: warning: unused variable 'root_if' [-Wunused-variable]
+  CC        collect-common.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from collect-common.c:40:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from collect-common.c:38:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  CC        ../../../platform/sky/./contiki-sky-main.c
+In file included from ../../../core/./net/ip/uip.h:86:0,
+                 from ../../../core/./net/llsec/llsec802154.h:57,
+                 from ../../../core/./net/mac/rdc.h:46,
+                 from ../../../core/./net/netstack.h:110,
+                 from ../../../platform/sky/./contiki-sky-main.c:43:
+../../../core/./net/ip/uipopt.h:158:0: warning: "UIP_LLH_LEN" redefined [enabled by default]
+In file included from ../../../platform/sky/./contiki-conf.h:217:0,
+                 from ../../../core/./contiki.h:38,
+                 from ../../../platform/sky/./contiki-sky-main.c:33:
+./project-conf.h:24:0: note: this is the location of the previous definition
+  LD        udp-sink.sky
+rm obj_sky/contiki-sky-main.o obj_sky/collect-common.o udp-sink.co
